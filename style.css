@@ -9,7 +9,7 @@ body {
 }
 header {
     margin: 0 auto;
-    width: 400px;
+    max-width: 400px;
     /* max-width: 400px; */
     text-transform: lowercase;
 }
