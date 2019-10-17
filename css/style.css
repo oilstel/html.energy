@@ -1,6 +1,6 @@
 *, *:before, *:after { box-sizing: border-box; }
 body, html {
-    background: #ffffff;
+    background: #fff;
     color: #b8b8b8;
 }
 body {
