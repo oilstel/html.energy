@@ -1,0 +1,20 @@
+*, *:before, *:after { box-sizing: border-box; }
+body, html {
+    background: #fff;
+    color: #b8b8b8;
+}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 1em;
+}
+.clear { clear: both; }
+a {
+    color: #000;
+}
+img {
+    max-width: 200px;
+    float: left;
+}
+p {
+    margin-bottom: 1em;
+}
