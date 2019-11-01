@@ -30,6 +30,7 @@ h1 {
     margin-bottom: 1em;
     font-weight: bold;
 }
+a { color: #b8b8b8; }
 .date {
     font-style: italic;
 }
