@@ -13,6 +13,13 @@ header {
     /* max-width: 400px; */
     text-transform: lowercase;
 }
+header p {
+    z-index: 9999;
+}
+#logo {
+    max-width: 100%;
+    z-index: -1;
+}
 main {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr) ) ;
@@ -56,7 +63,7 @@ hr {
     margin: 3em 0;
     width: 100%;
     height: 30px;
-    background: url(../images/star.svg) repeat;
+    background: url(../images/star.png) repeat;
     background-size: 10px 10px;
     background-repeat: repeat !important;
 }
@@ -67,7 +74,7 @@ h2::before {
     width: 15px;
     height: 15px;
     display: inline-block;
-    background: url(../images/star.svg) repeat;
+    background: url(../images/star.png) repeat;
     background-size: 100% 100%;
     background-repeat: repeat !important;
 }
