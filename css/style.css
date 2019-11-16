@@ -18,7 +18,6 @@ header p {
 }
 #logo {
     max-width: 100%;
-    z-index: -1;
 }
 main {
     display: grid;
