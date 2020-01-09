@@ -26,3 +26,8 @@ table, th, td {
     border-collapse: collapse;
     padding: 10px;
 }
+#button {
+    border: 1px solid #000;
+    padding: 10px;
+    border-radius: 6px;
+}
