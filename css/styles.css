@@ -1,0 +1,28 @@
+* { box-sizing: border-box; }
+html, body {
+    -webkit-font-smoothing: antialiased;
+    /* margin: 0;
+    padding: 0; */
+    line-height: 1.2;
+}
+header img {
+    width: 40px;
+}
+nav a {
+    color: #000;
+    text-decoration: none;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+.current { text-decoration: underline; }
+h1 {
+    /* text-decoration: underline; */
+    font-size: 4em;
+    margin: 0;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
