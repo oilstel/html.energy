@@ -1,0 +1,16 @@
+todo 022720:
+
+- finish site
+
+- do "ecosystem" section
+
+- do "resources" section
+
+- figure out how to syndicate podcast
+* https://lifehacker.com/how-to-start-your-own-podcast-1709798447
+* https://www.rev.com/blog/how-to-create-an-rss-feed-for-a-podcast
+
+- add a "now" page and see if they can publish it on https://nownownow.com
+
+- finish "how to view source" text file and maybe link it to homepage footer
+

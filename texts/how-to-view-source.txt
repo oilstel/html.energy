@@ -1,0 +1,24 @@
+To view the source code of any website...
+
+
+****************
+in Google Chrome
+****************
+
+In the top navigation, go to "View" then "Developer" then "View Source"
+
+(or press command + option + U)
+
+
+*********
+in Safari
+*********
+
+TK
+
+
+****************
+in Google Chrome
+****************
+
+TK
