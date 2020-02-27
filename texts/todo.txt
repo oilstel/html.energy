@@ -14,3 +14,6 @@ todo 022720:
 
 - finish "how to view source" text file and maybe link it to homepage footer
 
+- test mobile
+
+- test twitter
