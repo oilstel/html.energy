@@ -1,0 +1,110 @@
+[~15 second musical intro jingle composed by Madalyn Merkey]
+
+
+Laurel: Would you mind describing the room we’re sitting in?
+
+Becca: Sure. Okay, so we’re currently in the kitchen that we share in the home that we both live in. We’re at a pretty large wooden table. And there’s some flower arrangement on it. And our dog Amelia is running around, and you can probably hear her in the background. Yeah, there’s a clock on the wall, a plant behind me. That seems about right.
+
+L: So Becca, [dog toy squeaking] how do you tap into HTML energy?
+
+B: I guess I would say, as a graphic designer who makes websites, the way I use HTML energy is by this “from scratch” philosophy that I use for most of my projects. And by that I mean that I don’t like to use any templates or plugins or presets. And most of what I make relies on what’s already built into the browser. So most simply… HTML, CSS, and a little bit of javascript. And while I’m working, I kind of like to keep in mind that the word “website” feels intimidating to a lot of people, like it has to be this big, app-like monster. When in reality you could just put the word “hi” into a text file and call it “index.html” and upload it to your server, and you have a website. So I think remembering that the origins of the web are in extreme simplicity… [dog sounds] Amelia the diva... extreme simplicity, keeping in mind that all we’re doing on the web is really sharing text files with each other. And that everything on top is ornamental styling.
+
+L: Could you tell me what your current personal website is like and how you made it?
+
+B: Oh yeah, so that would be http://cdxs.ist. Or “c-d-x-s-ist” or as someone once put it, “could exist.” That site is sort of my professional portfolio, in a sense. Although it’s a bit abstract. I’ve always struggled with how to display my work online. In terms of getting more paying work. I think that’s seen as a need for a lot of people. To put yourself out there in a hire-able way. And this is my solution to doing that. So currently it’s a landing page that has a little JavaScript animation. In my entry point, I wanted to display something cool I programmed, and it’s sort of silly and kind of lame now, but I haven’t changed it in years. And that’s just how it is. And from there, there’s a simple project list of the websites I’ve programmed as links, and then some supplemental text-based descriptions of things that aren’t online. And then I have something called “Stream” which is a blog. My intention for “Stream” was to post things as I’m working on them. I guess the purpose of this website was to make my work really transparent… and I really wanted to show things that were in progress, or maybe never to be finished. Or they were finished, and I wanted to show the research and sketches that went into it. The idea with stream has yet to be fully realized, but it would be that I would post things really frequently as I was going and be sharing things at a stage when most people don't share the work. Kind of a “live stream” of what it’s like to see a project from beginning to end. And it’s something that I don’t share on other networks, and it’s supposed to be like you would just have stumbled upon it and have found this secret where you could look through my files in a way, in kind of an intrusive way. And I still want it to be that someday, but it’s hard to maintain. And actually the thing about Stream that holds me up is doing photography work for a lot of projects. My offline projects have to be documented with some sort of photography, so I do a lot of iPhone shots and screenshots, but there’s a backlog of some items I need to do some more professional photo work on, so that’s kind of holding Stream back at the moment. If you go there currently it’s a bit out of date, which I think is the blogger’s lament. The “sorry I haven't updated in a while” post. 
+
+L: Yeah I love the stream. Long live the stream. I really like that idea that you would be posting to the stream at times when people normally wouldn’t post projects. Not only while you’re doing them, but also the aftermath when most people move onto the next project.
+
+B: That’s true, sometimes a project or a brand you created will take on a life you hadn’t foreseen. And you’ll see applications of it in really cool ways you didn’t expect. I think that’s also important to document, the life after publishing. 
+
+L: How do you make a change to your website or go about updating it? What’s your workflow like?
+
+B: I’m a big fan of Kirby CMS. That’s kind of the only non-browser-integrated library I use. My website’s built on Kirby, so that makes updating super simple. I think the most important thing about any website is whatever system you’re using to update—it can’t be holding you back from posting. The ease of uploading is the most important. So for me, that means Kirby. I can basically post from anywhere. It even works on my phone, I just have to login to the backend. I created the post type, but it’s really simple. I think it’s just a text container and an image field, or an image drop area. I said before that photography is what’s holding me back right now, and I’m happy that it’s documentation holding me back and not “I forgot my FTP password” or something. I’m pretty pleased with the maintenance aspect of the website. The design itself is really straightforward. There’s not really much I would want to change about that in terms of modifying it for the future. To me it’s pretty done in terms of the system and the layout.
+
+L: If you could bring one website back from the dead, what would it be?
+
+B: I’ve been thinking in the past few weeks a lot about the site homestarrunner.com. If anyone is unfamiliar, that was a web-cartoon website from the early 2000s. At its peak, it was one of the most visited sites on the internet—very popular. It’s kind of a silly example, but the more I think about it lately, the more it was actually a super revolutionary idea; it was this contained fictional world inside a website. I was looking at the Wikipedia entry recently, and I was reading about how the entire brand and franchise was all word of mouth. They never advertised; they never had advertising on their site. It was completely funded by merch sales. It’s incredible to me that something so popular could be so pure. 
+
+L: Was it Flash-based?
+
+B: It was Flash, yeah. It’s actually still online. You can look at it, but I would consider it a dead site. It’s not updated, and then also Flash is deprecated I think December 2020. 
+
+L: In all browsers? 
+
+B: I think yeah. I’m not quite sure how that works. I think we won’t be able to access Homestar in 2021. 
+
+L: [laughs] Oh no...
+
+B: It was fascinating how it created this really immersive world that you would have to keep checking back to see if anything had been added or updated, and there were a lot of easter eggs as well. It’s this idea I haven’t seen duplicated, or at least not successfully, to create this really active website that is just a fiction you can be lost in and become a fan of. I’ve been thinking about this as well lately—the kind of site that you have to go to frequently doesn’t exist anymore really. There’s Twitter, Facebook, Instagram—we go there often to check our feeds. But it’s not the same as going to a specific URL that is giving you a channel...
+
+L: Like a consistent world?
+
+B: Yeah. It’s hard to explain. When we go to twitter.com we know we’re going to see something new displayed there because the feed will have updated, but it’s not like the site itself is changing. We know what to expect when we log on there. I think this idea of visiting a world, an enclosed world, that idea hasn’t been pushed further since Homestar. [laughs]
+
+L: Speaking of the past and future, what do you imagine your own website looking like in 10 years?
+
+B: Wow. That’s, what, 2029? Whew. Knowing me it probably won't have changed very much. [laughing] A lot of people have been saying “do we even need personal websites anymore?” But I strongly believe we do, and I think I'll still have www.cdxs.ist then, in some form. I don’t know, by then I might have killed off all the project aspect of it and made it just a poetry blog or something, who knows. Maybe one day I’ll change the background color from tan to olive. 
+
+L: So, Becca, if you didn’t make websites, how would you spend that energy?
+
+B: Well, you know, making websites isn’t the only thing I do [laughing]. 
+
+L: Right, pardon me.
+
+B: But yeah, sure, that extra energy that I was spending on websites...
+
+L: Yeah. Or maybe the question is more identifying what role websites fill in your life… ?
+
+B: Right now I’m still very much learning code as I go. I’ve always been self-taught and just sort of learning how to make out of necessity. So to me, the most exciting part of code is figuring out something new I haven’t tried before. Seeing it work is really satisfying and exciting. And I think that feeling can be applied to any hobby or skill or job you do. I’m trying to think of what I’ve wanted to make but felt like I lacked the know-how... Oh, I know... [laughing]... I tweeted this the other day: I want to make lamps. 
+
+L: Ooh...
+
+L: I said “dream job: lamp maker,” and I meant it. I think a lamp is the most beautiful, useful object. It’s a sculpture that creates light and brings life to a room, and I want to learn how to make good lamps. I feel like anyone could make a lamp. You just go to Home Depot and buy one of those lightbulbs on a wire. But to make a beautiful lamp that works really well seems like the unattainable dream that you could spend your life working on. 
+
+L: Wow. That’s funny—I don’t know if I ever told you— but I always wanted to have a lighting store. I guess like a curator of lamps...
+
+B: Oh my god... 
+
+L: So maybe I could... 
+
+B: Let's work together...
+
+L: Yeah, I would call it “Laurel's Lights”
+
+B: I love that. Yeah, light up your life. 
+
+L: I wanted to ask you about a specific project you made in the past. It was maybe a year or so ago that you created your very own social network. 
+
+B: Petal...
+
+L: Yeah, can you tell me about Petal?
+
+B: Petal is my pet project and my most neglected child. I have a lot of love for Petal, but it’s been pretty dormant since January probably (shed a small tear). Petal is a group blog in its essence. It’s another Kirby I created that’s specifically programmed to allow an unlimited amount of users. It was an experiment to see how far you could push the limits of Kirby to allow—well I would say thousands, but right now I think the user count is about 30 or 40 people—but to allow them to maintain their content side by side and have it run smoothly and push the back-end in a way that it wasn’t quite meant to be used. Although who knows, maybe it was. It’s a pretty open sketch-book, in a way. You can email me for an account, although I haven’t been responding to those emails, so I’m sorry if you’ve requested a Petal account and haven't been granted one. I’ll get on that. But anyone in theory can request an account and log in and post really anything they want. There’s an anonymous user that’s an open login; I believe the password is SUNFLOWER—all caps—if you want to get in there. It’s written out if you go to the anonymous user profile page; it’s very clearly stated the password is SUNFLOWER. So it’s no secret. I just kind of wanted to create it and put it up and see what happens. The first few months were really fruitful and exciting. I think there was a lot of “petal energy” happening, if you will. I was really, really pleased with the results in that anyone at all was interested in joining, and I think even some friendships were formed there. Petal has seen the premiere of a music video. I can’t think of any other notable actions... It’s fun because I get to play this role of “admin,” which I think is pretty performative. I’m “CDXS,” and I’m also “admin” and at times I’m “anon” as well. It's fun to create your petal persona. The inspiration, or the model, that it’s based on is that of the community garden in that everyone is responsible for maintaining the space and keeping the general feeling really positive and open. Sharing information, exciting news, or interesting photos, any kind of odds and ends that might not find a home on other platforms are always welcome on Petal. But yeah, right now I just lost the momentum on a couple maintenance things. It overwhelmed me to be responsible for this thing that could spiral out of my control. I listened to a podcast about the origins of incel. The word “incel” actually comes from this really nurturing community created by this queer woman in Canada. She created this community to be a safe space for people, but then it got co-opted by these reddit trolls and became this negative word it is today. That kind of scared me, in a way, that I could create something and essentially abandon it, that’s what happened to this person, and without my knowledge it could become something toxic and evil. And not that I saw that for Petal, but you never know. So I just took a step back before it got any bigger. But now I’ve been thinking about Petal a lot. I re-opened the Twitter account, Petal Updates and posted, “Does Petal need water?” … just asking.
+
+L: Did you get any replies?
+
+B: Yeah, people think it needs water. Petal’s always been “Petal Beta” in the header. I kind of want to kill off “Petal Beta” and create “Petal 2.” And have it be based on the same principles, but build it fresh knowing what I know now, Petal B.
+
+L: Jumping from Beta to Two…
+
+B: (Petal) 1 is a good name too.  I think Petal 2 has a good ring…
+
+L: Yeah, agreed
+
+B: Yeah, I’d be open to including more people in the development of Petal 2. I know there are a lot of Petal fans out there who would want to see it come back.
+
+L: So if you could describe your own energy in just one word, what word would you use?
+
+B: This question is really hard. One word has to be so specific. But I think the word I would go with at this moment is “gel.”
+
+L: “gel”
+
+B: Yeah, I think my energy is “gel” because I require others to activate. I’m really inspired and driven by the people around me. My work in general is very collaborative. Even my client based work—I view them as collaborators and not bosses. I think it’s really important to combine with others to make something bigger than what your brain is capable of. You need that gel energy. It’s a malleable, amorphous shape. Gel can fit into any situation. Sometimes I think of myself as a “tool in a toolbox” you can hire. Kind of like fill in the parts you’re working on that I can be useful for.
+
+L: Cool. Well, thanks for being on the podcast.
+
+B: Oh my gosh, it’s been a pleasure.
+
+[~2 minute musical outro composed by Madalyn Merkey]
+
+L: You just heard from Becca Abbe who’s a designer working under the name Cdxs, LLC, where she offers services of typesetting, branding, programming, print, and digital. You can visit Becca’s website at www.cdxs.ist. And thanks to listening to our inaugural HTML Energy podcast episode. And special thanks to sound artist Madalyn Merkey for composing our HTML Energy intro and outro jingles. See you next week.

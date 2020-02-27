@@ -1,0 +1,39 @@
+body {
+  line-height: 1.3;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* a:visited{
+  color:olivedrab;
+} */
+
+a.button {
+  display: inline-block;
+  background: white;
+  color: black;
+  border: 1px solid #d1d1d1;
+  /* border-bottom-color: #BABABA; */
+  text-decoration: none;
+  padding: 0.5em 0.8em;
+  border-radius: 1.5em;
+  margin: 0 0.2em 0.75em;
+}
+
+a.button.meta {
+  font-family: monospace;
+  padding: 0.5em 0.8em;
+  border-radius: 0;
+  margin: 0;
+}
+
+audio {
+  width: 100%;
+}
+
+footer {
+  margin-top: 3em;
+  font-size: 0.8em;
+}

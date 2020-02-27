@@ -1,0 +1,208 @@
+
+.quote {
+  text-align: center;
+  /* font-style: italic; */
+  margin-bottom: 3em;
+}
+
+.container {
+  max-width: 640px;
+  margin: 1em auto;
+  padding: 1em;
+  font-family: serif;
+  text-align: center;
+  font-size: 18px;
+}
+
+.small-star {
+  max-width: 42px;
+  display: inline-block;
+  margin-bottom: 1em;
+}
+
+p.html-energy {
+  text-align: center;
+  font-size: 0.75em;
+  letter-spacing: 0.05em;
+  margin-bottom: 1.75em;
+  text-transform: uppercase;
+  /* -webkit-animation: breathing 10s ease-out infinite; */
+}
+
+p.html-energy a {
+  color: black;
+}
+
+a.podcast {
+  text-decoration: none;
+  color: black;
+}
+
+#big-star,
+.star {
+  -webkit-animation: rotating 100s linear infinite;
+}
+
+@-webkit-keyframes breathing {
+    0% {
+        letter-spacing: 0.025em;
+    }
+    50% {
+        letter-spacing: 0.2em;
+    }
+    1000% {
+        letter-spacing: 0.025em;
+    }
+}
+
+@-webkit-keyframes rotating {
+    from{
+        -webkit-transform: rotate(0deg);
+    }
+    to{
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+nav {
+  text-align: center;
+  margin-bottom: 2em;
+  margin-left: -2em;
+  margin-right: -2em;
+}
+
+
+a.button.current {
+  background: #F1F3F4;
+}
+
+.energy {
+  font-size: .75em;
+  margin-top: .25em;
+}
+
+table {
+  width: 100%;
+}
+
+table, tr, td {
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid #d1d1d1;
+  width: 33.33333%;
+  padding: 1em;
+  vertical-align: top;
+}
+
+td.event-info {
+  width: 66.667%;
+}
+
+.gradient {
+  height: 123px;
+  width: 123px;
+  margin: 0 auto;
+}
+
+.question {
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e0e0e0+3,ffffff+70&1+2,0+70 */
+background: -moz-radial-gradient(center, ellipse cover,  rgba(224,224,224,1) 2%, rgba(224,224,224,0.99) 3%, rgba(255,255,255,0) 70%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover,  rgba(224,224,224,1) 2%,rgba(224,224,224,0.99) 3%,rgba(255,255,255,0) 70%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center,  rgba(224,224,224,1) 2%,rgba(224,224,224,0.99) 3%,rgba(255,255,255,0) 70%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0e0e0', endColorstr='#00ffffff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+
+.becca {
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#7ae6f4+3,ffffff+70&1+2,0+70 */
+background: -moz-radial-gradient(center, ellipse cover,  rgba(122,230,244,1) 2%, rgba(122,230,244,0.99) 3%, rgba(255,255,255,0) 70%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover,  rgba(122,230,244,1) 2%,rgba(122,230,244,0.99) 3%,rgba(255,255,255,0) 70%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center,  rgba(122,230,244,1) 2%,rgba(122,230,244,0.99) 3%,rgba(255,255,255,0) 70%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7ae6f4', endColorstr='#00ffffff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+
+.question-text {
+  height: 2em;
+}
+
+footer {
+  height: 4em;
+}
+
+td.about {
+  text-align: left;
+  margin-top: 0;
+}
+
+td.about p:first-child {
+  margin-top: 0;
+}
+
+td.about p:last-child {
+  margin-bottom: 0;
+}
+
+td.accordion {
+  text-align: left;
+  padding: 0;
+}
+
+td.accordion summary {
+  padding: 1em;
+  cursor: pointer;
+}
+
+td.accordion .content {
+  padding: 1em;
+  border-top: 1px solid #d1d1d1;
+}
+
+.meta {
+  font-family: monospace;
+}
+
+a.link {
+  margin: 0 0.25em;
+}
+
+table.diary {
+  text-align: left;
+}
+
+table.diary summary {
+  background: #e8e8e8;
+  background: #F1F3F4;
+}
+
+table.diary .content.table-inside {
+  padding: 0;
+}
+
+table.diary .content td {
+  border: 0;
+}
+
+table.diary .content td:first-child {
+  border-right: 1px solid #D1D1D1;
+}
+
+time {
+  /* float: right; */
+  color: #D1D1D1;
+  margin-top: 2em;
+  display: block;
+}
+
+.content {
+  position: relative;
+}
+
+#star {
+  color: #D1D1D1;
+  position: absolute;
+  right: 1em;
+  bottom: 1em;
+}
