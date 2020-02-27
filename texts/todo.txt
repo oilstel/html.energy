@@ -14,3 +14,24 @@ todo 022720:
 
 - finish "how to view source" text file and maybe link it to homepage footer
 
+- comment the source code so it's helpful
+
+- add alt text to all pictures
+
+- test mobile
+
+- start patreon account / link to bottom of podcast page
+
+getting started
+
+if more people learned how to self-publish on the www,
+
+- add snippets from radio with faye to podcast page
+
+- add t-shirt to site
+
+***
+
+SANDBOX
+
+html energy is not funded by anyone. obscured and denounced especially in recent times, we simply think html energy is something that people in the world should notice and appreciate. we dream of a world in which all people can self-publish to the web and wouldn't be as reliant on big social media platforms that use and sell our data and memories.

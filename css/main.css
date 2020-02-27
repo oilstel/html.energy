@@ -1,3 +1,6 @@
+img {
+  max-width: 100%;
+}
 
 .quote {
   text-align: center;
@@ -33,9 +36,16 @@ p.html-energy a {
   color: black;
 }
 
+td.link {
+  padding: 0;
+}
+
+
 a.podcast {
   text-decoration: none;
+  display: block;
   color: black;
+  padding: 1em;
 }
 
 #big-star,
@@ -160,6 +170,21 @@ td.accordion .content {
   border-top: 1px solid #d1d1d1;
 }
 
+#podcast-info {
+  border-top: 1px solid #d1d1d1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+}
+
+#podcast-info div {
+  padding: 1em;
+}
+
+#podcast-info div:first-child {
+  border-right: 1px solid #d1d1d1;
+}
+
 .meta {
   font-family: monospace;
 }
@@ -205,4 +230,40 @@ time {
   position: absolute;
   right: 1em;
   bottom: 1em;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+@media only screen and (max-width: 1000px) {
+
+  nav {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  a.button {
+    margin: 0 0.2em 0.6em;
+  }
+
+  a.podcast {
+    font-size: 0.75em;
+  }
+
+  .energy {
+    margin-top: 0;
+    opacity: 0.4;
+  }
+
+  #podcast-info {
+    display: block;
+  }
+
+  #podcast-info div:first-child {
+    border-right: 0;
+    border-bottom: 1px solid #d1d1d1;
+  }
+
+
 }
