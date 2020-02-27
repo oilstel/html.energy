@@ -20,11 +20,9 @@ todo 022720:
 
 - test mobile
 
+- test twitter
+
 - start patreon account / link to bottom of podcast page
-
-getting started
-
-if more people learned how to self-publish on the www,
 
 - add snippets from radio with faye to podcast page
 
