@@ -6,9 +6,9 @@ img {
   max-width: 100%;
 }
 
-/* a:visited{
-  color:olivedrab;
-} */
+h1 {
+  margin-top: 0.5em;
+}
 
 a.button {
   display: inline-block;
