@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HTML Energy</title>
+    <link>https://www.apple.com/itunes/podcasts/</link>
+    <language>en-us</language>
+    <copyright>© 2020 HTML Energy</copyright>
+    <itunes:author>❇️</itunes:author>
+    <description>
+      HTML energy is all around us and in every website. Building websites has become complex, but the energy of HTML persists. What makes HTML special is its simplicity. HTML isn’t a vast language, yet you can do a lot with it. Anyone who wants to publish on the web can write HTML. This accessibility and ease of use is where its energy resides. In this podcast, we talk to people about their relationship with HTML energy—how they first encountered it, how they harness it, and where it's going. Who's writing HTML today?
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>HTML Energy</itunes:name>
+      <itunes:email>html.energy@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://html.energy/images/star.png"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Writing"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>interview</itunes:episodeType>
+      <itunes:title>Becca Abbe</itunes:title>
+      <description>
+        <content:encoded>
+          <![CDATA[Becca Abbe (<a href="http://cdxs.ist">http://cdxs.ist</a>) is a designer based in New York whose practice Cdxs, LLC focuses on typesetting, branding, programming, print, and digital. This episode was originally recorded inside Becca, Laurel, and Amelia’s home on November 9, 2019. ]]>
+        </content:encoded>
+      </description>
+      <enclosure length="498537" type="audio/mpeg" url="http://html.energy/sounds/becca.mp3"/>
+      <guid>aae20190418</guid>
+      <pubDate>Fri, 28 Feb 2020 08:00:00 EST</pubDate>
+      <itunes:duration>1466</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss

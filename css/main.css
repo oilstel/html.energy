@@ -226,10 +226,14 @@ time {
 }
 
 #star {
-  color: #D1D1D1;
+  color: #e4e4e4;
   position: absolute;
   right: 1em;
   bottom: 1em;
+}
+
+#star.angle {
+  /* transform: rotate(45deg); */
 }
 
 .cursive {
