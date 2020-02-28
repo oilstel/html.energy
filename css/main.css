@@ -269,10 +269,6 @@ h1.tiny a {
     margin: 0 0.2em 0.6em;
   }
 
-  a.podcast {
-    font-size: 0.75em;
-  }
-
   .energy {
     margin-top: 0;
     opacity: 0.4;
@@ -287,5 +283,18 @@ h1.tiny a {
     border-bottom: 1px solid #d1d1d1;
   }
 
+}
+
+@media only screen and (max-width: 500px) {
+
+  .container {
+    padding-right: 0.25em;
+    padding-left: 0.25em;
+  }
+
+  a.podcast {
+    padding: 0.25em;
+    padding-bottom: 0.75em;
+  }
 
 }
