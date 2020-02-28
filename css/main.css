@@ -252,6 +252,10 @@ h1.tiny a {
   /* border-bottom: 1px solid #d1d1d1; */
 }
 
+.caption {
+  font-size: 0.75em;
+}
+
 @media only screen and (max-width: 1000px) {
 
   nav {
