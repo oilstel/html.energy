@@ -15,6 +15,7 @@ img {
   font-family: serif;
   text-align: center;
   font-size: 18px;
+  overflow: hidden;
 }
 
 .small-star {
@@ -238,6 +239,17 @@ time {
 
 .cursive {
   font-family: cursive;
+}
+
+h1.tiny {
+  font-size: 1em;
+  font-weight: normal;
+}
+
+h1.tiny a {
+  color: black;
+  text-decoration: none;
+  /* border-bottom: 1px solid #d1d1d1; */
 }
 
 @media only screen and (max-width: 1000px) {
