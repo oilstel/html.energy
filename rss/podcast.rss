@@ -7,12 +7,16 @@
     <copyright>© 2020 HTML Energy</copyright>
     <itunes:author>❇️</itunes:author>
     <description>
-      HTML energy is all around us and in every website. Building websites has become complex, but the energy of HTML persists. What makes HTML special is its simplicity. HTML isn’t a vast language, yet you can do a lot with it. Anyone who wants to publish on the web can write HTML. This accessibility and ease of use is where its energy resides. In this podcast, we talk to people about their relationship with HTML energy—how they first encountered it, how they harness it, and where it's going. Who's writing HTML today?
+      HTML energy is all around us and in every website. Building websites has become complex, but the energy of HTML persists. What makes HTML special is its simplicity. HTML isn’t a vast language, yet you can do a lot with it. Anyone who wants to publish
+      on the web can write HTML. This accessibility and ease of use is where its energy resides. In this podcast, we talk to people about their relationship with HTML energy—how they first encountered it, how they harness it, and where it's going. Who's
+      writing HTML today?
     </description>
     <itunes:summary>
-      HTML energy is all around us and in every website. Building websites has become complex, but the energy of HTML persists. What makes HTML special is its simplicity. HTML isn’t a vast language, yet you can do a lot with it. Anyone who wants to publish on the web can write HTML. This accessibility and ease of use is where its energy resides. In this podcast, we talk to people about their relationship with HTML energy—how they first encountered it, how they harness it, and where it's going. Who's writing HTML today?
+      HTML energy is all around us and in every website. Building websites has become complex, but the energy of HTML persists. What makes HTML special is its simplicity. HTML isn’t a vast language, yet you can do a lot with it. Anyone who wants to publish
+      on the web can write HTML. This accessibility and ease of use is where its energy resides. In this podcast, we talk to people about their relationship with HTML energy—how they first encountered it, how they harness it, and where it's going. Who's
+      writing HTML today?
     </itunes:summary>
-    <itunes:type>dream</itunes:type>
+    <itunes:type>serial</itunes:type>
     <itunes:owner>
       <itunes:name>HTML Energy</itunes:name>
       <itunes:email>html.energy@gmail.com</itunes:email>
@@ -23,18 +27,36 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Becca Abbe</title>
+      <link>
+        http://html.energy/becca.html
+      </link>
+      <description>
+        <![CDATA[
+<p>Becca Abbe (<a href="http://cdxs.ist">http://cdxs.ist</a>) is a designer based in New York whose practice Cdxs, LLC focuses on typesetting, branding, programming, print, and digital. This episode was originally recorded inside Becca, Laurel, and Amelia’s home on November 9, 2019.</p>
+]]>
+      </description>
+      <author>HTML Energy</author>
+      <pubDate>Fri, 28 Feb 2020 08:00:00 EST</pubDate>
+      <enclosure url="http://html.energy/sounds/becca.mp3" length="35582307" type="audio/mpeg"/>
+      <guid isPermaLink="false">898F3A38-96DA-4B24-B676-157B2462A6DF</guid>
+      <itunes:author>
+        Becca Abbe & Laurel Schwulst
+      </itunes:author>
+      <itunes:summary>
+        Becca Abbe
+      </itunes:summary>
+      <itunes:image href="http://html.energy/images/becca-gel.png"/>
+      <itunes:duration>24:27</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
       <itunes:episodeType>interview</itunes:episodeType>
       <itunes:title>Becca Abbe</itunes:title>
-      <description>
-        <content:encoded>
-          <![CDATA[Becca Abbe (<a href="http://cdxs.ist">http://cdxs.ist</a>) is a designer based in New York whose practice Cdxs, LLC focuses on typesetting, branding, programming, print, and digital. This episode was originally recorded inside Becca, Laurel, and Amelia’s home on November 9, 2019. ]]>
-        </content:encoded>
-      </description>
-      <enclosure length="498537" type="audio/mpeg" url="http://html.energy/sounds/becca.mp3"/>
-      <guid>aae20190418</guid>
-      <pubDate>Fri, 28 Feb 2020 08:00:00 EST</pubDate>
-      <itunes:duration>1466</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>
+        <![CDATA[
+  <p>Becca Abbe (<a href="http://cdxs.ist">http://cdxs.ist</a>) is a designer based in New York whose practice Cdxs, LLC focuses on typesetting, branding, programming, print, and digital. This episode was originally recorded inside Becca, Laurel, and Amelia’s home on November 9, 2019.</p>
+  ]]>
+      </content:encoded>
     </item>
   </channel>
 </rss>
