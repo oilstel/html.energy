@@ -254,6 +254,8 @@ h1.tiny a {
 
 .caption {
   font-size: 0.75em;
+  margin-top: 0.25em;
+  margin-bottom: 0.5em;
 }
 
 @media only screen and (max-width: 1000px) {
