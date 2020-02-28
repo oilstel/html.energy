@@ -21,7 +21,7 @@
       <itunes:name>HTML Energy</itunes:name>
       <itunes:email>html.energy@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://html.energy/images/star.png"/>
+    <itunes:image href="http://html.energy/images/star-large.png"/>
     <itunes:category text="Technology">
       <itunes:category text="Writing"/>
     </itunes:category>
