@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>HTML Energy</title>
-    <link>https://www.apple.com/itunes/podcasts/</link>
+    <link>http://html.energy</link>
     <language>en-us</language>
     <copyright>© 2020 HTML Energy</copyright>
     <itunes:author>❇️</itunes:author>
@@ -12,7 +12,7 @@
     <itunes:summary>
       HTML energy is all around us and in every website. Building websites has become complex, but the energy of HTML persists. What makes HTML special is its simplicity. HTML isn’t a vast language, yet you can do a lot with it. Anyone who wants to publish on the web can write HTML. This accessibility and ease of use is where its energy resides. In this podcast, we talk to people about their relationship with HTML energy—how they first encountered it, how they harness it, and where it's going. Who's writing HTML today?
     </itunes:summary>
-    <itunes:type>serial</itunes:type>
+    <itunes:type>dream</itunes:type>
     <itunes:owner>
       <itunes:name>HTML Energy</itunes:name>
       <itunes:email>html.energy@gmail.com</itunes:email>
