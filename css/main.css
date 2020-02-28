@@ -41,8 +41,8 @@ td.link {
   padding: 0;
 }
 
-
-a.podcast {
+a.podcast,
+.podcast {
   text-decoration: none;
   display: block;
   color: black;
@@ -292,7 +292,8 @@ h1.tiny a {
     padding-left: 0.25em;
   }
 
-  a.podcast {
+  a.podcast,
+  .podcast {
     padding: 0.25em;
     padding-bottom: 0.75em;
   }
