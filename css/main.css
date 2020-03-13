@@ -164,6 +164,7 @@ td.accordion {
 td.accordion summary {
   padding: 1em;
   cursor: pointer;
+  position: relative;
 }
 
 td.accordion .content {
@@ -194,24 +195,27 @@ a.link {
   margin: 0 0.25em;
 }
 
-table.diary {
+table.accordion-container {
   text-align: left;
 }
 
 table.diary summary {
   background: #e8e8e8;
-  background: #F1F3F4;
 }
 
-table.diary .content.table-inside {
+/* table.join summary {
+  background: #dcf3d8;
+} */
+
+table.accordion-container .content.table-inside {
   padding: 0;
 }
 
-table.diary .content td {
+table.accordion-container .content td {
   border: 0;
 }
 
-table.diary .content td:first-child {
+table.accordion-container .content td:first-child {
   border-right: 1px solid #D1D1D1;
 }
 
@@ -257,6 +261,94 @@ h1.tiny a {
   margin-top: 0.25em;
   margin-bottom: 0.5em;
 }
+
+/* .tiers-grid {
+  border: 1px solid #d1d1d1;
+}
+
+.tiers-grid .tier {
+  display: grid;
+  grid-template-columns: 60px 1fr 5fr;
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.tiers-grid .tier > div {
+  border-right: 1px solid #d1d1d1;
+  padding: 10px;
+}
+
+.tier .type {
+  font-family: Courier, 'Courier New', monospace;
+  font-size: 16px;
+} */
+
+.content .join a {
+  color: #000;
+  text-decoration: none;
+}
+
+.content .join a:hover {
+  background-color: #f0f0f0;
+}
+
+.content .join a, .content .join-info {
+  padding: 8px;
+}
+
+.content .join {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  border: 1px solid #d1d1d1;
+  border-radius: 7px;
+}
+
+.content .join .info {
+  color: #a1a1a1;
+}
+
+.content .join a {
+  border-right: 1px solid #d1d1d1;
+}
+
+.content a.join:hover {
+  background-color: #f0f0f0;
+}
+
+.content ul {
+  margin: 0;
+  padding: 0 0 0 1em;
+}
+
+.tier-star {
+  background-size: 80%;
+  background-position: center;
+  padding: 0 !important;
+  background-repeat: no-repeat;
+  display: block;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 4px;
+  right: 4px;
+}
+
+.banner {
+  margin-bottom: 1.5em;
+}
+
+.description ul {
+  padding: 0;
+  padding-left: 1em;
+  margin: 0;
+}
+
+.green-star {background-image: url('../images/star-1-green.png');}
+.bronze-star {background-image: url('../images/star-3-bronze.png');}
+.silver-star {background-image: url('../images/star-2-silver.png');}
+.gold-star {background-image: url('../images/star-4-gold.png');}
+
+/* .tiers-grid .tier .tier-energy {max-width: 100px;} */
+.tiers-grid .tier:last-child, .tiers-grid .tier > div:last-child {border: 0;}
 
 @media only screen and (max-width: 1000px) {
 
