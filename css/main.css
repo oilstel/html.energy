@@ -282,32 +282,15 @@ h1.tiny a {
   font-size: 16px;
 } */
 
-.content .join a {
+.content a.join {
   color: #000;
   text-decoration: none;
-}
-
-.content .join a:hover {
-  background-color: #f0f0f0;
-}
-
-.content .join a, .content .join-info {
   padding: 8px;
-}
-
-.content .join {
-  display: grid;
-  grid-template-columns: max-content 1fr;
   border: 1px solid #d1d1d1;
   border-radius: 7px;
-}
-
-.content .join .info {
-  color: #a1a1a1;
-}
-
-.content .join a {
-  border-right: 1px solid #d1d1d1;
+  width: 100%;
+  display: block;
+  text-align: center;
 }
 
 .content a.join:hover {
@@ -330,6 +313,14 @@ h1.tiny a {
   position: absolute;
   top: 4px;
   right: 4px;
+}
+
+.price {
+  position: absolute;
+  top: 19px;
+  right: 60px;
+  font-style: italic;
+  color: #7c7c7c;
 }
 
 .banner {
