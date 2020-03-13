@@ -23,6 +23,38 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Tom Bubul</title>
+      <link>
+        http://html.energy/tom.html
+      </link>
+      <description>
+        <![CDATA[
+<p>Tom Bubul (<a href="http://tombubul.info">http://tombubul.info</a>) is an artist. This episode was originally recorded in the Columbia Street Waterfront District, Brooklyn, on November 11, 2019.</p>
+]]>
+      </description>
+      <author>HTML Energy</author>
+      <pubDate>Fri, 13 Mar 2020 08:00:00 EST</pubDate>
+      <enclosure url="http://html.energy/sounds/becca.mp3" length="29440339" type="audio/mpeg"/>
+      <guid isPermaLink="false">898F3A38-96DA-4B24-B676-157B2462A6DF</guid>
+      <itunes:author>
+        Tom Bubul, Laurel Schwulst, and Elliott Cost
+      </itunes:author>
+      <itunes:summary>
+        Tom Bubul
+      </itunes:summary>
+      <itunes:image href="http://html.energy/images/tom-bathing-small.png"/>
+      <itunes:duration>22:38</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>interview</itunes:episodeType>
+      <itunes:title>Tom Bubul</itunes:title>
+      <content:encoded>
+        <![CDATA[
+<p>Tom Bubul (<a href="http://tombubul.info">http://tombubul.info</a>) is an artist. This episode was originally recorded in the Columbia Street Waterfront District, Brooklyn, on November 11, 2019.</p>
+]]>
+      </content:encoded>
+    </item>
+    <item>
       <title>Becca Abbe</title>
       <link>
         http://html.energy/becca.html
@@ -33,7 +65,7 @@
 ]]>
       </description>
       <author>HTML Energy</author>
-      <pubDate>Fri, 28 Feb 2020 08:00:00 EST</pubDate>
+      <pubDate>Fri, 6 Mar 2020 08:00:00 EST</pubDate>
       <enclosure url="http://html.energy/sounds/becca.mp3" length="35582307" type="audio/mpeg"/>
       <guid isPermaLink="false">898F3A38-96DA-4B24-B676-157B2462A6DF</guid>
       <itunes:author>

@@ -1,8 +1,111 @@
 [~15 second musical intro jingle composed by Madalyn Merkey]
 
-
 Laurel: How do you tap into HTML energy yourself?
 
-Tom: I think my ability to do things directly, from the hand, is HTML energy. I like to accomplish tasks. And do what I need to do ... during the course of my Thursdays, Tuesdays, and so forth. So whenever something seems like I can do it, and I just do it...
+Tom: I think my ability to do things directly, from the hand, is HTML energy. I like to feel able to accomplish tasks. And to do what I need to do during the course of my Thursdays, Tuesdays, and so forth. So whenever something seems like I can do it, and I just do it, the transition from thinking I can to trying is maybe the moment of activating what we're going to call HTML Energy. Which I think is activated through belief in my ability to do things for the purpose at hand or something. Does that answer your question?
 
-More to come!!! :)
+L: Yeah, the core of it is transfer.
+
+T: Yeah, and self-reliance and comfort with the limits of capability. Understanding that on the internet any number of incredible things are possible, especially with deeper skill than I have, given that web development isn’t the center of my creative practice, or my professional life. To be able to make a functional, practical website that I see myself in that’s none the less not perfect, that’s to the task at hand… that’s what I see as the center of it.
+
+L: Cool. Speaking of your site, could you tell us about your current personal website and how you made it?
+
+[laughing]
+
+T: Yeah, definitely. It’s authored by hand in Notepad and sometimes in Sublime… the two text-editors I’m sure any listener to this recording will be familiar with. [Tom noises] It's maybe the hundredth iteration of personal website over the years. Previous ones were CMS-y or had a backend of some kind and gestured at my idea or made reference to which at the time of what a "Serious" personal artist’s website should be or look like. I think what those websites, like indexhibits or some Wordpresses or whatever static site generator things, what they missed as websites or misrepresented on the level of the website, also, in retrospect, misrepresented the way that I’m not contained by any particular thing that I’m doing as an artist. I make paintings or write sometimes, but I wouldn’t identify as a doer of one of those media. I identify very generically as an artist. It became important over time, at least in this most recent iteration, which started four or five years ago, to make a website that was capable of containing all the different stuff that I do in a chaotically honest way that is true to me before it’s trying to demonstrate that I’m something else or some other way that’s easier to recognize or understand. There’s an impracticality at the center of it that is part of it in studio for me as well. Does that answer your question?
+
+L: I think so, yeah…
+
+Elliott: You’re talking about WordPress and these other static site-generators, other CMSs, as not being as direct as HTML. Do you find HTML because of its directness lends to your work better?
+
+T: Yeah absolutely. Think about drawing. I love the idea of a pencil making a mark on a piece of a paper, or a wall, or a shoe, or whatever. I don’t like the idea of having to use a robot arm to grip a pencil. I don’t know -- It’s a super stupid metaphor, but yeah the directness of it feels faster, it feels truer. I like to see my hand in the things that I’m doing in visual art and in how I write or speak, so why wouldn’t I want to also see my hand in another form of expression like a webpage?
+
+L: What’s your process of updating your site? Is it similar to the process of creating it? And also, what’s your server set-up like if you don’t mind?
+
+T: It’s a terrible Bluehost shared account. It's low on features, you can’t SSH in. Even having SSL was something they just added to all shared accounts eventually, but trying to get LetsEncrypt going on there was ludicrously difficult two years ago. [Tom noises] The process of updating it -- I make a note in a long to-do list text file that says “update website.” It starts with that, then eventually some Saturday or Sunday I will have an idea for how to do that. I’ll try to do it when I’m in a laughing, caffeinated mood, and try to keep it consistently with this light, Saturday afternoon energy. Well, I don’t know that I try to do it that way, it’s not by design, but that’s the energy that drives HTML energy maybe? And then it’s FTPing the files up and down, raw editing the source. If I make a new page I usually will copy the most recent page I made, paste that into a new file, and subtract and add, so that way the accumulation of recent changes to the page structure is kind of continuous, or at least an n and n-1 state. It’s part of my website that I’m not super worried about getting crappier or not matching.
+
+L: I remember you said it was kind of like old subway stations, permitting them to deteriorate or show their era?
+
+T: Yeah, I like that. I think a broken link is super sad, but I think that a broken image could be funny. And text that’s the wrong size or formatted crazily because the CSS file moved or changed in a way that wasn’t considerate, I like to embrace that as a willing piece of the user experience, rather than a bug. What if that’s a feature that the old stuff got dusty? It feels that way about the artwork too. When I look at old projects I made, something from four years ago might to my eye look like the margins are wrong, so to speak. I like the way that my perception of my projects changes with age, that the website might reveal itself that way in a more literal sense. I love time passing. I try to embrace expressions of that, wherever possible.
+
+L: It's funny though, with a website bug, it seems like a very sudden change, versus dust gradually getting onto a painting.
+
+T: It's hard to say. I can’t tell. I only notice something when I notice it. It’s not like I am checking in every day on something in storage and being like, “okay, this is one day's iteration of dust on here.” I only experience it as I rub my finger across it. So, did it happen gradually? [laughing]
+
+L: Speaking of old things, can you tell us about your first entry-point to HTML?
+
+T: It was a GeoCities webpage in 1996 that I signed up for in order to make a Dungeons and Dragons website, henceforth D&D. It was the first online community that I crashed into, via my very first searches on AltaVista or whatever, but it was absolutely AltaVista. You go from having a thing that you care about and read about in your room to a thing that you’re aware of other people doing online. The inclination to participate, if you’re a person who responds to that, which I guess I was even at twelve or thirteen, that manifests as signing up for a free account and making your own super dumb, D&D website, which I probably maintained for three years. It’s not online anymore because I got embarrassed of it in college in a really typical and unfortunate way. I’m still embarrassed of it, but I also still wish it was still... you know... you know the way embarrassment changes... [laughing].
+
+L: Definitely. What kind of stuff did it have on it?
+
+T: New scenarios. Fan fiction in a sense. D&D is all about world-building, and the official stuff you can buy provides jump-offs for how you to run your game. But as a kid, I didn’t run a game, I just read things and imagined what these realities were like. And so the process of writing was my way of playing.
+
+L: By yourself?
+
+T: Yeah. The relationship between that and painting or drawing later feels really connected in a direct way.
+
+E: Do you feel like that could describe your website now as well? Just a place to play?
+
+T: Oh yeah, I’m definitely playing. “Am I having fun?” is a great question for any project. And if no, then why am I doing it? Why would anyone else want to interact with [airplane noises in the background] something that I didn’t even like. Why put that into the world?
+
+L: That reminds me of a specific feature on your website that I've been meaning to ask you about. There’s a line at the end that says “This website is open from 8am-8pm daily” and then after 8pm it has another line: “The website is closed now, but you can feel free to look around” and it changes colors at night. Could you tell us about that?
+
+T: Yeah — the feeling of daytime and nighttime internet is something I developed some strong feelings about living in New York and working a day job where I’m online the whole day at work. The qualities of what I would call “daytime content” and “daytime websites,” “daytime posting on Twitter” (the social media service I use) feels absolutely distinct to me from “nighttime content,” “nighttime posting.” The feeling of being on my couch at 11 at night, reading esoteric stuff instead of going to bed, the feeling of that, is super distinct feeling of furiously refreshing New York Times at 3:30pm or people’s infuriated tweets about the MTA as they’re going to work. I wanted to make a really simple gesture towards that by having a dark color scheme on my website after business hours. I also like the idea of a website as a space, a physical space, and the feeling of being “in” a website, rather than “on” it. I think to place a simple space metaphor like “open during business hours” is a really easy way to create that mental turn for when you’re there.
+
+L: I love that line about it being closed but you can still look around, almost as if you can choose to transgress if you want to, and it’s possible, it’s not like it’s completely shut down.
+
+T: This is on a dream-time ideas level, but imagine if you could go into the Red Hook Fairway at 1 o’clock in the morning and you couldn't buy anything, but if you wanted to go up and smell a grapefruit in the middle of the night you could.
+
+L: Wow.
+
+T: It’s really nice to think about that. Non-violent trespassing, you know? Or different versions of “open 24 hours.”
+
+L: Totally... Could you tell us about a website you'd like to bring back from the dead?
+
+T: It would be infinitefish.com. Which was this great 90s purveyor of (when I was making my own website) seamless Photoshop backgrounds with delicious undulating colors that were in 200 by 200 tiles that wrapped perfectly. It had all this really over-the-top 90s interface ideas, real button-y, cyberpunk. What now feels corny and dated. You see that Tweet periodically thats like “90s UI design was so good!” and it’s the weird Winamp that's the brain head. And that’s true, I do love that stuff. My deep personal interaction with that as a form was on this website as a thirteen year old. It’s now a garbage online poker website or something. I wish I could browse it. But it was all these weird old Flash elements, so it’s not well-preserved.
+
+L: So you can’t visit it on the Internet Archive?
+
+T: You can, but it's not fully intact.
+
+L: It didn't make it... Speaking of time, how do you imagine your own website in about 10 years?
+
+T: That now feels like not a long time for HTML. The front page of my website is just a long scroll until whenever I started doing it this way, maybe four years, five years (ago) ... I can imagine it just getting longer. I’m just going to keep adding more stuff probably, [laughing] that’s probably it. I can’t imagine that it will fundamentally change in terms of content or my approach to websites. It feels arrived.
+
+E: Do you go back and update pages as you work?
+
+T: Sometimes, yeah. But I try not to be self-editing old stuff. It feels like not a good of my time, which is probably the main answer. But I also just trust that browsers aren’t going to obfuscate the technologies that I’m currently using.
+
+L: You put good trust into HTML...
+
+T: [laughing] Yeah, like image <img>. It’s not going anywhere. Unordered list <ul>, not going anywhere. We’re not talking about <blink> here. We’re going to have unordered lists.
+
+L: How long will unordered lists live? What’s their lifespan?
+
+Tom: I don't know. How long are we going to have screens? How long is the internet going to be a 2D read-form that's interacted with via a browser on a screen? That’s the question to me.
+
+L: Totally. So here at HTML Energy we think a lot about what role HTML fulfills in our lives. What role or job do you think HTML does for you in your life, that’s the first question. And the second, related question is, let’s say you didn’t make websites or you didn't make your own website, how do you think you would fill that void?
+
+T: Wow, crazy question. Well, I’m not a good baker, or a good... I don’t know anything about car mechanics. I’m terrible at constructing clothes... I imagine HTML as a tool that’s in my belt, that is uniquely extensible in terms of its applications literally and as metaphor for other IRL things that maybe a power drill isn’t, or is less so. That’s the purpose that it serves for me. It’s a very unique tool. I would say that my life is fundamentally different at thirty-six from having engaged with this most fundamental of web technologies at thirteen. My life really sits on top of that D&D website in a lot of ways that are not lost to me. But what would I be doing instead? I don’t know. Probably working on car. Or being a baker. Developing some other from-the-hand, technically-driven but individually-located practice that’s raw and direct but also has angles for self-expression. I’m imagining what poetic car mechanic looks like. But poetic baking, you see that, I think [laughing]. Or poetic clothing design, that’s out there.
+
+L: If you could describe your energy in one word what would it be?
+
+T: I think in November 2019 it would be “bathing.”
+
+L: Wow. Do you care to say more?
+
+T: Sure. I think that again, on a tools level and on a practice level, a body metaphors level... I find it useful on every level, in every way or angle to run a hot bath, get in it, and be bathing. The state of my energy right now is exemplified by my energy when I'm in the bath [laughing].
+
+L: Wow [laughing], do you have any thoughts, Elliott?
+
+E: I kind of wish that was my energy...
+
+T: I recommend taking a bath, it rules!
+
+L: If you could pass the HTML torch onto anyone who would you pass it onto?
+
+T: Hard question... first answer, best answer I guess, would be my mom. With any craft to be able to interact with it is to open your understanding of it. I love when my parents pick up new stuff that makes it easier for them, on a super selfish level, for them to interact with my stuff [laughing]. So I would probably give it to my mom.
+
+[~2 minute musical outro composed by Madalyn Merkey]
+
+L: You just heard from artist Tom Bubul whose website is www.tombubul.info. Tom’s website is open daily from 8am to 8pm in your local timezone [ringtone].
