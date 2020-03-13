@@ -82,7 +82,7 @@ T: [laughing] Yeah, like image <img>. It’s not going anywhere. Unordered list 
 
 L: How long will unordered lists live? What’s their lifespan?
 
-Tom: I don't know. How long are we going to have screens? How long is the internet going to be a 2D read-form that's interacted with via a browser on a screen? That’s the question to me.
+T: I don't know. How long are we going to have screens? How long is the internet going to be a 2D read-form that's interacted with via a browser on a screen? That’s the question to me.
 
 L: Totally. So here at HTML Energy we think a lot about what role HTML fulfills in our lives. What role or job do you think HTML does for you in your life, that’s the first question. And the second, related question is, let’s say you didn’t make websites or you didn't make your own website, how do you think you would fill that void?
 
