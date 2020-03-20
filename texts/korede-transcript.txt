@@ -1,3 +1,85 @@
-[~15 second musical intro jingle composed by Madalyn Merkey]
+up the volume
 
-Coming soon :)
+***
+
+Elliott: The first thing I’d like to ask you … Can you describe the room you’re sitting in?
+
+Korede: It’s weirdly angled. Most of the stuff in my bedroom is out of the line of sight of the camera. I’m sitting at a desk. I have a bed sitting in the middle of the room. There is a floor lamp in the corner there. I actually thrifted that floor lamp. You can’t see it but it looks nice. I have a desk I’m sitting at right now. I have bamboo shoots around the room for the vibes. I have my flag behind my laptop. A little fuzzy chair right beside the desk as well. It’s a bedroom, I suppose. It’s what it is.
+
+E: I like the plants. Are they everywhere?
+
+K: I just have a few bamboo shoots here right now . They’re all standing around. I might get more.
+
+E: Could you describe the first website you created?
+
+K:  I first learned HTML on CodeAcademy in 2012 or 2013. One of the projects was a weird dumb website that was supposed to be a personal page. I threw everything I’d learned about HTML / CSS on that. I really liked border-radius at that point, so everything had a border-radius and funny colors. Whatever very early version of CSS grid existed at that point, I played around with as well. At that point, I was really digging responsivity. You could have websites that work just as well on your phone as on your laptop. It was just a little extra code. I tried to make my site responsive at least. Had a nice little sidebar that would hide itself on mobile. I used to like playing around with that.
+
+E: Yeah, whoa. That’s really cool. What was the website for? Was it your personal blog?
+
+K: It was meant to be a personal front page. I almost don’t remember the exact contents of it. I just remember things I did, because I was trying to test out stuff I learned.
+
+E: Could you describe your workflow of updating your website currently?
+
+K: Yeah. Actually the current iteration came after by throwing out everything that was there before. It was a little more elaborate, it had some fancier stuff but I decided to throw it out in favor of something a lot simpler. I stuck with Jekyll, a blogging framework-like thing… some Jekyll extensions I found on the internet and pieced together. Mostly from this one tutorial that someone wrote about building a digital garden / wiki, so very much inspired by that. It’s just a bunch of markdown files sitting around somewhere. The markdown files are the blog posts, there is some formatting for those. Some stuff for the main page. There are a few other pages that I threw out or am not actively using. If you follow the right path of the links, you can still follow how the old site used to look like, which is funny.
+
+E: Yeah, I’m interested in that progression… having old bits of your site within the current iteration of your site. Do you take a pretty iterative approach to working on your personal website? Like it’s something that you’re always building but not necessarily throwing out and restarting?
+
+K: Yeah. I figure it’s my personal website so I can do what I want with it. I’m fine with having a bug sit there for a while. Sometimes just leave a bug and let that become a weird, quirky feature. I guess just fun with that. I used to have a canvas thing… there was a photo of my face on the first page, and if you clicked on the photo it would expand, it was a canvas you could use a multicolored brush on… I was going to bring that back but kind of hide it. I was going to put a marquee that would slide over the screen every certain interval, so you could catch a link to the little paint thing. I remember showing someone that, they were like, “There’s a bug in how you draw the brush,” and it was one of those places where it was perfectly acceptable to be like “yeah, I don’t really give a fuck.”
+
+E: If you could bring back one website from the dead, what website would that be?
+
+K: Probably cartoonnetwork.hq.net. The pages with all the games. Those games were all flash websites, so I’m not sure if they are still supported. Those games were great. I would love to play them.
+
+E: Cool. Yeah, we’ve had a few previous participants, I think Becca Abbe (this designer and developer) talk about another website where there’s flash games on it. There’s a lot of nostalgia for flash games.
+
+E: If you could pick 3 HTML elements, what would be your top 3?
+
+K: That’s a good question. <marquee> is usually the top of the list, but I guess that’s dead and gone. <canvas> has been a favorite recently… it’s a realm or a portal to a different UI framework within HTML, which is fun. I love the inline style tag, I love to throw that around. People like separate CSS files, but I tend to be tired of that sometimes. There are some standard tags that are barely used. Usually people use <div> for header and footer and content, but there are still <header>, <footer>, and <main> that are very specific syntax in terms of semantics. I like to use specifics.
+
+E: <marquee>, <canvas>, and <main>, cool.
+
+E: What do you imagine your website looking like in 10 years from now?
+
+K: What I wanted to do with the little <canvas> thing on my website before was persist each of the paintings people do, when people find that easter egg. But not have to host them, have them something decentralized. That’s something you can sort of do, but not very well so far. So probably something along the lines of that — a public art space in a sense.
+
+E: So if you didn’t make websites, how would you spend that energy?
+
+K: Making music maybe, going outside. I’m trying to diversify my physical activity these days.
+
+E: What type of music would you make? Or do you make music already on the side?
+
+K: Not really. I’m trying to get into it more. I’m going to grab something from my room… it’s an instrument that’s a talking drum. So making music as in formally for production sake, or sometimes sitting around in my room and *Korede playing drum, drum sounds* kind of like that. It’s a weird percussive instrument in that it doesn’t exactly work the same or the rhythms aren’t exactly the same. I’m going back to Nigeria for the first time in a bit, so I’m going to find someone with a bunch of technical knowledge about this. Yeah, make some music, that’s what I would do.
+
+E: What’s that. instrument called?
+
+K: It’s called a talking drum, at least in English. I have a small one. It. has a membrane on either side. You use this to change the intonation. *more drum sounds* Depending on how hard you’re pressing it.
+
+E: It’s a really nice sound.
+
+E: How would you describe your energy in one word?
+
+K: Could I get away with saying “in-tune”? In all the ways that could be interpreted?
+
+E: That’s a great one. Can you elaborate?
+
+K: I like to think I can find equilibrium with things. That’s fundamentally what being in-tune is about. Going with the flow of things when I can or have to.
+
+E: That makes sense. Could you talk about the difference you see with writing on your blog as opposed to Twitter?
+
+K: Different process generally. Maybe a bit more preconception with what comes on my blog. I was talking with a professor about this. What difference it makes when there is a lot less time between writing something and when something gets read, the temporality. What the feedback mechanisms you get are. I can’t really know who… or I don’t have any mechanisms to know if anyone is reading my wiki. Which intentionally I didn’t bother finding any analytics for. So that’s it… writing for myself, writing into the void. Very much a visible void. I don’t have a super coherent explanation for that like I would on Twitter.
+
+E: That’s super interesting. Maybe that’s what HTML energy is, writing for yourself or writing for an invisible reader? I like that idea more than knowing who your reader is all the time. There’s something about that … that defines how you write things, that constant feedback loop.
+
+E: I was also reading your post about your wacky idea for redistribution of wealth. I like how you introduce it, like the context of where you are, that you’re sitting on a plane. Can you tell a bit more about that idea, or how that came about?
+
+K: That was in April. It sort of sat in my head, and when things sit in your head for a while, they’re in a weird cloudy form. Sometimes it can be put into words, sometimes it’s just thoughts that can’t be exactly distilled down to a single language, or a logical language. At whatever point on the plane, I had some words, I decided to go along with those. I usually don’t start writing things with a conclusion in mind. I don’t intend to write very long, so I know when I’m done, or when I’ve talked about most of the idea. That weekend, I was going back to San Francisco to work for the first time in a while, in the last 6 months. I was coming down from Seattle. I had gone from Philadelphia from Seattle to see my girlfriend. I don’t know, maybe I bothered her about the idea for some time, and now it was in my head and I was alone on the plane, so the only person I could talk to about it was my website.
+
+E: *laughing* That’s cool. It seemed like it was coming from a very particular state of mind, like LuckyNet Tech, like these companies. I found it sort of humorous, but also wow, it’s an interesting idea. It should be tried, or some variation of it.
+
+E: Thanks for taking the time.
+
+K: Ok, thank you.
+
+E: Goodnight.
+
+[~2 minute musical outro composed by Madalyn Merkey]
