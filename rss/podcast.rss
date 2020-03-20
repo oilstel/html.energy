@@ -24,58 +24,52 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:title>Korede Aderele</itunes:title>
       <description>
-        <content:encoded>
           <![CDATA[Korede Aderele (<a href="https://agbero.dev/-korede">https://agbero.dev/-korede</a>) is a software engineer, writer, and student.]]>
-        </content:encoded>
       </description>
       <enclosure 
         length="1058000" 
         type="audio/mpeg" 
         url="http://html.energy/sounds/korede.mp3"
       />
-      <guid>1b5bf1b5-cc07-43c2-abf5-aab829a3a035</guid>
+      <guid isPermaLink="false">1b5bf1b5-cc07-43c2-abf5-aab829a3a035</guid>
       <pubDate>Fri, 20 Mar 2020 08:00:00 EST</pubDate>
       <itunes:image href="http://html.energy/images/korede-in-tune-small.png"/>
       <itunes:duration>17:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:title>Tom Bubul</itunes:title>
       <description>
-        <content:encoded>
           <![CDATA[Tom Bubul (<a href="http://tombubul.info">http://tombubul.info</a>) is an artist. This episode was originally recorded in the Columbia Street Waterfront District, Brooklyn, on November 11, 2019.]]>
-        </content:encoded>
       </description>
       <enclosure 
         length="1058000" 
         type="audio/mpeg" 
         url="http://html.energy/sounds/tom.mp3"
       />
-      <guid>898F3A38-96DA-4B24-B676-157B2462A6DF</guid>
+      <guid isPermaLink="false">898F3A38-96DA-4B24-B676-157B2462A6DF</guid>
       <pubDate>Fri, 13 Mar 2020 08:00:00 EST</pubDate>
       <itunes:image href="http://html.energy/images/tom-bathing-small.png"/>
       <itunes:duration>22:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:title>Becca Abbe</itunes:title>
       <description>
-        <content:encoded>
           <![CDATA[Becca Abbe (<a href="http://cdxs.ist">http://cdxs.ist</a>) is a designer based in New York whose practice Cdxs, LLC focuses on typesetting, branding, programming, print, and digital. This episode was originally recorded inside Becca, Laurel, and Amelia’s home on November 9, 2019.]]>
-        </content:encoded>
       </description>
       <enclosure 
         length="35582307" 
         type="audio/mpeg" 
         url="http://html.energy/sounds/becca.mp3"
       />
-      <guid>9dc2faf6-f2dd-4c93-b2dc-94bb049fffd8</guid>
+      <guid isPermaLink="false">9dc2faf6-f2dd-4c93-b2dc-94bb049fffd8</guid>
       <pubDate>Fri, 6 Mar 2020 08:00:00 EST</pubDate>
       <itunes:image href="http://html.energy/images/becca-gel.png"/>
       <itunes:duration>24:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
 </rss>
