@@ -9,113 +9,67 @@
     <description>
       HTML energy is all around us and in every website. Building websites has become complex, but the energy of HTML persists. What makes HTML special is its simplicity. HTML isn’t a vast language, yet you can do a lot with it. Anyone who wants to publish on the web can write HTML. This accessibility and ease of use is where its energy resides. In this podcast, we talk to people about their relationship with HTML energy—how they first encountered it, how they harness it, and where it's going. Who's writing HTML today?
     </description>
-    <itunes:summary>
-      HTML energy is all around us and in every website. Building websites has become complex, but the energy of HTML persists. What makes HTML special is its simplicity. HTML isn’t a vast language, yet you can do a lot with it. Anyone who wants to publish on the web can write HTML. This accessibility and ease of use is where its energy resides. In this podcast, we talk to people about their relationship with HTML energy—how they first encountered it, how they harness it, and where it's going. Who's writing HTML today?
-    </itunes:summary>
     <itunes:type>serial</itunes:type>
     <itunes:owner>
       <itunes:name>HTML Energy</itunes:name>
       <itunes:email>htmlenergy@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://html.energy/images/star-large.png"/>
+    <itunes:image
+      href="http://html.energy/images/star-large.png"
+    />
     <itunes:category text="Technology">
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>Korede Aderele</title>
-      <link>
-        http://html.energy/korede.html
-      </link>
-      <description>
-        <![CDATA[
-<p>Korede Aderele (<a href="https://agbero.dev/-korede">https://agbero.dev/-korede</a>) is a software engineer, writer, and student.</p>
-]]>
-      </description>
-      <author>htmlenergy@gmail.com (HTML Energy)</author>
-      <pubDate>Fri, 20 Mar 2020 08:00:00 EST</pubDate>
-      <enclosure url="http://html.energy/sounds/korede.mp3" length="1058000" type="audio/mpeg"/>
-      <guid isPermaLink="false">1b5bf1b5-cc07-43c2-abf5-aab829a3a035</guid>
-      <itunes:author>
-        Korede Aderele &amp; Elliott Cost
-      </itunes:author>
-      <itunes:summary>
-        Korede Aderele
-      </itunes:summary>
-      <itunes:image href="http://html.energy/images/korede-in-tune-small.png"/>
-      <itunes:duration>17:38</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:title>Korede Aderele</itunes:title>
-      <content:encoded>
-        <![CDATA[
-<p>Korede Aderele (<a href="https://agbero.dev/-korede">https://agbero.dev/-korede</a>) is a software engineer, writer, and student.</p>
-]]>
-      </content:encoded>
+      <description>
+          <![CDATA[Korede Aderele (<a href="https://agbero.dev/-korede">https://agbero.dev/-korede</a>) is a software engineer, writer, and student.]]>
+      </description>
+      <enclosure 
+        length="1058000" 
+        type="audio/mpeg" 
+        url="http://html.energy/sounds/korede.mp3"
+      />
+      <guid isPermaLink="false">3cabfbc5-f91f-426a-8c9d-23265ecd2f63</guid>
+      <pubDate>Fri, 20 Mar 2020 08:00:00 EST</pubDate>
+      <itunes:image href="http://html.energy/images/korede-in-tune-small.png"/>
+      <itunes:duration>17:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Tom Bubul</title>
-      <link>
-        http://html.energy/tom.html
-      </link>
-      <description>
-        <![CDATA[
-<p>Tom Bubul (<a href="http://tombubul.info">http://tombubul.info</a>) is an artist. This episode was originally recorded in the Columbia Street Waterfront District, Brooklyn, on November 11, 2019.</p>
-]]>
-      </description>
-      <author>htmlenergy@gmail.com (HTML Energy)</author>
-      <pubDate>Fri, 13 Mar 2020 08:00:00 EST</pubDate>
-      <enclosure url="http://html.energy/sounds/becca.mp3" length="29440339" type="audio/mpeg"/>
-      <guid isPermaLink="false">898F3A38-96DA-4B24-B676-157B2462A6DF</guid>
-      <itunes:author>
-        Tom Bubul, Laurel Schwulst, and Elliott Cost
-      </itunes:author>
-      <itunes:summary>
-        Tom Bubul
-      </itunes:summary>
-      <itunes:image href="http://html.energy/images/tom-bathing-small.png"/>
-      <itunes:duration>22:38</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:title>Tom Bubul</itunes:title>
-      <content:encoded>
-        <![CDATA[
-<p>Tom Bubul (<a href="http://tombubul.info">http://tombubul.info</a>) is an artist. This episode was originally recorded in the Columbia Street Waterfront District, Brooklyn, on November 11, 2019.</p>
-]]>
-      </content:encoded>
+      <description>
+          <![CDATA[Tom Bubul (<a href="http://tombubul.info">http://tombubul.info</a>) is an artist. This episode was originally recorded in the Columbia Street Waterfront District, Brooklyn, on November 11, 2019.]]>
+      </description>
+      <enclosure 
+        length="1058000" 
+        type="audio/mpeg" 
+        url="http://html.energy/sounds/tom.mp3"
+      />
+      <guid isPermaLink="false">04bc82c2-9c85-4ade-b7ef-c82727e4f3e8</guid>
+      <pubDate>Fri, 13 Mar 2020 08:00:00 EST</pubDate>
+      <itunes:image href="http://html.energy/images/tom-bathing-small.png"/>
+      <itunes:duration>22:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Becca Abbe</title>
-      <link>
-        http://html.energy/becca.html
-      </link>
-      <description>
-        <![CDATA[
-<p>Becca Abbe (<a href="http://cdxs.ist">http://cdxs.ist</a>) is a designer based in New York whose practice Cdxs, LLC focuses on typesetting, branding, programming, print, and digital. This episode was originally recorded inside Becca, Laurel, and Amelia’s home on November 9, 2019.</p>
-]]>
-      </description>
-      <author>htmlenergy@gmail.com (HTML Energy)</author>
-      <pubDate>Fri, 6 Mar 2020 08:00:00 EST</pubDate>
-      <enclosure url="http://html.energy/sounds/becca.mp3" length="35582307" type="audio/mpeg"/>
-      <guid isPermaLink="false">9dc2faf6-f2dd-4c93-b2dc-94bb049fffd8</guid>
-      <itunes:author>
-        Becca Abbe &amp; Laurel Schwulst
-      </itunes:author>
-      <itunes:summary>
-        Becca Abbe
-      </itunes:summary>
-      <itunes:image href="http://html.energy/images/becca-gel.png"/>
-      <itunes:duration>24:27</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:title>Becca Abbe</itunes:title>
-      <content:encoded>
-        <![CDATA[
-  <p>Becca Abbe (<a href="http://cdxs.ist">http://cdxs.ist</a>) is a designer based in New York whose practice Cdxs, LLC focuses on typesetting, branding, programming, print, and digital. This episode was originally recorded inside Becca, Laurel, and Amelia’s home on November 9, 2019.</p>
-  ]]>
-      </content:encoded>
+      <description>
+          <![CDATA[Becca Abbe (<a href="http://cdxs.ist">http://cdxs.ist</a>) is a designer based in New York whose practice Cdxs, LLC focuses on typesetting, branding, programming, print, and digital. This episode was originally recorded inside Becca, Laurel, and Amelia’s home on November 9, 2019.]]>
+      </description>
+      <enclosure 
+        length="35582307" 
+        type="audio/mpeg" 
+        url="http://html.energy/sounds/becca.mp3"
+      />
+      <guid isPermaLink="false">9dc2faf6-f2dd-4c93-b2dc-94bb049fffd8</guid>
+      <pubDate>Fri, 6 Mar 2020 08:00:00 EST</pubDate>
+      <itunes:image href="http://html.energy/images/becca-gel.png"/>
+      <itunes:duration>24:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
 </rss>
