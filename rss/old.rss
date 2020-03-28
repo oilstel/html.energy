@@ -21,6 +21,29 @@
     <itunes:category text="Technology"></itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 4 -->
+    <item>
+      <guid isPermaLink="false">http://html.energy/marie.html</guid>
+      <title>Marie Otsuka</title>
+      <link>http://html.energy/marie.html</link>
+      <author>htmlenergy@gmail.com (HTML Energy)</author>
+      <pubDate>Fri, 27 Mar 2020 08:00:00 EST</pubDate>
+      <enclosure url="http://html.energy/sounds/marie.mp3" length="35582307" type="audio/mpeg"/>
+      <description>
+        <![CDATA[<p>Marie Otsuka (<a href="">http://motsuka.com</a>) is a designer working around tools and methods for making. She designed and developed the solar powered version of the Low-Tech Magazine website (<a href="http://solar.lowtechmagazine.com">http://solar.lowtechmagazine.com</a>).</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Marie Otsuka (<a href="">http://motsuka.com</a>) is a designer working around tools and methods for making. She designed and developed the solar powered version of the Low-Tech Magazine website (<a href="http://solar.lowtechmagazine.com">http://solar.lowtechmagazine.com</a>).</p>]]>
+      </content:encoded>
+      <itunes:author>Marie Otsuka &amp; Laurel Schwulst</itunes:author>
+      <itunes:summary>Marie Otsuka</itunes:summary>
+      <itunes:image href="http://html.energy/images/marie-flow-small.png"/>
+      <itunes:duration>25:21</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Marie Otsuka</itunes:title>
+    </item>
+
     <!-- Episode 3 -->
     <item>
       <guid isPermaLink="false">http://html.energy/korede.html</guid>
