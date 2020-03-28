@@ -21,6 +21,29 @@
     <itunes:category text="Technology"></itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 3 -->
+    <item>
+      <guid isPermaLink="false">http://html.energy/korede.html</guid>
+      <title>Korede Aderele</title>
+      <link>http://html.energy/tom.html</link>
+      <author>htmlenergy@gmail.com (HTML Energy)</author>
+      <pubDate>Fri, 20 Mar 2020 08:00:00 EST</pubDate>
+      <enclosure url="http://html.energy/sounds/korede.mp3" length="35582307" type="audio/mpeg"/>
+      <description>
+        <![CDATA[<p>Korede Aderele (<a href="https://agbero.dev/-korede">https://agbero.dev/-korede</a>) is a software engineer, writer, and student.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Korede Aderele (<a href="https://agbero.dev/-korede">https://agbero.dev/-korede</a>) is a software engineer, writer, and student.</p>]]>
+      </content:encoded>
+      <itunes:author>Korede Aderele &amp; Elliott Cost</itunes:author>
+      <itunes:summary>Korede Aderele</itunes:summary>
+      <itunes:image href="http://html.energy/images/tom-bathing-small.png"/>
+      <itunes:duration>17:38</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Korede Aderele</itunes:title>
+    </item>
+
     <!-- Episode 2 -->
     <item>
       <guid isPermaLink="false">http://html.energy/tom.html</guid>
