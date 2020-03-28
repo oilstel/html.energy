@@ -1,109 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
     <title>HTML Energy</title>
-    <link>http://html.energy</link>
-    <language>en-us</language>
-    <copyright>© 2020 HTML Energy</copyright>
-    <itunes:author>❇️</itunes:author>
-    <description>
-      HTML energy is all around us and in every website. Building websites has become complex, but the energy of HTML persists. What makes HTML special is its simplicity. HTML isn’t a vast language, yet you can do a lot with it. Anyone who wants to publish on the web can write HTML. This accessibility and ease of use is where its energy resides. In this podcast, we talk to people about their relationship with HTML energy—how they first encountered it, how they harness it, and where it's going. Who's writing HTML today?
-    </description>
-    <itunes:summary>
-      HTML energy is all around us and in every website. Building websites has become complex, but the energy of HTML persists. What makes HTML special is its simplicity. HTML isn’t a vast language, yet you can do a lot with it. Anyone who wants to publish on the web can write HTML. This accessibility and ease of use is where its energy resides. In this podcast, we talk to people about their relationship with HTML energy—how they first encountered it, how they harness it, and where it's going. Who's writing HTML today?
-    </itunes:summary>
-    <itunes:type>serial</itunes:type>
+    <description>HTML energy is all around us and in every website. Building websites has become complex, but the energy of HTML persists. What makes HTML special is its simplicity. HTML isn’t a vast language, yet you can do a lot with it. Anyone who wants to publish on the web can write HTML. This accessibility and ease of use is where its energy resides. In this podcast, we talk to people about their relationship with HTML energy—how they first encountered it, how they harness it, and where it's going. Who's writing HTML today?</description>
+    <language>en</language>
+    <image>
+      <link>https://html.energy</link>
+      <title>HTML Energy</title>
+      <url>https://html.energy/images/star-large.png</url>
+    </image>
+    <link>https://html.energy</link>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>HTML energy is all around us and in every website. Building websites has become complex, but the energy of HTML persists. What makes HTML special is its simplicity. HTML isn’t a vast language, yet you can do a lot with it. Anyone who wants to publish on the web can write HTML. This accessibility and ease of use is where its energy resides. In this podcast, we talk to people about their relationship with HTML energy—how they first encountered it, how they harness it, and where it's going. Who's writing HTML today?</itunes:summary>
+    <itunes:author>HTML Energy</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://html.energy/images/star-large.png"/>
+    <itunes:new-feed-url>https://html.energy/rss/podcast.rss</itunes:new-feed-url>
+    <itunes:keywords>html, technology, energy, websites, design</itunes:keywords>
     <itunes:owner>
       <itunes:name>HTML Energy</itunes:name>
       <itunes:email>htmlenergy@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image
-      href="http://html.energy/images/star-large.png"
-    />
-    <itunes:category text="Technology">
-    </itunes:category>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
     <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>Marie Otsuka</itunes:title>
+      <guid isPermaLink="false">8b6e0f01-2a02-41df-942d-fb8ee7ffe755</guid>
+      <title>Marie Otsuka</title>
       <description>
-          <![CDATA[Marie Otsuka (<a href="">http://motsuka.com</a>) is a designer working around tools and methods for making. She designed and developed the solar powered version of the Low-Tech Magazine website (<a href="http://solar.lowtechmagazine.com">http://solar.lowtechmagazine.com</a>).]]>
+        <![CDATA[<p>Marie Otsuka (<a href="">http://motsuka.com</a>) is a designer working around tools and methods for making. She designed and developed the solar powered version of the Low-Tech Magazine website (<a href="http://solar.lowtechmagazine.com">http://solar.lowtechmagazine.com</a>).</p>]]>
       </description>
-      <enclosure 
-        length="37063571"
-        type="audio/mpeg" 
-        url="http://html.energy/sounds/marie.mp3"
-      />
-      <guid isPermaLink="false">3cabfbc5-f91f-426a-8c9d-23265ecd2f63</guid>
       <pubDate>Fri, 27 Mar 2020 08:00:00 EST</pubDate>
-      <itunes:season>1</itunes:season>
+      <author>htmlenergy@gmail.com (HTML Energy)</author>
+      <link>https://html.energy/marie.html</link>
+      <content:encoded>
+        <![CDATA[<p>Marie Otsuka (<a href="">http://motsuka.com</a>) is a designer working around tools and methods for making. She designed and developed the solar powered version of the Low-Tech Magazine website (<a href="http://solar.lowtechmagazine.com">http://solar.lowtechmagazine.com</a>).</p>]]>
+      </content:encoded>
+      <enclosure length="35515768" type="audio/mpeg" url="https://html.energy/sounds/marie.mp3"/>
+      <itunes:title>Marie Otsuka</itunes:title>
+      <itunes:author>Marie Otsuka &amp; Laurel Schwulst</itunes:author>
+      <itunes:duration>00:25:21</itunes:duration>
+      <itunes:summary>Marie Otsuka is a designer working around tools and methods for making. She designed and developed the solar powered version of the Low-Tech Magazine website.<itunes:summary>
+      <itunes:subtitle>Marie Otsuka is a designer working around tools and methods for making. She designed and developed the solar powered version of the Low-Tech Magazine website.<itunes:subtitle>
+      <itunes:image href="https://html.energy/images/marie-flow-small.png"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
-      <itunes:image href="http://html.energy/images/marie-flow-small.png"/>
-      <itunes:duration>25:21</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>Korede Aderele</itunes:title>
-      <author>htmlenergy@gmail.com (HTML Energy)</author>
-      <itunes:author>Korede Aderele &amp; Elliott Cost</itunes:author>
-      <itunes:summary>Korede Aderele</itunes:summary>
+      <guid isPermaLink="false">35d6fd15-2311-48d2-889b-545e8bf60c9c</guid>
+      <title>Korede Aderele</title>
       <description>
-          <![CDATA[Korede Aderele (<a href="http://agbero.dev/-korede">http://agbero.dev/-korede</a>) is a software engineer, writer, and student.]]>
+        <![CDATA[<p>Korede Aderele (<a href="http://agbero.dev/-korede">http://agbero.dev/-korede</a>) is a software engineer, writer, and student.</p>]]>
       </description>
-      <enclosure 
-        length="1058000" 
-        type="audio/mpeg" 
-        url="http://html.energy/sounds/korede.mp3"
-      />
-      <guid isPermaLink="false">3cabfbc5-f91f-426a-8c9d-23265ecd2f63</guid>
       <pubDate>Fri, 20 Mar 2020 08:00:00 EST</pubDate>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>3</itunes:episode>
-      <itunes:image href="http://html.energy/images/korede-in-tune-small.png"/>
-      <itunes:duration>17:38</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>Tom Bubul</itunes:title>
       <author>htmlenergy@gmail.com (HTML Energy)</author>
-      <itunes:author>Tom Bubul, Laurel Schwulst, and Elliott Cost</itunes:author>
-      <itunes:summary>Tom Bubul</itunes:summary>
-      <description>
-          <![CDATA[Tom Bubul (<a href="http://tombubul.info">http://tombubul.info</a>) is an artist. This episode was originally recorded in the Columbia Street Waterfront District, Brooklyn, on November 11, 2019.]]>
-      </description>
-      <enclosure 
-        length="1058000" 
-        type="audio/mpeg" 
-        url="http://html.energy/sounds/tom.mp3"
-      />
-      <guid isPermaLink="false">04bc82c2-9c85-4ade-b7ef-c82727e4f3e8</guid>
-      <pubDate>Fri, 13 Mar 2020 08:00:00 EST</pubDate>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>2</itunes:episode>
-      <itunes:image href="http://html.energy/images/tom-bathing-small.png"/>
-      <itunes:duration>22:38</itunes:duration>
+      <link>https://html.energy/marie.html</link>
+      <content:encoded>
+        <![CDATA[<p>Korede Aderele (<a href="http://agbero.dev/-korede">http://agbero.dev/-korede</a>) is a software engineer, writer, and student.</p>]]>
+      </content:encoded>
+      <enclosure length="1058000" type="audio/mpeg" url="http://html.energy/sounds/korede.mp3"/>
+      <itunes:title>Korede Aderele</itunes:title>
+      <itunes:author>Korede Aderele &amp; Elliott Cost</itunes:author>
+      <itunes:duration>00:17:38</itunes:duration>
+      <itunes:summary>Korede Aderele is a software engineer, writer, and student.<itunes:summary>
+      <itunes:subtitle>Korede Aderele is a software engineer, writer, and student.<itunes:subtitle>
+      <itunes:image href="http://html.energy/images/korede-in-tune-small.png"/>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
     </item>
     <item>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:title>Becca Abbe</itunes:title>
+      <guid isPermaLink="false">f240a432-16e4-4db9-bc0d-1de0c93b8a02</guid>
+      <title>Tom Bubul</title>
       <description>
-          <![CDATA[Becca Abbe (<a href="http://cdxs.ist">http://cdxs.ist</a>) is a designer based in New York whose practice Cdxs, LLC focuses on typesetting, branding, programming, print, and digital. This episode was originally recorded inside Becca, Laurel, and Amelia’s home on November 9, 2019.]]>
+        <![CDATA[<p>Tom Bubul (<a href="http://tombubul.info">http://tombubul.info</a>) is an artist. This episode was originally recorded in the Columbia Street Waterfront District, Brooklyn, on November 11, 2019.</p>]]>
       </description>
-      <enclosure 
-        length="35582307" 
-        type="audio/mpeg" 
-        url="http://html.energy/sounds/becca.mp3"
-      />
-      <guid isPermaLink="false">9dc2faf6-f2dd-4c93-b2dc-94bb049fffd8</guid>
-      <pubDate>Fri, 6 Mar 2020 08:00:00 EST</pubDate>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <itunes:image href="http://html.energy/images/becca-gel.png"/>
-      <itunes:duration>24:27</itunes:duration>
+      <pubDate>Fri, 13 Mar 2020 08:00:00 EST</pubDate>
+      <author>htmlenergy@gmail.com (HTML Energy)</author>
+      <link>https://html.energy/tom.html</link>
+      <content:encoded>
+        <![CDATA[<p>Tom Bubul (<a href="http://tombubul.info">http://tombubul.info</a>) is an artist. This episode was originally recorded in the Columbia Street Waterfront District, Brooklyn, on November 11, 2019.</p>]]>
+      </content:encoded>
+      <enclosure length="1058000" type="audio/mpeg" url="http://html.energy/sounds/tom.mp3"/>
+      <itunes:title>Tom Bubul</itunes:title>
+      <itunes:author>Tom Bubul, Laurel Schwulst, and Elliott Cost</itunes:author>
+      <itunes:duration>00:22:38</itunes:duration>
+      <itunes:summary>Tom Bubul is an artist. This episode was originally recorded in the Columbia Street Waterfront District, Brooklyn, on November 11, 2019.<itunes:summary>
+      <itunes:subtitle>Tom Bubul is an artist. This episode was originally recorded in the Columbia Street Waterfront District, Brooklyn, on November 11, 2019.<itunes:subtitle>
+      <itunes:image href="http://html.energy/images/tom-bathing-small.png"/>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <guid isPermaLink="false">511714c1-aa92-41d5-8249-c707aa6b6e84</guid>
+      <title>Becca Abbe</title>
+      <description>
+        <![CDATA[<p>Becca Abbe (<a href="http://cdxs.ist">http://cdxs.ist</a>) is a designer based in New York whose practice Cdxs, LLC focuses on typesetting, branding, programming, print, and digital. This episode was originally recorded inside Becca, Laurel, and Amelia’s home on November 9, 2019.</p>]]>
+      </description>
+      <pubDate>Fri, 06 Mar 2020 08:00:00 EST</pubDate>
+      <author>htmlenergy@gmail.com (HTML Energy)</author>
+      <link>https://html.energy/becca.html</link>
+      <content:encoded>
+        <![CDATA[<p>Becca Abbe (<a href="http://cdxs.ist">http://cdxs.ist</a>) is a designer based in New York whose practice Cdxs, LLC focuses on typesetting, branding, programming, print, and digital. This episode was originally recorded inside Becca, Laurel, and Amelia’s home on November 9, 2019.</p>]]>
+      </content:encoded>
+      <enclosure length="35582307" type="audio/mpeg" url="http://html.energy/sounds/becca.mp3"/>
+      <itunes:title>Becca Abbe</itunes:title>
+      <itunes:author>Becca Abbe &amp; Laurel Schwulst</itunes:author>
+      <itunes:duration>00:24:27</itunes:duration>
+      <itunes:summary>Becca Abbe is a designer based in New York whose practice Cdxs, LLC focuses on typesetting, branding, programming, print, and digital. This episode was originally recorded inside Becca, Laurel, and Amelia’s home on November 9, 2019.<itunes:summary>
+      <itunes:subtitle>Becca Abbe is a designer based in New York whose practice Cdxs, LLC focuses on typesetting, branding, programming, print, and digital. This episode was originally recorded inside Becca, Laurel, and Amelia’s home on November 9, 2019.<itunes:subtitle>
+      <itunes:image href="http://html.energy/images/becca-gel.png"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
     </item>
   </channel>
 </rss>
