@@ -81,3 +81,5 @@ K: Ok, thank you.
 E: Goodnight.
 
 [~2 minute musical outro composed by Madalyn Merkey]
+
+E: You just heard from Korede Aderele, a software engineer, writer, and a computer science student at Drexel University. You can visit Korede's website a agbero.dev. Thanks for listening to our podcast. Special thanks to computer musician Madalyn Merkey for composing the HTML Energy intro and outro jingles. See you next week. [ringtone]
