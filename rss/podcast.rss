@@ -9,6 +9,9 @@
     <description>
       HTML energy is all around us and in every website. Building websites has become complex, but the energy of HTML persists. What makes HTML special is its simplicity. HTML isn’t a vast language, yet you can do a lot with it. Anyone who wants to publish on the web can write HTML. This accessibility and ease of use is where its energy resides. In this podcast, we talk to people about their relationship with HTML energy—how they first encountered it, how they harness it, and where it's going. Who's writing HTML today?
     </description>
+    <itunes:summary>
+      HTML energy is all around us and in every website. Building websites has become complex, but the energy of HTML persists. What makes HTML special is its simplicity. HTML isn’t a vast language, yet you can do a lot with it. Anyone who wants to publish on the web can write HTML. This accessibility and ease of use is where its energy resides. In this podcast, we talk to people about their relationship with HTML energy—how they first encountered it, how they harness it, and where it's going. Who's writing HTML today?
+    </itunes:summary>
     <itunes:type>serial</itunes:type>
     <itunes:owner>
       <itunes:name>HTML Energy</itunes:name>
@@ -23,6 +26,9 @@
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:title>Korede Aderele</itunes:title>
+      <author>htmlenergy@gmail.com (HTML Energy)</author>
+      <itunes:author>Korede Aderele &amp; Elliott Cost</itunes:author>
+      <itunes:summary>Korede Aderele</itunes:summary>
       <description>
           <![CDATA[Korede Aderele (<a href="https://agbero.dev/-korede">https://agbero.dev/-korede</a>) is a software engineer, writer, and student.]]>
       </description>
@@ -40,6 +46,9 @@
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:title>Tom Bubul</itunes:title>
+      <author>htmlenergy@gmail.com (HTML Energy)</author>
+      <itunes:author>Tom Bubul, Laurel Schwulst, and Elliott Cost</itunes:author>
+      <itunes:summary>Tom Bubul</itunes:summary>
       <description>
           <![CDATA[Tom Bubul (<a href="https://tombubul.info">https://tombubul.info</a>) is an artist. This episode was originally recorded in the Columbia Street Waterfront District, Brooklyn, on November 11, 2019.]]>
       </description>
