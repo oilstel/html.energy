@@ -18,8 +18,7 @@
       <itunes:email>htmlenergy@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="http://html.energy/images/star-large.png"/>
-    <itunes:category text="Technology">
-    </itunes:category>
+    <itunes:category text="Technology"></itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <item>
       <title>Korede Aderele</title>

@@ -22,9 +22,11 @@
       <itunes:name>HTML Energy</itunes:name>
       <itunes:email>htmlenergy@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:category text="Technology"/>
+    <itunes:category text="Technology"/></itunes:category>
+
+    <!-- Episode 4 -->
     <item>
-      <guid isPermaLink="false">8b6e0f01-2a02-41df-942d-fb8ee7ffe755</guid>
+      <guid isPermaLink="false">https://html.energy/marie.html</guid>
       <title>Marie Otsuka</title>
       <description>
         <![CDATA[<p>Marie Otsuka (<a href="">http://motsuka.com</a>) is a designer working around tools and methods for making. She designed and developed the solar powered version of the Low-Tech Magazine website (<a href="http://solar.lowtechmagazine.com">http://solar.lowtechmagazine.com</a>).</p>]]>
@@ -46,15 +48,17 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
     </item>
+
+    <!-- Episode 3 -->
     <item>
-      <guid isPermaLink="false">35d6fd15-2311-48d2-889b-545e8bf60c9c</guid>
+      <guid isPermaLink="false">https://html.energy/korede.html</guid>
       <title>Korede Aderele</title>
       <description>
         <![CDATA[<p>Korede Aderele (<a href="http://agbero.dev/-korede">http://agbero.dev/-korede</a>) is a software engineer, writer, and student.</p>]]>
       </description>
       <pubDate>Fri, 20 Mar 2020 08:00:00 EST</pubDate>
       <author>htmlenergy@gmail.com (HTML Energy)</author>
-      <link>https://html.energy/marie.html</link>
+      <link>https://html.energy/korede.html</link>
       <content:encoded>
         <![CDATA[<p>Korede Aderele (<a href="http://agbero.dev/-korede">http://agbero.dev/-korede</a>) is a software engineer, writer, and student.</p>]]>
       </content:encoded>
@@ -69,8 +73,10 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
     </item>
+
+    <!-- Episode 2 -->
     <item>
-      <guid isPermaLink="false">f240a432-16e4-4db9-bc0d-1de0c93b8a02</guid>
+      <guid isPermaLink="false">https://html.energy/tom.html</guid>
       <title>Tom Bubul</title>
       <description>
         <![CDATA[<p>Tom Bubul (<a href="http://tombubul.info">http://tombubul.info</a>) is an artist. This episode was originally recorded in the Columbia Street Waterfront District, Brooklyn, on November 11, 2019.</p>]]>
@@ -92,8 +98,10 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
     </item>
+
+    <!-- Episode 1 -->
     <item>
-      <guid isPermaLink="false">511714c1-aa92-41d5-8249-c707aa6b6e84</guid>
+      <guid isPermaLink="false">https://html.energy/becca.html</guid>
       <title>Becca Abbe</title>
       <description>
         <![CDATA[<p>Becca Abbe (<a href="http://cdxs.ist">http://cdxs.ist</a>) is a designer based in New York whose practice Cdxs, LLC focuses on typesetting, branding, programming, print, and digital. This episode was originally recorded inside Becca, Laurel, and Amelia’s home on November 9, 2019.</p>]]>
