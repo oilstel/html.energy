@@ -1,106 +1,111 @@
+[~15 second musical intro jingle composed by Madalyn Merkey begins]
+
+Laurel
+Before we begin, welcome to the HTML Energy pledge drive. As you can imagine, HTML Energy needs your energy. So if you've been enjoying our podcasts and/or our own energy, please consider supporting us at www.patreon.com/htmlenergy. When you support us, your name will appear within our website's source code. Thank you very much.
+
 [~15 second musical intro jingle composed by Madalyn Merkey]
 
-Laurel  0:21  
+Laurel
 Thanks for being on the HTML Energy podcast. I would like to start by saying that we’re recording this interview on Skype. And so I wanted to ask you about your username.
 
-Larissa  0:34  
+Larissa  
 I emailed you and I was like, “here’s my username”. It’s “ell_n3ss” or like “L-ness” which is a handle I used online starting in high school. But I like that this one that incorporates l33t. I haven’t said that out loud in a long time. I remember Skype was one of the first instant messaging programs I used. It was Skype and AIM. So this is definitely a marker of how long I’ve been online.
 
-Laurel  1:08
+Laurel
 Was it around that time, when you were first online, that maybe you first experienced HTML energy?
 
-Larissa  1:17
+Larissa
 Yeah, I’ve definitely been around HTML energy for a long time. I didn’t have a personal computer until I went to college. But there was a computer at my grandparents’ house. It was like a really boxy gray PC with this amazing mechanical keyboard that clicks. I got into coding websites because I wanted to make a fan site for this manga series that I was really into. And none of it ever went live, but I learned how to write everything in a a notepad file basically, like a text file and just save it with the .html extension and open it in your local browser. So I would mock up websites that way. I would read source code from other people’s sites to learn how to do things.
 
-Laurel  2:05
+Laurel
 That’s so interesting that your site never went online, but you built a website.
 
-Larissa  2:11  
+Larissa 
 I think that was what was so amazing about it to me. Yeah, I could just type some stuff. I didn’t even need to be connected to anything… it would just appear. That felt so powerful to me. And I think the the barrier to entry was still fairly high when I was growing up. So I couldn’t really figure out how to like pay for hosting or how to buy a domain or anything like that. For me, just building little websites in my little folders felt like the same thing. I didn’ really care about anyone seeing it. It was it was all for me.
 
-Laurel  2:49  
-That’s so nice. And that leads me to your project “Poem Club” (https://lrsphm.github.io/poem-club/https://lrsphm.github.io/poem-club) which did get online, and I saw it. I’ve admired it for for a long time… I don’t know how long it's been around. But could you tell me about how Poem Club began?
+Laurel 
+That’s so nice. And that leads me to your project “Poem Club” (https://lrsphm.github.io/poem-club) which did get online, and I saw it. I’ve admired it for for a long time… I don’t know how long it's been around. But could you tell me about how Poem Club began?
 
-Larissa  3:07  
+Larissa 
 I spent two years working at this nonprofit in the financial district. It was this anti-violence nonprofit that is doing really, really important work, but it was right after the election. So it had been about a year since the election… we were still dealing with the new administration and the way that the prejudice and everything was coming off the Trump administration, which was affecting my job which was around hate violence and biased-motivated violence and domestic violence and the prevention thereof. So I was really, really stressed out at work all the time. And I wasn't really writing. And I really wanted a creative outlet. I think it was actually Chris Rypkema, at the time, who suggested that I get into coding something or redoing my website. I was like, “Oh my gosh, yeah, I could do that.” And I hadn’t hand coded anything in a while when I when I decided to make Poem Club. But I got really into this idea… you just open your text editor, and you can make something. And you can make something really beautiful, and you can make something where there was nothing before. It was the kind of language that is very different than the language I was using every day I work because I was doing a lot of writing for that. And it’s different language than the language that I was doing in my *other* work, which is narrative essay. It was a completely different part of my brain, and I was so happy to be able to code and problem solve in a way that I couldn’t do anywhere else in my life.
 
-Laurel  4:44  
+Laurel  
 Do you think you could talk through one poem on Poem Club that you really like?
 
-Larissa  4:52  
+Larissa 
 Yeah, I’ll talk through “hidden folder” (https://lrsphm.github.io/poem-club/hiddenfolder.html). I think it’s the most complex, and it’s the one where I taught myself the most stuff in order to get it done. That was one where it came to me in a vision. [short sound] I’m making these making these sort of “woo-woo” gestures with my hands around my head, which is how it feels. [short sound]
 
-Larissa  5:19  
+Larissa
 It came to me in a vision … I want these cards that are all spinning in a grid … kind of like playing cards or tarot cards or almost like those like matching games (where you have to match the two cards, memorizing their places). And I wanted there to be a beautiful sound that was timed with the spinning of the cards. [short magical sound] So it felt like it there was some some magical or spiritual element about them. [short magical sound] And then I knew that I wanted there to be a poem on the cards, and I wasn’t really sure what the content of the was going to be, but I wanted it to be able to read in any order. I knew that I was making this poem for a show about digital intimacy called “For You” and it was in Athens last year. I knew that it was going to be about intimacy and sex, in a way that was like the hidden folder on on your iPhone for pictures that you don’t want other people to see. I wanted it to be like this uncovering or this reveal. So first I learned how to make a grid of <div>’s. And I figured out how to space them. So then I had all these containers. It took me so long to learn in order to wrestle with your <div>’s, it’s okay to nest a bunch inside each other, and each one having a really specific function. Just the idea of containers … this was this was the piece that taught me about containers. So I had my containers all in a grid … and then I wanted the cards … so add those all in the grid with some padding so that they were smaller than the container … and then I wanted the text inside the grids … so that I had another layer inside that … and then it was just a matter of manipulating everything and learning some CSS to get them to spin and to get the cards to spin … and so the way that I figured out the text is that it actually only appears on mouseover … so I didn't have to worry about it, or making that spin too … I was just like “Oh, if I just have a text on a mouseover and the mouseover also positive spin, then it'll just show up, and it'll seem like it was on the other side, but it is actually just appearing.” Then all those things came together. Once I had the grid set up, then I wrote the poem … thinking about ordering and the flow of the piece and all of that. But the structure did come first in this instance. And I think the structure did inform the text itself and the content of the text because I feel like you can save more when it's a mouseover, because it's hidden that way … it’s safer. [short magical sound]
 
-Laurel  8:12  
+Laurel 
 Could you talk about the use of sound in general on some of your poems?
 
-Larissa  8:19  
+Larissa 
 Yeah, part of the reason why I was into the idea of putting poems on Poem Club. And why it’s “Poem Club” and not “Picture Club” … I think it’s kind of a cheap trick when you are watching a movie, and there's a really beautiful, sad soundtrack and you feel sad, and you're like, “oh, my god, this movie is really affecting me.” It's this combination of things that happen. Of course, it's not actually a cheap trick, but it is a device. I was interested in how I could take language and almost pump it up and expand your relationship to the text moreso than looking at a poem on a page or scrolling through it. And sound was a huge part of what I wanted to use to get to that feeling. Not all of the poems have sound components, just two of them do … it’s “[emotional music plays]” and then “hidden folder” also has a sound element. Those arose from having a vision … the sound was baked into the vision of the piece. And I had like a very specific idea for what I wanted to do with the sound in the context of the piece. “[emotional music plays]” actually came from listening to that track, which was something that Chris put out under the name Jen, and I really liked the track and I was like, “Oh, I’m going to make something with that.” And then with “hidden folder”, I asked Chris to make a sound for me, for that effect of the tiles spinning around.
 
-Laurel  10:00
+Laurel
 Do each of your poems have a different workflow? Depending on the poem itself? Or could you talk me through your workflow from poem conception to coding to publishing?
 
-Larissa  10:18
+Larissa
 Yeah, I think they have different shapes. Sometimes the text comes first, like in “the thing you didn't choose” … that poem I had written a long time ago. It’s about an experience with a childhood friend. And I wanted the poem to sort of represent somehow visually  the landscape that these this time in my life was taking place, which is, which was largely in the woods of the Pacific Northwest. And I liked the idea of having a video in the background. And I found a livestream that felt to me similar to the energy of the forest that I had grown up living next to, so I pulled that. But in “[emotional music plays]” the concept actually came first, and then I wrote the dialogue in one it felt right. I do find that there needs to be a vision upfront. Otherwise there's this thing with designing for the web—I mean, I don't actually have enough a lot of experience designing like websites—but I think there's this tyranny of a blank page where it's very much just a white screen, and it's hard to figure out what shapes to put on it, because you can't make random marks like you do with a pencil or paintbrush… you have to make decisions about what's going to be there. So it helps if there's a dream that I'm having that follows me around. And then I'm like, “Okay, let's figure out how to make this dream a reality.” Which is nice, because then I can learn how to make it happen.
 
-Laurel  11:50  
+Laurel 
 And then I noticed, just technically speaking, Poem Club is hosted on GitHub. How do you publish your code? Do you use the command line? Or do you use the GitHub desktop program? Or what's it like?
 
-Larissa  12:08  
+Larissa
 I use it through the desktop interface. I write everything in Brackets first, because I like that it has a live render preview of everything. So you can get a really good sense of how it'll look on the web. And then I save my file, and I will upload it to GitHub and publish it there … I think would be the word. Then I also use the hosting that is available to users there. So I'm not super plugged into the GitHub sort of world itself. I kind of just use it on a very surface level.
 
-Laurel  12:44  
+Laurel 
 No, I think that's totally cool. And I think GitHub is a little unnecessarily intimidating. It took me a long time to even harness like 5% of its power. [laughs]
 
-Larissa  12:58  
+Larissa 
 That's kind of how I feel. It's like, “Oh, we only use 10% of our brains.” I feel like I'm using like 1% of GitHub’s brain.
 
-Laurel  13:04  
+Laurel 
 Yeah, but I think you're using it in a really effective way. And I almost wish it were easier to use in that way. And it's great that you're hosting it for free. It's online. Once you've got it working, I assume it wasn't too difficult to maintain. So that's really cool.
 
-Laurel  13:24
+Laurel
 Do you think coding poems through Poem Club has helped you understand your own writing when you're not doing Poem Club? Or in other words, what of HTML energy do you bring back with you to your normal writing world?
 
-Larissa  13:41  
+Larissa  
 That's a great question. I think that it has allowed me to think about containers more. And sometimes it's really nice to know that Poem Club exists so that I don't have to try to make everything fit in one place. I think a lot about the failures of communication. I would say that that's something that drives a lot of my work. And I think communication does fail often in the forms that it's available to us. And I'm writing a book right now, for example, and books people interact with in a specific way. We read them; we look at them; we turn the pages; we sort of expect them to have a beginning, middle, and end. And time, again, is interacting with our interaction of a book. And I think Poem Club has allowed me to harness HTML energy to control that experience or allow for different experiences in a way that almost takes away my anxiety of not being able to say everything that I want to say in text. Yeah, so I don't know if I'm necessarily taking it back so much as I'm just allowing myself to play with HTML in order to soothe and give voice to different feelings.
 
-Laurel  15:08  
+Laurel 
 Okay so I have a few, maybe predictable questions… But I have to ask you, what’s your favorite HTML element?
 
-Larissa  15:17  
+Larissa
 I think I think it's a <div>. I just love that you can put so many things inside it. And you can change its shape and and the way it looks, and it feels like such a crucial building block to me
 
-Laurel  15:32  
+Laurel  
 If you could describe your own energy in just one word, what would it be?
 
-Larissa  15:39  
+Larissa 
 I thought about this one for a long time. And the word that kept coming to mind was “healing”. And it's maybe an idealistic or aspirational energy.
 
-Laurel  15:55
+Laurel
 Is there any specific website you'd like to bring back from the dead?
 
-Larissa  16:01  
+Larissa
 I thought about this a lot too when you emailed me. And I actually can't say that there's one specific website that I'd like to bring back because … I think that's the nature of the web that things rise and fall, and it is a bit of a graveyard. And I think it's good for us to remember that it's not permanent because it changes our relationship with how we interact with it. But I will say that there are times that I've been hunting down something in some archive or trying to find a record of something, and I've gotten to a dead page. And that's always made me really sad. But there's always Wayback Machine (http://archive.org).
 
 [Skype beginning connection sounds]
 
-Laurel  16:43  
+Laurel 
 Yeah, I guess just as a testing question, what's your quarantine routine been like, these days? Or is it kind of complicated?
 
-Larissa  16:57  
+Larissa 
 Oooh, it's sort of warped a little. I was doing pretty well with waking up relatively early around like 8 or 9 and being in my “air quote” home office by 10. And then I would make tea and basically start the day there. But lately I've been staying up really late reading this manga that I used to read in high school. Yeah, I used to read it in high school, so it's kind of pushed my morning down a little bit. I'm sort of seeing this time as an opportunity to engage with boredom and nostalgia because it occurred to me that when I was a teenager, I had so much more time than I do now. But now I have that time again.
 
 [Short musical outro composed by Madalyn Merkey begins, but then fades out]
 
-Laurel  17:47  
+Laurel
 Yeah, I’m trying to remember how I found out about Poem Club. It could have simply been because I followed you on Twitter and maybe you tweeted about it. My memory is kind of hazy. But I just remember the first poem of Poem Club I saw was the piece called “[experimental music plays]” (correction: it should be "[emotional music plays]"), which I noticed is titled dancedancedance.html. There's not like a ton of elements going on, but it's like just the right combination of elements that make for a very poignant piece … with these slow moving cherry blossom trees in the background, and then this emotional music playing and then this kind of caption-like text at the bottom that's telling you that emotional music is playing.
 
-Larissa  18:44  
+Larissa 
 I wanted to make something with that piece that felt like you were watching a movie. So I thought of those almost like subtitles. And yeah, it's sort of like a fake phone call. It's not really a conversation that I had with any particular person. But maybe the feel of conversation. I'm interested in time in relationship to websites. You know … scrolling through something … versus having something play, like a video … versus interacting and controlling the way that what you see and the relationship to time. There are different ways that you can have someone look at something. And in that one, I wanted it to be like a slideshow, almost where you interact your way through the piece. And it's about the nostalgia and the cherry blossoms coming every year and coming so strongly and wanting to really capture that moment that's so brief … that little window of time
 
 [~2 minute musical outro composed by Madalyn Merkey begins]
 
-Laurel  20:02  
+Laurel 
 So, you just heard from Larissa Pham. His website is www.larissapham.com. Larissa is a writer and artist. She writes and animates poems through her project called Poem Club. And special thanks to computer sound artist Madalyn Merkey, who composed HTML Energy’s intro and outro jingles.

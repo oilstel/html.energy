@@ -21,6 +21,29 @@
     <itunes:category text="Technology"></itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 6 -->
+    <item>
+      <guid isPermaLink="false">http://html.energy/larissa.html</guid>
+      <title>Larissa Pham</title>
+      <link>http://html.energy/larissa.html</link>
+      <author>htmlenergy@gmail.com (HTML Energy)</author>
+      <pubDate>Fri, 9 Apr 2020 08:00:00 EST</pubDate>
+      <enclosure url="http://html.energy/sounds/larissa.mp3" length="32780980" type="audio/mpeg"/>
+      <description>
+        <![CDATA[<p>Larissa Pham (<a href="https://larissapham.com">http://larissapham.com</a>) is a writer and artist. She writes and animates poems through her project <a href="https://lrsphm.github.io/poem-club/">Poem Club</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Larissa Pham (<a href="https://larissapham.com">http://larissapham.com</a>) is a writer and artist. She writes and animates poems through her project <a href="https://lrsphm.github.io/poem-club/">Poem Club</a>.</p>]]>
+      </content:encoded>
+      <itunes:author>Larissa Pham &amp; Laurel Schwulst</itunes:author>
+      <itunes:summary>Larissa Pham is a writer and artist. She writes and animates poems through her project Poem Club.</itunes:summary>
+      <itunes:image href="http://html.energy/images/larissa-healing-small.png"/>
+      <itunes:duration>22:22</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Larissa Pham</itunes:title>
+    </item>
+
     <!-- Episode 5 -->
     <item>
       <guid isPermaLink="false">http://html.energy/pirijan.html</guid>
