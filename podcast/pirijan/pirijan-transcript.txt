@@ -1,0 +1,89 @@
+[~15 second musical intro jingle composed by Madalyn Merkey]
+
+Elliott  0:20  
+Welcome to the HTML Energy podcast. It's good to have your energy with us today. It seems like you've been making websites from an early age. Can you describe your first experience with HTML energy?
+
+Pirijan  0:37  
+Sure, to answer that I've got to think about what HTML energy means and specifically what it means to me. HTML is this open standard. It connects documents together with links and stuff but the real great thing about it is that it connects people to information, people to other people, and also people to us as creators. We make these websites, we put them out there, and people vibe with them or not. So the way I tap into HTML energy, I guess is making what I make. Job wise, I used to be an illustrator and then a designer and now an engineer. Now I kind of combine all that together to make tools that live on the web. I like being a tool maker. HTML is an intrinsic part of that. It's the design and its the engineering.
+
+Elliott  1:23  
+I've been admiring this new tool that you've been working on called Kinopio, which I would describe as a mind mapping tool. How would you describe it and how did the idea for it come about?
+
+Pirijan  1:42  
+Sure. Yeah, it's hard to describe, but I think I've kind of settled into thinking about it as an idea for visual thinking. Other apps are more about linear thinking, like fill up the form, you know, we want to do this by this day, x person is assigned to it. It's more of a process. This is more about exploring ideas and coming up with new solutions and innovation. Both for yourself, to handle breakups or whatever, but also  for bigger workplace type scenarios. I've been working in larger companies for a while and smaller ones too. I like having that kind of contrast. You sort of notice that these big companies have an issue where it is all about the process. Like it kind of reduces people into cogs. The project managers says jump, you say how high and if there's like a bird in the way and you jump into the bird, because it's not what you've been told to do... kind of makes us all cogs in the system. And there's a lot of creativity and freedom in smaller companies, but you know, they're smaller, and I thought maybe there's like a way to bridge these ideas. And also, I've noticed when I think through ideas, a lot of times for mock ups and stuff, I was writing text into Sketch and moving it around. This is a thing that we as designers can do and it's kind of a helpful way to think through visual problems, but also how to design API or any complex structure. Normal people don't have access to that. I thought about if there was a way to bring this to people in a way that doesn't require a lot of expertise to use.
+
+Elliott  3:24  
+What's the most interesting thing that you've seen Kinopio used for?
+
+Pirijan  3:34  
+The most interesting one was when somebody told me that they used it to plan out their breakup and having been there, I could see how it would be a really useful tool for that. You anticipate how it might go or really try and decide if its right because it's a big decision. You kind of feel a way, but then also being able to write things down lets you understand why you feel certain ways. To me that kind of personal problem is like the formula one of software, and if it can be used for that kind of thing, then menial things that are a lot more common or like, you know, the Honda Civic of tasks. It just kind of works from that.
+
+Elliott  4:15  
+What I like about it is that you can use it as a private tool, but also as a public tool. You can use it for these very personal things, like mind mapping, but also you can open that up to other people, which is nice.
+
+Pirijan  4:37  
+Yeah, and you have full control over that sort of thing. When I used to work in the Trello office, I was at a company called Fog Creek which Trello kind of came out of, and back in the day, Trellos whole thing was like, we want to get in from the bottom up as opposed to we have all these salespeople that contact you... large clients who are corporate buyers who never actually use the software. I like the old Trello approach of like, you like this thing so you buy it or you share it with other people and once it hits a certain mass, then maybe you consider buying it or whatever.
+
+Elliott  5:17  
+I think that's really interesting, because it seems like you're creating a project management tool, but more for personal stuff, like life planning instead of business management.
+
+Pirijan  5:36  
+I guess it's a little bit of both. I don't want to replace or I'm not aiming to replace any business tools, but for the financial health of the tool it should talk to the needs of people in the workplace. But also it's really important for me that it talks to the needs of real people in their everyday lives. I think both of those things can happen together. It's a really delicate line you thread because, you know, we're both familiar with software that prioritizes one over the other. And you know, most people only use three apps like Instagram, Facebook, whatever because that stuff feels less corporate.
+
+Elliott  6:22  
+I like your ideas on software and how it should be built. More specifically your thoughts on how software companies should be organized. Could you explain those ideas a little bit?
+
+Pirijan  6:41  
+Sure. Yeah. I mean, they are very malleable and flexible right now because I don't necessarily feel like I have the answer. But I do know that the status quo in companies... that idea of hierarchy, the very militaristic approach... like we have the general, we have like the commanders, and then we have the peons that march into battle, and usually die and bleed. It doesn't work, it leads to shitty products. I think there are companies that do things a lot better. They generally tend to be smaller, or even like Basecamp is pretty big... I think that's a company that everybody kind of likes. It's important that experiments and ideas are not seen as failures or a waste of time and that, you give creators, a real space to try real things. I mean, constraints are good, but the constraints should be around like, what kind of problems do we want to solve for people, not necessarily, like, what are the timelines that we have or what specific technology we have to use for this. I think generally those kind of high minded principles... you see them in a lot in companies, when they're smaller, then they strike gold, and then they do the opposite of what got them to that point, which has always seemed really strange and irrational to me.
+
+Elliott  8:03  
+So before Kinopio, you worked at Glitch? Could you tell me a little bit about how you tap into HTML energy when you're working with others, as opposed to working by yourself on a project?
+
+Pirijan  8:20  
+So I think with Glitch, we wanted the working process inside the company to reflect how we talked to the community and the type of community we had outside. Glitch is a community of creators that aren't afraid to try weird zany experiments and stuff so we talked to each other to bring the best of that into the real product.
+
+When I've done my most visible work, I've been my most constrained in the sense of like, I don't have time to write two documents. I don't have time to propose two different processes. Ideally, I want to have one thing and share it publicly and you know, people from the inside see that too. We all kind of worked in that way. There wasn't like a parallel stream of what we said on the outside versus what we did on the inside.
+
+Elliott  9:25  
+If you were to bring back like one website from the dead, what website would you bring back?
+
+Pirijan  9:33  
+When I read this question, when you sent it to me earlier, I got the sense that you meant, what website that other people have made... part of like the foundations of the internet... but the site that I keep coming back to is actually one of my own sites. It was called Frog Feels, and it's still available. Its at frogfeels.com, but it's in a very neutered state than what it was. Basically, I decided when I first moved to New York, to work at Fog Creek, which eventually became Glitch... I was really inspired by a couple people who worked at Trello, who made these cool little apps for their friends, you know, like little message boards, photo tools, and little games, so I built my own. Frog Feels is basically, you come to it, you see this abstract feeling something like, I love cheeseburgers, or I really wish Newtonian physics was cool. Things that aren't really feelings but maybe that people kind of thought at one point, and those those feelings were scraped from another friend's website. The site would present you with this little drawing tool. A 20 by 20 grid with five different colors and you could change the palette. Kind of like a really simple version of the Animal Crossing pixel editor. You draw things, submit them, you could add  your email to it and then at the end of the week, I would send everyone on the mailing list, a list of all the cool pixel art that people drew. It was pretty fun. A lot of people really liked it and I like curating and making the emails but over time, it just took a lot of energy to make a weekly email. If I was smarter, I would have kind of streamlined the process and the tooling. And then I hit some sort of date change bug that really would require a big rewrite, or not a rewrite, but like a big fix and I didn't feel like investigating. I just kind of like, let it languish, and it eventually kind of just died. But I do occasionally miss that. And so if you go to frogfeels.com now, you'll see a list of all like my favorite drawings. I checked the database earlier today and there were 1800 drawings submitted and of those I really liked 180. Fortunately, I marked them in the database. I have this cool tool to do that. So you can kind of view all the different things people drew and the feelings they drew them in response. I do kind of miss that community drawing arty vibe. When I built it, it was one of the first big Glitch sites. I think for the first two years, it was the biggest site on Glitch like in terms of lines of code, files, and complexity. I used ideas from building Frog Feels, when building Glitch itself. It was really cool, like building the tool and then building like a really big expression of the tool and then having those two things kind of feed each other.
+
+Elliott  12:37  
+I like your anecdote about the Frog Feels date bug, changing the course of the website. It makes me wonder what other websites that's happened to, like a bug changing the course the site.
+
+Pirijan  12:52  
+Yeah, the easy thing to do is to shut it down. I'm sure there's like lots of old school PHP websites or whatever that hit some bug and they we're just like, screw it, I have like a real job, I don't have time to work on this. I like the idea of adapting. Basically I turned Frog Feels into a static website from something that was a lot more dynamic and had user submitted and stuff like that.
+
+Elliott  13:15  
+So maybe it has more HTML energy now...
+
+Pirijan  13:19  
+Definitely has a lot more HTML energy than it used to and a bit of CoffeeScript energy too, which is fun...
+
+Elliott  13:28  
+Is Frog Feels also the website you could txt something to?
+
+Pirijan  13:32  
+Oh, no, the feelings website that I scraped was the one you can txt things to. I basically had an ecosystem of apps with my friends. I found out the Frog Feels site was down for a couple months because that feelings website went down and the scraper would try and check it and would crash and it would just cascade down the whole app. So I basically removed the scraping check because I don't need it anymore. It's a static website. And now it works again, but there's a downside of everything being so tied together as an ecosystem. It also represents, like, a time in my life where I was super close to all these people that made these apps every week. It was a special time in my life. I guess I'd say the byproduct of it was that when one thing went down, the whole would go down, but it's an easy fix.
+
+Elliott  14:24  
+If you could describe your energy in one word, what would it be? And I'm also curious if you have  a different word for your online presence, as opposed to who you are IRL?
+
+Pirijan  14:42  
+I guess in my case, it wouldn't be too different. But the word I would choose is Wabi Sabi. Basically the idea of the pursuit of beauty in balance and perfection. Another word might be chaotic. It just feels chaotic when I make things or when I put things out there. There's this quote that I remember that might kind of speak to this. It goes something like, someone who created a work is conceived with fire in the soul and executed with precision in the hands. That's kind of like the ideal. If I had to flex a bit that's how I'd want to describe myself.
+
+Elliott  15:33  
+What's your favorite HTML element?
+
+Pirijan  15:37  
+I feel like the go to or the most important HTML element is probably the link tag. Because it combines everything. It's what HTML is based on, but I'm gonna throw maybe a bit more of a curveball and say the paragraph tag, the humble, crappy paragraph tag that you put text on the page with because like, I think the most important part of a page, especially like your conventional kind of page that's not like an app is the writing. It's the text. And when I built marketing pages or just pages talking about my favorite stuff or whatever back in the day, starting with asking yourself if its compelling content is a good place to start. If the content is good, add styling on top of that, and you're in a really great place, but if your p tags suck, no amount of like HTML, JavaScript, or CSS trickery is gonna get around that. It's kind of like putting lipstick on a pig. The pigs got to be have really great p tags.
+
+[~2 minute musical outro composed by Madalyn Merkey]
+
+Elliott  16:48  
+You just heard an interview with Pirijan Ketheswaran, a designer and engineer. Pirijan is currently working on a website called Kinopio, a creative thinking tool. You can find it at kinopio.club.
+
+Pirijan  17:21  
+Mystery is a lot harder than beauty. We all as humans know this is beautiful this is not beautiful and we all have different tastes to but with mystery, I think we know when things look or feel mysterious, even when I know that when I click on someone's name, I'll go to their personal page and it like all works predictably. But when something has a feeling of mystery, it's a lot harder to put your finger on than beauty. For me it's like what do I want people to feel when their on a website and that's an expression of the writing for sure, but also the illustration or whatever. I think a lot of websites are designed not with that as the primary kind of guiding star. If you were making slack.com, you don't really care what people feel, you just want to make them know that this is a professional tool that a lot of people rely on like GE uses Slack and so should you, which has become more of a status quo. I think if people approached even the design brief with feelings in mind, we'd have mysterious products kind of as a byproduct of that, but also definitely more interesting ones.
