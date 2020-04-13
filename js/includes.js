@@ -11,7 +11,7 @@ if (!document.querySelector(".return")) {
 }
 
 if (!document.querySelector(".footer-support")) {
-    fetch(path + "_footer.html").then(res => res.text()).then(data => {
+    fetch(path + "footer.html").then(res => res.text()).then(data => {
         document.querySelector("footer").innerHTML = data;
     });
 } else {
