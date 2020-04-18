@@ -1,0 +1,157 @@
+Laurel  0:00  
+So today on HTML energy, I talked to Emma Ray Norton, who is interested in the computer mouse and coding slowly by hand. Emma's website is marceldochamp.net.
+
+Laurel  0:35  
+Yeah, welcome to the HTML energy podcast, Emma. It's nice to have your energy here.
+
+Emma  0:42  
+Thank you for having me.
+
+Laurel  0:45  
+I wanted to start off pretty simple and ask you. What does HTML energy mean to you and how do you tap into it?
+
+Emma  0:56  
+I think it's channel energy. means kind of like a slowness to me. And I think I tap into it by by slowing down. So HTML has always been like, very Yeah, a very slow and quiet states. For me. I think it's I use it a lot to think through things that I'm thinking about.
+
+Laurel  1:24  
+Yeah, what might one of those things be?
+
+Unknown Speaker  1:28  
+I mean, I'm in school right now. And so most recently, I've been doing a lot of work on the history of the computer mouse. I've used HTML just to I mean, I use HTML to think through things visually. So it's a way for me to kind of get down the things that I'm thinking about into a structure and then just be able to move things around within that structure. So a lot of like, I've been doing research on the mouse for over a year and it's a lot of there's a lot of different threads of that research. And so yeah, use HTML as a way to kind of like bring those things together and move them around and think about, think about what I'm thinking about in different ways.
+
+Unknown Speaker  2:12  
+Yeah, I saw that you made a scrolling mouse lecture, that's presented as a webpage. I love how the two sides are scrolling independently. So it really looks to me like prioritized my own understanding.
+
+Unknown Speaker  2:32  
+Like I could feel free to move either section.
+
+Unknown Speaker  2:37  
+Yeah, I was wondering how you got interested in the mouse.
+
+Unknown Speaker  2:41  
+I got interested in the mouse because I tried to build one while in school. And so I'm in this kind of like creative technology program, we're required to take a physical computing class, which I had never done before. And I decided that I wanted to try and make my own computer mouse. I don't exactly remember why I decided that but I think it was just I had an interest in trying to make something that I interacted with, you know, like, every day, I thought that it wouldn't be the most complicated thing to do. And it turned out to be extremely hard to do. And so I think, when I was met with how complex the mouse was, I just became interested in why why was it so complex and and then also, just like, I think I was just interested in this idea of something that's like seemingly simple that looks simple that we use every day and it's like one of the most ubiquitous technologies computing technologies today that it that it requires so much. Yeah, so so many different like tiny moving parts, and so much like maintenance is involved and get A mouse to work with a computer. Like the driver, click the mouse driver is something that I haven't even really thought about at all. And just because it's like, it seems to be way over my head, or like how, how a serial, how a USB connection works like something like that, but also the shape of the mouse really interested me.
+
+Unknown Speaker  4:19  
+Yeah, what about the shape was interesting.
+
+Unknown Speaker  4:22  
+It's for your hand. I think like when you look at it, you can look at it and it looks like something that you want to pick up. But it doesn't really go much farther than that. Like there's nothing about it shape that tells you that it's for a computer, which I think is interesting. And I think I think the fact that it's for your hand is like so far from where we are now which is where like, you know, everything is baked into the screen. Everything is very flat. It feels important to me that the there's this technology that is kind of a reminder of the fact that you know, you're a human Using a computer that this thing was made for. Yeah, your your embodied self.
+
+Unknown Speaker  5:06  
+What was your first website that you ever created? Like?
+
+Unknown Speaker  5:12  
+Well, first of all, I would say, I made was called is called website with the sound of its own making. And I made that in 2010. And it was at a moment where I was also in school 10 years ago in undergrad, and I was studying photography, and printmaking and I was making a lot of work about my question was What does the internet look like? So that was like my driving question in my last two years of school. And yes, 2010 which is I think when like the first iPhone came out, like it felt like a lot of things in terms of how we're really into computers and how we're relating to each other with computers, or at least how I was experiencing computers assert a shift in thinking a lot about what the internet looks like, I decided that I want to try and learn the language of the internet or the language of the web. And so I made this very, very small website, very minimal amount of HTML is just, you know, the HTML tag, and the head tag and the body tag. And then there was an audio tag in the body tag, that was a recording of me writing that HTML page. So it was a gesture towards this question, What does internet look like? It kind of became like, you know, what, what does the internet sound like? or What does making the internet sound like? Now that was the first that was the first page I made and then I took this class in college. That was like a basic web development class with Michael Bill Smith, and I made a bunch of really funny Like hand coded web pages in that class as well. Cool.
+
+Unknown Speaker  7:05  
+How long was the audio file of the website making?
+
+Unknown Speaker  7:09  
+I think it's like a three or four minute file, but I put it into a loop. So I think like the file now is like 20 minutes. And it's also I think I put it into a loop because I eventually put it burned it onto a CD. And so I just wanted to make it a little bit longer so that people could listen to it. I've heard that it's very, like relaxing to listen to all your work, or it kind of like it's a nice to listen to while you're doing computer work. Because it's just typing. But I think it's very short. I don't I mean, I think the amount of time that it takes to type out, you know, HTML tags, head tags, the body tag and an audio tag.
+
+Unknown Speaker  7:50  
+Yeah, that does sound very soothing. There reminds me of how now during the quarantine, it's really nice to hear other people doing menial tasks.
+
+Unknown Speaker  8:00  
+Yeah, yeah, this night, someone mentioned that recently, like, I was on a zoom call, and they were just saying how nice it is to kind of Yeah, hear like the background, like even just like a car driving by or someone closing the door. It like creates a little bit more intimacy, I think.
+
+Unknown Speaker  8:30  
+Do you have a favorite HTML element? I think at one point, it was the marquee tag. I think I think that that tag is like deprecated. Right, or like, it still works, but it's kind of like doesn't really work that well, or something. But I do really like that tag just because I don't know. It's like, it's just representative like a different kind of web. I think then, like marquee tags seems like something that you would that you would want or need for your page. I think now, you know, when the marquee tag goes away, I think my second favorite HTML element would be the span tag. The weapon. I think that's because the span tag and the span. Yeah, yeah. I think that's because it doesn't have any, like inherent styles attached to it. And it's like not a block level element. So like it doesn't, you can put a span tag around something super specific. That's not necessarily related to what it is. I mean, it requires CSS to do stuff with it. But I think kind of like being able to be hyper specific with the with the tag is exciting to me. I'm always like, every time I make an HTML page, I always remove all of the inherent CSS that's applied to those tags. And just work I like to work from like the ground. It's kind of, yeah, it kind of goes against, I guess what works well about HTML, but I do often do that. So this fan tag does that for me.
+
+Unknown Speaker  10:05  
+Well, nice choice. So what's your what's my tag? Oh, this is hard.
+
+Unknown Speaker  10:12  
+I know I actually really like the audio tag. Yeah, we have some good audio tags on the HTML energy website. So yeah.
+
+Unknown Speaker  10:24  
+Anyway, I want to ask you about your workshop, hand coding Round Robin, which from what I understand is, is a slow coding collaborative workshop that you first did at the school for poetic computations code societies program. Is that right?
+
+Unknown Speaker  10:45  
+Actually first did it in tune choice, who is the founder of as one of the founders of SPC in his class at NYU. So yeah, first did it last last year. I'm in a class called teaching as art. I lead that workshop. Yeah, to a small group of people. But I think I did it to probably like the biggest group of people at us at PCs code societies. Yeah, this past January. It's funny because I'm realizing that everything's coming out of school, the structure of the classes to kind of develop your own workshop. And HTML is just something that I've always been. I mean, for a long time, I've been really comfortable with like, I learned web development kind of very slowly on my own. And like in a class in undergrad, I just felt like a language that I was very comfortable using. And so it was like one of these things that I was excited to teach and share with other people. And so when I got into this when I got into teens class, I think it kind of immediately became clear that I wanted to have a workshop developed around hand coding, and I don't really remember how the Round Robin cart materialized, but I think like simultaneously like part of the workshop, the beginning of the workshop starts with like, it starts with like a little lecture that I give. And the lecture is like kind of just goes over some of the things that I think about a lot, which is like the relationship between humans and computers and kind of like how computing has evolved over time how it's like, it started with this very like physical kind of interaction where there was like a sense Lino like software and that it was very like hands on. And it's kind of evolved into this like seamless, proprietary, very like flattened interaction. I just like to present that history to like, recognize why I'm interested in something in hand coding, which I feel like is a little bit closer to that feeling of being more intimate with her computer and also slower and so the round robin Part kind of plays into that idea of like loosening, kind of like removing someone's like the control or some of like the ownership that you have over your computer and feeling what it feels like to move around someone else's computer. I don't know, I just think that's something that like, we don't really do. I feel like a lot of I feel like a lot of deep attachments to like my personal computer. And I think it's important to at least question why I feel the attachments and also like how how real like how much illusion is involved in that attachment and what it feels like to kind of let go of some of that until the round robin part is where you know, people will stand up and move to someone else's computer and continue the workshop which is just building HTML pages, HTML and CSS web pages.
+
+Unknown Speaker  13:56  
+Yeah, yeah. And do you prompt your participant pins with anything like, like, if they're like, well, what should I write?
+
+Unknown Speaker  14:03  
+Yeah, so I realize actually, the code societies workshop that is really nice. It's like the group is already kind of in conversation with each other. And they're already very comfortable with each other. And so my first prompt is to just like have the participants kind of like meditate on the moment that they're in and just put down like a thought or a question that they have for the group. Because the next prompt is that someone will come to your computer and respond to that thought or that question. The first prompt, I have them write in a instead of a p tag. So the structure is that all like, I'll give this kind of like question or prompt and then I'll also ask them to write it in a specific tag. And so I don't know depending on like, time I'll I try and go through like, I think I use like the p tag and the blockquote tag and maybe it was tag An image tag and it doesn't it hasn't really ever gone too much. gone too much further than that because of time.
+
+Unknown Speaker  15:07  
+Yeah. And I saw you did a virtual version of this recently. How did that? Yeah. How did that go? And how did it compare to the real life version?
+
+Unknown Speaker  15:20  
+Those really surprisingly, really nice. I think like the thing that I think the difference is the for the virtual version, a bunch of people came together who like don't even know each other people were very open and generous about what they wrote in the tags, which was like really exciting, but I think there is definitely just like, something missing in terms of Yeah, like a precedence of like, Why all these people in the same were in the same. I mean, the precedence was that we were on quarantine. So actually, a lot of amazing stuff came out about that, but I think it just felt different to not be in a room where everyone kind of had our Either knew each other or just or had already been in the same space for a little bit of time. And we did it, we had to do it on glitch pages instead of usually have people just have a like a code editor and a browser, which I think is like can be really exciting for people who have never written HTML before just to kind of like see what they're writing appear in their browser, which they use all the time. We had to do it in the in this virtual version on glitch. Yeah, I think other than not, it felt it felt pretty much the same. It's just I think it's a little bit. It feels very weird to teach online. I think it feels weird to just kind of like, not feel the physical presence of everyone in the room, but to go really well. I was really happy with how it turned out and how many people were also excited about it.
+
+Unknown Speaker  16:55  
+Yeah, I would love to do one. If you ever do it again. Sounds really therapeutic to me. Somehow,
+
+Unknown Speaker  17:01  
+yeah,
+
+Unknown Speaker  17:02  
+a lot of people said that I think it's kind of like, it is very like meditative. And it's just a really nice way. I'm realizing more and more like more than kind of like, learning how to hand code. I think it's like just a really a nice way to put people in conversation with each other. It's just like, yeah, like low pressure, and kind of therapeutic where you can kind of like, just read something that someone else said and kind of take your time to respond to it. And it's, it's also pretty anonymous. Like, you don't have to like put your you don't necessarily know who wrote what you're responding to. Um, so I think that's also kind of relaxing in some way.
+
+Unknown Speaker  17:44  
+So if you could bring any website back from the dead, which website would it be?
+
+Unknown Speaker  17:57  
+It's a hard question because I feel like I didn't like it. grew up on the internet. But I feel like I didn't. I wasn't I was never part of like any community online or like any there are no websites like I'm like, remember really that I want to bring back?
+
+Unknown Speaker  18:15  
+What do you remember about that time when you say you grew up online?
+
+Unknown Speaker  18:20  
+I just remember AOL Instant Messenger. Like, I feel like that's a lot. I also remember growing up like, I would see my grandma every weekend. Um, and I remember giving her like computer lessons every weekend and so a lot of it I think that's also where some of this like hand coding slowness comes from is just like having to be slow with someone who did not grow up with computers. Yeah, let's tangential. I think like I can't, I think maybe a website that I would want to bring back is like, yeah, a Craigslist from like the earliest Since the late 90s, I think it would just be interesting to see what is going on in that time on the internet. And like, I think I just feel like an interesting way to like peek into, I don't know, misconnections or like the electronics for sale page or something like that. Also, because Craigslist is a website that just hasn't changed
+
+Unknown Speaker  19:19  
+at all.
+
+Unknown Speaker  19:21  
+Yeah, that would be really fascinating. Yeah, it's funny, because it looks like it doesn't change overall, but I feel like they're always making little improvements. So if you could describe your energy in one word, what word would that be?
+
+Unknown Speaker  19:38  
+I think and I kind of realized this about myself, I'd code societies. And I think it would be porous. Yeah, this word came to me during closed societies. And I think it's my energy is porous, meaning that I'm very open and then I am very like sensitive to other people's energies. And that Yes, sometimes really good and sometimes not so good. But I think it's very Yeah, it kind of it my energy I think changes a lot based on the energy that's around me very easily. Does that make sense? Yeah.
+
+Unknown Speaker  20:15  
+I guess when I think of porous I think of like a porous rock that has a lot of holes in it. Yeah, yeah. And so that makes sense. Like the water if you are like a porous rock in the ocean, the water would just like rush through you, right?
+
+Unknown Speaker  20:33  
+Yeah, I think the other word I think what is also set a spongy and I'm remembering sometimes like, I feel too full of enter like too full of energies around me. And then sometimes that feels very heavy, like a sponge being full of water early, like a rock in the ocean. And then other times it feels very light, but still, like open.
+
+Unknown Speaker  20:56  
+It's funny. I feel like I could describe myself that way too. But I won't go there.
+
+Unknown Speaker  21:04  
+I feel that from you what one, one or two times we've met.
+
+Unknown Speaker  21:12  
+Well, what gave you that feeling?
+
+Unknown Speaker  21:14  
+at all? I don't know. There's just like it. I think it's like the energy that you give off feels similar maybe to the energy. It felt very like familiar to me your energy. And so like, I think the way I'm describing my energy, and if you're saying that you feel that you have a similar energy, I think it just like, I think that's true.
+
+Unknown Speaker  21:36  
+Or I felt that from you.
+
+Unknown Speaker  21:39  
+Cool. No, I agree. Yeah.
+
+Unknown Speaker  21:44  
+So I know you've been talking about HTML for a while. But what's your opinion on CSS?
+
+Unknown Speaker  21:50  
+I think it's interesting to me like I always think HTML and CSS has been kind of like tightly coupled is interesting to just think about HTML alone. It's something that I haven't done a lot.
+
+Unknown Speaker  22:06  
+Yeah. I mean, I feel like what I like about HTML only is maybe something you said about HTML really thing about this way to meditate on the structure of the thing itself, because it is semantics and hierarchy.
+
+Unknown Speaker  22:26  
+Do you think HTML energy website shouldn't have any CSS?
+
+Unknown Speaker  22:31  
+I don't think so.
+
+Unknown Speaker  22:35  
+I think the relationship between CSS and HTML is so exciting. HTML is exciting in that Yeah, like you said, it's like semantic that there's so much structure that you've already built into it that you can lean on, but then I think to just be able to also use CSS to like, I don't know make that structure your own is important. unexciting
+
+Transcribed by https://otter.ai
