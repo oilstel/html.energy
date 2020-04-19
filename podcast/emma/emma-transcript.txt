@@ -95,76 +95,70 @@ Laurel  15:07
 Yeah. And I saw you did a virtual version of this recently. How did that go? And how did it compare to the real life version?
 
 Emma  15:20  
-It was really surprisingly, really nice. I think the difference is ... for the virtual version, a bunch of people came together who didn't even know each other. People were very open and generous about what they wrote in the tags, which was like really exciting, but I think there is definitely just like, something missing in terms of Yeah, like a precedence of like, Why all these people in the same were in the same. I mean, the precedence was that we were on quarantine. So actually, a lot of amazing stuff came out about that, but I think it just felt different to not be in a room where everyone kind of had our Either knew each other or just or had already been in the same space for a little bit of time. And we did it, we had to do it on glitch pages instead of usually have people just have a like a code editor and a browser, which I think is like can be really exciting for people who have never written HTML before just to kind of like see what they're writing appear in their browser, which they use all the time. We had to do it in the in this virtual version on glitch. Yeah, I think other than not, it felt it felt pretty much the same. It's just I think it's a little bit. It feels very weird to teach online. I think it feels weird to just kind of like, not feel the physical presence of everyone in the room, but to go really well. I was really happy with how it turned out and how many people were also excited about it.
+It was really surprisingly, really nice. I think the difference is ... for the virtual version, a bunch of people came together who didn't even know each other. People were very open and generous about what they wrote in the tags, which was really exciting. But I think there was definitely something missing in terms a precedence of why all these people in the were in the same... I mean, the precedence was that we were on quarantine, so actually a lot of amazing stuff came out about that. But I think it just felt different to not be in a room where everyone had either knew each other or had already been in the same space for a little bit of time. And we had to do it on Glitch pages. Usually have people just have a like a code editor and a browser, which can be really exciting for people who have never written HTML before ... just to see what they're writing appear in their browser, which they use all the time. We had to do it this virtual version on Glitch. Yeah, I think other than that, it felt it felt pretty much the same. It feels very weird to teach online. I think it feels weird to just not feel the physical presence of everyone in the room. But it did go really well. I was really happy with how it turned out and how many people were also excited about it.
 
-Unknown Speaker  16:55  
-Yeah, I would love to do one. If you ever do it again. Sounds really therapeutic to me. Somehow,
+Laurel  16:55  
+Yeah, I would love to do one, if you ever do it again. Sounds really therapeutic to me too, somehow.
 
-Unknown Speaker  17:01  
-yeah,
+Emma  17:01  
+Yeah, a lot of people said that. It is very like meditative. I'm realizing more and more ... more than learning how to hand code, it's just a really a nice way to put people in conversation with each other. It's low pressure and kind of therapeutic where you can  just read something that someone else said and take your time to respond to it. And it's also pretty anonymous. You don't necessarily know who wrote what you're responding to. And  I think that's also kind of relaxing in some way.
 
-Unknown Speaker  17:02  
-a lot of people said that I think it's kind of like, it is very like meditative. And it's just a really nice way. I'm realizing more and more like more than kind of like, learning how to hand code. I think it's like just a really a nice way to put people in conversation with each other. It's just like, yeah, like low pressure, and kind of therapeutic where you can kind of like, just read something that someone else said and kind of take your time to respond to it. And it's, it's also pretty anonymous. Like, you don't have to like put your you don't necessarily know who wrote what you're responding to. Um, so I think that's also kind of relaxing in some way.
-
-Unknown Speaker  17:44  
+Laurel  17:44  
 So if you could bring any website back from the dead, which website would it be?
 
-Unknown Speaker  17:57  
-It's a hard question because I feel like I didn't like it. grew up on the internet. But I feel like I didn't. I wasn't I was never part of like any community online or like any there are no websites like I'm like, remember really that I want to bring back?
+Emma  17:57  
+It's a hard question because I feel like ... I grew up on the internet. But I was never part of like any community online ... there are no websites I remember that I really that I want to bring back.
 
-Unknown Speaker  18:15  
+Laurel  18:15  
 What do you remember about that time when you say you grew up online?
 
-Unknown Speaker  18:20  
-I just remember AOL Instant Messenger. Like, I feel like that's a lot. I also remember growing up like, I would see my grandma every weekend. Um, and I remember giving her like computer lessons every weekend. And so a lot of it I think that's also where some of this like hand coding slowness comes from is just like having to be slow with someone who did not grow up with computers. Yeah, that's tangential. I think maybe a website that I would want to bring back is la Craigslist from like the early aughts or the late 90s. I think it would just be interesting to see what is going on in that time on the internet. And like, I think I just feel like an interesting way to like peek into, I don't know, misconnections or like the electronics for sale page or something like that. Also, because Craigslist is a website that just hasn't changed
+Emma  18:20  
+I just remember AOL Instant Messenger. [laughs] I feel like that's a lot. I also remember growing up ... I would see my grandma every weekend. I remember giving her like computer lessons every weekend. That's also where some of this hand coding slowness comes from. Just having to be slow with someone who did not grow up with computers. Yeah, that's tangential. I think maybe a website that I would want to bring back is a Craigslist from the early aughts or the late 90s. I think it would just be interesting to see what is going on in that time on the internet. I think it would just be an interesting way to peek into, I don't know, missed connections or the electronics for sale page or something like that. Also, because Craigslist is a website that just hasn't changed... at all.
 
-Unknown Speaker  19:19  
-at all.
+Laurel  19:21  
+Yeah, that would be really fascinating. Yeah, it's funny, because it looks like it doesn't change overall, but I feel like they're always making little improvements.
 
-Unknown Speaker  19:21  
-Yeah, that would be really fascinating. Yeah, it's funny, because it looks like it doesn't change overall, but I feel like they're always making little improvements. So if you could describe your energy in one word, what word would that be?
+So if you could describe your energy in one word, what word would that be?
 
-Unknown Speaker  19:38  
-I think and I kind of realized this about myself, I'd code societies. And I think it would be porous. Yeah, this word came to me during closed societies. And I think it's my energy is porous, meaning that I'm very open and then I am very like sensitive to other people's energies. And that Yes, sometimes really good and sometimes not so good. But I think it's very Yeah, it kind of it my energy I think changes a lot based on the energy that's around me very easily. Does that make sense? Yeah.
+Emma. 19:38  
+I kind of realized this about myself at Code Societies. I think it would be "porous". Yeah, this word came to me during Code Societies. My energy is porous, meaning that I'm very open and very like sensitive to other people's energies. And that is sometimes really good and sometimes not so good. Yeah, my energy changes a lot based on the energy that's around me very easily, if that make sense.
 
-Unknown Speaker  20:15  
-I guess when I think of porous I think of like a porous rock that has a lot of holes in it. Yeah, yeah. And so that makes sense. Like the water if you are like a porous rock in the ocean, the water would just like rush through you, right?
+Laurel  20:15  
+Yeah. I guess when I think of porous I think of ... like a porous rock that has a lot of holes in it. Yeah, so that makes sense... If you are a porous rock in the ocean, the water would just like rush through you, right?
 
-Unknown Speaker  20:33  
-Yeah, I think the other word I think what is also set a spongy and I'm remembering sometimes like, I feel too full of enter like too full of energies around me. And then sometimes that feels very heavy, like a sponge being full of water early, like a rock in the ocean. And then other times it feels very light, but still, like open.
+Emma  20:33  
+Yeah, I think the other word I've said is "spongy". Sometimes I feel too full of energies around me. And then sometimes that feels very heavy, like a sponge being full of water or like a rock in the ocean. And then other times it feels very light but still open.
 
-Unknown Speaker  20:56  
-It's funny. I feel like I could describe myself that way too. But I won't go there.
+Laurel  20:56  
+It's funny. I feel like I could describe myself that way too. But I won't go there. [laughs]
 
-Unknown Speaker  21:04  
-I feel that from you what one, one or two times we've met.
+Emma  21:04  
+I feel that from you. The one or two times we've met. [laughs]
 
-Unknown Speaker  21:12  
-Well, what gave you that feeling?
+Laurel  21:12  
+Whoa, what gave you that feeling?
 
-Unknown Speaker  21:14  
-at all? I don't know. There's just like it. I think it's like the energy that you give off feels similar maybe to the energy. It felt very like familiar to me your energy. And so like, I think the way I'm describing my energy, and if you're saying that you feel that you have a similar energy, I think it just like, I think that's true.
+Emma  21:14  
+Well, I don't know. It's just the energy that you give off feels similar maybe ... It felt very like familiar to me, your energy. And so the way I'm describing my energy, and if you're saying that you feel that you have a similar energy, I think that that's true. Or I felt that from you.
 
-Unknown Speaker  21:36  
-Or I felt that from you.
-
-Unknown Speaker  21:39  
+Laurel  21:39  
 Cool. No, I agree. Yeah.
 
-Unknown Speaker  21:44  
+Laurel  21:44  
 So I know you've been talking about HTML for a while. But what's your opinion on CSS?
 
-Unknown Speaker  21:50  
-I think it's interesting to me like I always think HTML and CSS has been kind of like tightly coupled is interesting to just think about HTML alone. It's something that I haven't done a lot.
+Emma  21:50  
+I think it's interesting to me like I always think HTML and CSS has been kind of like tightly coupled. I think it's interesting to just think about HTML alone. It's something that I haven't done a lot.
 
-Unknown Speaker  22:06  
-Yeah. I mean, I feel like what I like about HTML only is maybe something you said about HTML really thing about this way to meditate on the structure of the thing itself, because it is semantics and hierarchy.
+Laurel  22:06  
+Yeah. I mean, I feel like what I like about HTML only is maybe something you said about HTML really being about this way to meditate on the structure of the thing itself because it is semantics and hierarchy.
 
-Unknown Speaker  22:26  
+Laurel  22:26  
 Do you think HTML energy website shouldn't have any CSS?
 
-Unknown Speaker  22:31  
-I don't think so.
+Emma  22:31  
+I don't think so. [laughs] I think the relationship between CSS and HTML is so exciting. HTML is exciting in that, yeah, like you said, it's semantic ... that there's so much structure already built into it that you can lean on. But then I think to just be able to also use CSS to make that structure your own is important and exciting.
 
-Unknown Speaker  22:35  
-I think the relationship between CSS and HTML is so exciting. HTML is exciting in that Yeah, like you said, it's like semantic that there's so much structure that you've already built into it that you can lean on, but then I think to just be able to also use CSS to like, I don't know make that structure your own is important. unexciting
+[Musical outro composed by Madalyn Merkey begins, then fades out]
+
+[Sound of a website being made]
