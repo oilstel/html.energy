@@ -73,7 +73,7 @@ Laurel  10:05
 Cool, nice choice.
 
 Emma  10:08
-What's your favorite my tag?
+What's your favorite tag?
 
 Laurel  10:10
 Oh, this is hard. I actually really like the <audio> tag. Yeah, we have some good <audio> tags on the HTML energy website. So, yeah. [laughs]
@@ -86,7 +86,7 @@ Actually first did it in Taeyoon Choi's, who is one of the founders of SFPC, in 
 It's funny because I'm realizing that everything's coming out of [laughs] school. The structure of the classes to kind of develop your own workshop. And HTML is just something that for a long time, I've been really comfortable with. I learned web development very slowly on my own in a class in undergrad. It just felt like a language that I was very comfortable using, and so it was one of these things that I was excited to teach and share with other people. When I got into Tayeoon's class, it immediately became clear that I wanted to have a workshop developed around hand coding. And I don't really remember how the Round Robin part materialized, but the beginning of the workshop starts with a little lecture that I give. And the lecture is goes over some of the things that I think about a lot, which is like the relationship between humans and computers and how computing has evolved over time... how it's started with this very physical kind of interaction where there was ostensibly no software, and it was very hands-on. And it's kind of evolved into this seamless, proprietary, very flattened interaction. I like to present that history to recognize why I'm interested in something like hand coding, which I feel is a little bit closer to that feeling of being more intimate with your computer, and also slower. So the round robin part plays into that idea of loosening, kind of like removing someone's like the control or some of like the ownership that you have over your computer and feeling what it feels like to move around someone else's computer. I just think that's something we don't really do. I feel like a lot of I feel like a lot of deep attachments to my personal computer. And I think it's important to at least question why I feel those attachments, and how much illusion is involved in that attachment, and what it feels like to let go of some of that. So the round robin part is where people will stand up and move to someone else's computer and continue the workshop ... which is just building HTML pages... HTML and CSS web pages.
 
 Laurel  13:56  
-Yeah, and do you prompt your participant pins with anything? If they're like, "What should I write?"
+Yeah, and do you prompt your participants with anything? If they're like, "What should I write?"
 
 Emma  14:03  
 Yeah. So I realized at the Code Societies workshop that it's really nice if the group is already in conversation with each other and they're already very comfortable with each other. So my first prompt is to have the participants meditate on the moment that they're in and put down a thought or question they have for the group. Because the next prompt is that someone will come to your computer and respond to that thought or that question. The first prompt, I have them write, inside of a <p> tag. So the structure is that I'll give this question or prompt and then I'll also ask them to write it in a specific tag. And so depending on time, I try and go through ... the <p> tag and the <blockquote> tag and maybe a <ul> tag and an <img> tag, and it hasn't really ever gone too much farther than that because of time.
