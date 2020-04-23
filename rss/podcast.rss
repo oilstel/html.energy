@@ -21,9 +21,32 @@
     <itunes:category text="Technology"></itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 7 -->
+    <item>
+      <guid isPermaLink="false">http://html.energy/podcast/emma</guid>
+      <title>Emma Rae Norton</title>
+      <link>http://html.energy/emma</link>
+      <author>htmlenergy@gmail.com (HTML Energy)</author>
+      <pubDate>Sun, 19 Apr 2020 08:00:00 EST</pubDate>
+      <enclosure url="http://html.energy/podcast/emma/emma.mp3" length="38499710" type="audio/mpeg"/>
+      <description>
+        <![CDATA[<p>Emma Rae Norton (<a href="https://www.marceldochamp.net">http://marceldochamp.net</a>) is interested in the computer mouse and coding slowly by hand.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Emma Rae Norton (<a href="https://www.marceldochamp.net">http://marceldochamp.net</a>) is interested in the computer mouse and coding slowly by hand.</p>]]>
+      </content:encoded>
+      <itunes:author>Emma Rae Norton &amp; Laurel Schwulst</itunes:author>
+      <itunes:summary>Emma Rae Norton is interested in the computer mouse and coding slowly by hand.</itunes:summary>
+      <itunes:image href="http://html.energy/podcast/emma/emma-porous-small.png"/>
+      <itunes:duration>26:20</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Emma Rae Norton</itunes:title>
+    </item>
+
     <!-- Episode 6 -->
     <item>
-      <guid isPermaLink="false">http://html.energy/larissa</guid>
+      <guid isPermaLink="false">http://html.energy/podcast/larissa</guid>
       <title>Larissa Pham</title>
       <link>http://html.energy/larissa</link>
       <author>htmlenergy@gmail.com (HTML Energy)</author>
@@ -46,7 +69,7 @@
 
     <!-- Episode 5 -->
     <item>
-      <guid isPermaLink="false">http://html.energy/pirijan</guid>
+      <guid isPermaLink="false">http://html.energy/podcast/pirijan</guid>
       <title>Pirijan Ketheswaran</title>
       <link>http://html.energy/pirijan</link>
       <author>htmlenergy@gmail.com (HTML Energy)</author>
@@ -69,7 +92,7 @@
 
     <!-- Episode 4 -->
     <item>
-      <guid isPermaLink="false">http://html.energy/marie</guid>
+      <guid isPermaLink="false">http://html.energy/podcast/marie</guid>
       <title>Marie Otsuka</title>
       <link>http://html.energy/marie</link>
       <author>htmlenergy@gmail.com (HTML Energy)</author>
@@ -92,7 +115,7 @@
 
     <!-- Episode 3 -->
     <item>
-      <guid isPermaLink="false">http://html.energy/korede</guid>
+      <guid isPermaLink="false">http://html.energy/podcast/korede</guid>
       <title>Korede Aderele</title>
       <link>http://html.energy/korede</link>
       <author>htmlenergy@gmail.com (HTML Energy)</author>
@@ -115,7 +138,7 @@
 
     <!-- Episode 2 -->
     <item>
-      <guid isPermaLink="false">http://html.energy/tom</guid>
+      <guid isPermaLink="false">http://html.energy/podcast/tom</guid>
       <title>Tom Bubul</title>
       <link>http://html.energy/tom</link>
       <author>htmlenergy@gmail.com (HTML Energy)</author>
@@ -138,7 +161,7 @@
 
     <!-- Episode 1 -->
     <item>
-      <guid isPermaLink="false">http://html.energy/becca</guid>
+      <guid isPermaLink="false">http://html.energy/podcast/becca</guid>
       <title>Becca Abbe</title>
       <link>http://html.energy/becca</link>
       <author>htmlenergy@gmail.com (HTML Energy)</author>
