@@ -21,6 +21,29 @@
     <itunes:category text="Technology"></itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 8 -->
+    <item>
+      <guid isPermaLink="false">http://html.energy/podcast/philip</guid>
+      <title>Philip Guo</title>
+      <link>http://html.energy/philip</link>
+      <author>htmlenergy@gmail.com (HTML Energy)</author>
+      <pubDate>Fri, 26 Jun 2020 08:00:00 EST</pubDate>
+      <enclosure url="http://html.energy/podcast/philip/philip.mp3" length="55757409" type="audio/mpeg"/>
+      <description>
+        <![CDATA[<p>Philip Guo (<a href="http://pg.ucsd.edu">http://pg.ucsd.edu</a>) is an assistant professor of cognitive science at UC San Diego. His research spans human-computer interaction, programming tools, and online learning.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Philip Guo (<a href="http://pg.ucsd.edu">http://pg.ucsd.edu</a>) is an assistant professor of cognitive science at UC San Diego. His research spans human-computer interaction, programming tools, and online learning.</p>]]>
+      </content:encoded>
+      <itunes:author>Philip Guo &amp; Laurel Schwulst</itunes:author>
+      <itunes:summary>Philip Guo is an assistant professor of cognitive science at UC San Diego. His research spans human-computer interaction, programming tools, and online learning.</itunes:summary>
+      <itunes:image href="http://html.energy/podcast/philip/philip-under-construction-small.png"/>
+      <itunes:duration>38:20</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Philip Guo</itunes:title>
+    </item>
+
     <!-- Episode 7 -->
     <item>
       <guid isPermaLink="false">http://html.energy/podcast/emma</guid>
