@@ -353,6 +353,19 @@ h1.tiny a {
   margin: 0;
 }
 
+/* Podcast grid */
+.episodes {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-top: 1px solid #d1d1d1;
+  border-left: 1px solid #d1d1d1;
+}
+
+.episodes > * {
+  border-bottom: 1px solid #d1d1d1;
+  border-right: 1px solid #d1d1d1;
+}
+
 p.info {
   text-align: center;
   margin: 2em;
