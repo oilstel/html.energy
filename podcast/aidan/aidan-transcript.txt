@@ -1,0 +1,130 @@
+[~15 second musical intro jingle composed by Madalyn Merkey]
+
+Laurel  0:20  
+Ok, so I am recording. Are you recording?
+
+Aidan  0:25
+Yeah.
+
+Laurel  0:26
+Ok, cool. Well Aiden, thanks for being on the HTML energy podcast.
+
+Aidan. 0:33
+Thank you for having me.
+
+Laurel  0:36  
+Of course.
+
+I’m curious about your background and specifically, your first introduction to HTML. I guess I know you're a designer and also web coder, programmer, or markup writer. And I was just wondering how those interests either together or separate started for you. 
+
+Aidan  1:03
+Yeah. My undergrad was in English actually. And I didn’t get into design until … I was practicing it as I was studying English, but I didn’t really take it seriously until I graduated. I was reflecting on all the things that I enjoyed most, which was like making album art for people. And then when I went back to school, I started taking web classes. And that was my first official introduction or, someone telling me actually how to do something. But my first experience was probably with Tumblr—just the sidebar with the Tumblr theme and messing with the HTML and CSS there.
+
+Laurel  1:56  
+Cool. I was just looking at your website earlier today. And I saw the title is goodpileus.net. Is that right?
+
+Aidan  2:07
+That’s my process.
+
+Laurel  2:09
+Oh, your process. Ok, yeah. So you have multiple sites. Can you tell me a little bit about your personal site or sites? And what it's like to work on them?
+
+Aidan  2:24  
+Yeah. So the goodpileus one is kind of like my blog. As I started my MFA, it was a space to start working through my process as it was changing and as space to put my work. The website that I had, my personal website, after I'd learned how to make a website, was really project oriented and geared towards working commercially or getting a job. But the projects I was making in the MFA are less containable in a project form. And so I wasn't able to update my website. And also, I had been reflecting on why I was using the web and what kind of space I would want for myself. So the first test was the goodpilius blog. It's just a Tumblr, actually. And I tried to change it enough to make it a simple feed and use it as a CMS to post something without having to pay for a server. And then for my personal site, that one’s still pretty under construction. The first iteration didn't seem like it was under construction, but I want it to always feel like it's under construction or just grow naturally with with me as I change.
+
+Laurel  4:03
+Yeah, that makes sense. So obviously your process plug you edit through the Tumblr interface. What about your main site? What's your workflow like for updating it or changing it?
+
+Aidan  4:21
+I use Atom for my text editor. And then I just publish using the GitHub Pages. That’s pretty much it. It’s always historically been a single page sort of thing. But yeah
+
+Laurel  4:43
+Yeah, kind of like an index or like landing sort of page.
+
+Cool. Yeah, I was on your website the past couple of weeks and feeling like there's something really slow and kind of trance-like I experience when I look at your works, whether they're web based or images or videos. And I was wondering if you could speak to the kinds of things you're aiming for as you make work.
+
+Aidan  5:21  
+Slowness is a really important thing for me, at least when making work. I'm generally anxious a lot of the time. When imagining what kind of space … or how I can create a space for myself while I'm making and something that will exist after the fact for myself and for others … it's usually slow or meditative or working towards calming something. Yeah.
+
+Laurel  5:55  
+Does that relate to the class you're teaching now: A Handmade Web?
+
+Aidan  6:00  
+Yeah … so this is the first time I've taught it. It was a little rough this first time. Mostly, I was just concerned with communicating the essentials. I was trying to throw in some things that were less technical and more like conceptual or focused on really thinking about making on the web. But I think I'm still developing my voice. I'm going to teach it next semester. More of these reflective moments I'll try to work into the class.
+
+Laurel  6:46  
+Cool. I want to go back to the past. Are there are any specific website you'd like to bring back from the dead?
+
+Aidan. 6:57
+Yeah, there is one. The website itself is actually still preserved. It’s Ursula K. Le Guin’s website, the writer. When she passed, her estate changed her website to a new site. So they archived her website, but they moved it to a different domain name. And the new websites is nice, but it's kind of like a bootstrap site. And her old site, it wasn't coded by her, but it was built by a friend of hers. It fully encapsulates her energy. And it's early web in its feeling. I know it's still there, but it's under an archive URL. And it's a little harder to find. That would be the website I wish it would re-emerge from it’s hidden space. But it’s still there, so…
+
+Laurel  7:55
+Yeah, I think I have faint memories of going to it. If I'm not mistaken, did it have frames?
+
+Aidan  8:01  
+I don't know if it had frames. It had a sidebar nav. 
+
+Laurel
+Yeah, that's probably what I remember. Do you remember any other things about it? Like, did she have special pages?
+
+Aidan  8:14  
+Yeah, she had really specific pages.
+
+Laurel  8:17  
+Yeah, I was on the website of the poet Eileen Myles recently. And learned that she has an “Animals” page where she just updates… It's only a page that lives online—information about animals she's known in her life. And I thought that type of content could really only live here, It seems. Especially since it's like regularly updated. 
+
+I feel like I'm starting to understand like full circle, where you're coming from. You were writing, or interested in literature, and music. And I feel music can have slowness or meditative aspects to it. It makes me wonder too, if you have any specific like processes apart from making websites or visual work that you incorporate into your practice or your or how you are in the world?
+
+Aidan  9:31  
+I used to spend a whole lot of time outside. And going on hikes or like bike rides have always been really important to me. And that's something I wish was more of my like part of my practice now. But also sitting down and resting for a while. Or being by myself… is a big part of my process or practice just in order to focus or let myself breathe and get to a point where I can trust myself.
+
+Laurel  10:16  
+Yeah. That reminds me… Can you tell me how your “Sundays” project began?
+
+Aidan  10:22  
+Yeah, it emerged in trying to think of some way that I could take a day off. I was reading articles or essays about the Sabbath, which is the day of rest within some religions. And I can't remember all the specific details, and there are varying degrees of severity or intensity or commitment to it. Where some people don't even turn on the lights in their house. But yeah, just the idea of reorganizing the way that we think about work and our schedules. And just picking a day out of the week, the same day, every week, to take a rest and stop working to allow yourself to take a break.
+
+So the website itself is like a reflection on it and like a negation. In a sense, it’s enacting work. So the idea was that I was supposed to open the the website manually by inserting the code, or just typing out the code that day, on Sunday, by hand, and then publishing it. And then at the end of the day, I would take it down and reintroduce the shop shutter. So it functions like a little tiny shop, which negates the idea of the Sabbath because it's doing work, or it functions as a shop and I'm doing the work to put it up. The the work that I still do occasionally, most of the time, I forget to open the shop. Yeah, the work itself was usually like a tiny poem or like a meditative webspace to let myself rest for a second.
+
+Laurel  12:23
+Yeah, I love that even the shutters themselves echo that sentiment of resting. It’s a very peaceful schedule and site to look at, even when it's closed.
+
+What might you imagine your website or websites looking like in the future or like, let's say in 10 years?
+
+Aidan  12:49  
+I want my website to grow into an even more personal space, I think. I don't know exactly how it would look. But I definitely … I've been thinking about friendship. I know you have the friend’s… the webring.
+
+Laurel. 13:12
+[laughs] Yeah, I was calling it "friend confetti" for a while.
+
+Aidan  13:17  
+Yeah. Just reflecting on my community moreso. And  using it as a space in that way. Also just allowing it to grow out naturally from itself, rather than… I feel like I'm always trying to impose control over it. So yeah.
+
+Laurel  13:39
+Yeah, and another thing I've been thinking about is that making personal websites seems to occupy a specific need for people, or role and people's lives. And I was wondering, like, let's say you didn't make websites…  how might you fill that role in a different way? So I guess like the question is two parts: What is it filling? And if you didn't do it, what what else would you do?
+
+Aidan  14:16  
+Yeah, I mean, I still don't know even know exactly why I got into making websites. I think it felt natural. Like I've always wanted to be able to make my own website. And then when I got the skills, or when I learned how to, it was just fun and exciting. And that’s what I’m trying to think about when I'm teaching is just trying to make it accessible because the idea of a website feels so official at this point, or it feels so like unattainable or inaccessible. In at least teaching it, I’m trying to break down those arcane barriers. It exists outside of yourself in some way, and then it lives on in some capacities. You still have to maintain it and stuff. I think that’s part of what it fills. Or why websites are interesting. I don’t know though. I feel that’s all over the place. I think it’s just that it’s fun. I don’t know if there’s like… And then yeah, if I weren't making websites, I would probably be making books. And I still am. That's something that I've also kind of gotten into again, is bookmaking. I made a little anthology or reader or all the texts that I've been reading or the passages that were important to me. And also, for the MFA, we have to work towards a thesis. So there's a lot of research. I'm doing the air quote with my fingers. [laughs] So part of it’s that, but also a lot of it is personal or spiritual. It’s mostly for me. So the book itself is a collection of all those things. I was thinking, when I was making it, “I could make this a website.” And I still want to take the idea that I was running with, with the book, and move it into a webspace. Something that can be populated and updated a little bit easier, and also offer access to other people. Because I derive a whole lot of energy from from the texts themselves. But yeah, I really love the book. I keep going back to it and looking into it… just for when I'm lost or something or if I need like inspiration.
+
+Laurel  17:14
+So, it’s like a centering device or something. Cool.
+
+Something else I've been thinking about that I sense in your work, and maybe some of my own, not that I can speak objectively about it, is maybe a type of spirituality interest, And I'm not even sure how to define spirituality. But you know, there's a kind of meditative or sometimes trance-like effect. And I'm not sure if trance is the right word… But also your project about taking a break on Sundays has a religious history. And I'm wondering if you think there's a kind of innate spiritual quality in HTML or the web that you sense?
+
+Aidan  18:07  
+I've been sort of looking at it from the lens of like … I don't know, and I don't know why I'm like creating this dichotomy between the idea of design and spirituality. In some ways, it feels like spirituality can't exist within design, or that it's shunned. And maybe that's what I felt was missing, or what I felt is missing on the web. And not that it is missing, but it is missing from the majority of the places that we spend a lot of our time in. And so when I think about personal websites, they resonate with energy or spirituality that doesn't exist in the same way. But I also I don’t feel I can’t make that claim either. Maybe someone’s Instagram feed is a place for spirituality too. Or it can carry the same energy as a personal site.
+
+Laurel  19:08
+I think my thoughts are still developing on this too. The main reason I was thinking about it was because I had a client project, who told me they reached out to me specifically versus another designer because they sensed a spirituality within my work, and the project at hand needed that sort of energy.
+
+Laurel  19:33  
+Which brings me to another specific question I had in mind for you, which is… How would you describe your energy in one word?
+
+Aidan  19:40
+Yeah. I mean, one word I was thinking of is “bittersweet.” Just because it kind of occupies two spaces. But I really love that word, actually. Yeah, I think “bittersweet.”
+
+[~2 minute musical outro composed by Madalyn Merkey]
+
+***
+
+This was first transcribed by https://otter.ai and later edited quickly by HTML Energy.
