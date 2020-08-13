@@ -160,6 +160,8 @@ Yeah, it makes me think of like these different protocols like IPFS and even tal
 Omar  26:05  
 Yeah, I think like one of the, like, one thing they talked about there is like, you know, sometimes you want to have things that'll be archived forever, like you're writing something, publishing and sometimes ephemeral things. Yeah, I think HTML was originally made in the 90s for these purposes of like scientific publishing and creating personal home pages and things like that and it's been stretched and distorted to cover all these other things. I think it'll be nice to have HTML, go back to those roots a little bit.
 
+[~2 minute musical outro composed by Madalyn Merkey]
+
 Laurel  27:14  
 How could you write an HTML page that was kind of like a letter to your future self?
 
@@ -183,5 +185,3 @@ What's your favorite HTML element?
 
 Omar  29:59  
 Yeah, so I really like, description lists, I don't know, if you all are familiar with them, there's like a, there's like a few different elements into like description lists world–there's like <dl> and <dt> and <dd>. They are kind of what you would use if you were making a webpage that was like supposed to be a dictionary. So you can see a description list is made up of a bunch of description items. And then each item, there's like, you can have a term and then you can have a definition. And there's literally like tag a tag where you put the term inside and the tag where you put the definition inside. And usually the browsers will like bold the term and like make the definition italic or whatever, but I like it because it's actually pretty useful and it's like really specific. A lot of HTML elements like divs or even like header and footer and stuff like that are basically just a box where you put things inside of it. But here I feel like these elements kinda reach into the content, and they're like, this is the slot where you put what the term is and this is the slot where you put what the definition is. So it's like very specific, but it's still general enough to be useful in a lot of different contexts.
-
-[~2 minute musical outro composed by Madalyn Merkey]
