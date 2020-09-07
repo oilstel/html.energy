@@ -65,18 +65,34 @@
     .message.html .highlight {
       background: #BCFFBF;
     }
-    .footnotes ol {
+    ul.footnotes {
       padding-left: 2.25em;
     }
     .footnotes li {
-      margin-bottom: 1em;
+      margin-bottom: 1.5em;
       padding-left: 0.5em;
+    }
+    .footnotes li:last-of-type {
+      margin-bottom: 0.5em;
+    }
+    .footnotes li.neta {
+      list-style: none;
+    }
+    .footnotes li.neta:before{
+      content: '';
+      display: inline-block;
+      height: 25px;
+      width: 25px;
+      background-image: url('images/neta-transcendent-small.png');
+      background-size: 100% 100%;
+      position: absolute;
+      left: 1em;
     }
     .footnotes :target {
       background: yellow;
     }
     .edit {
-      color: grey;
+      color: gray;
     }
     @media only screen and (max-width: 500px) {
       .avatar {
@@ -139,7 +155,7 @@
                   
                   We also explore Ritu and Neta’s collaboration and friendship.<br><br>
 
-                  <em>The transcript of the interview has been annotated and edited by the interviewees to honor their intentions.</em>
+                  <em>After the interview took place, the transcript has been highlighted by HTML Energy and annotated with strikethroughs, comments, and footnotes by the interviewees to honor their intentions.</em>
                 </div>
             </div>
             </details>
@@ -781,7 +797,7 @@
                   <p>
                     What Ritu and I do in general… we send each other things
                     that we're thinking about. <s class="edit">Like</s>
-                    <span class="edit">S</span>creenshots, selfies, or photos,
+                    <span class="edit">s</span>Screenshots, selfies, or photos,
                     or just any type of material references that we feel is in
                     line with the type of things that we strive to make, or at
                     least want to be—or imagine ourselves being in
@@ -1488,9 +1504,11 @@
         <td colspan="2" class="accordion">
           <details open>
             <summary>Footnotes</summary>
-            <div class="content footnotes">
-            <ol>
-              <li id="activist">
+            <div class="content">
+                To use the back links on these footnotes, please make sure all the transcripts are open above.</em>
+            <br><br>
+            <ul class="footnotes">
+              <li id="activist" class="neta">
                 I don't like the word activist because it often gets
                 conflated with organizer and doesn't describe what I do.
                 Regardless of their similarities, organizing and activism
@@ -1510,7 +1528,7 @@
                   >↩</a
                 >
               </li>
-              <li id="detroit-zine1">
+              <li id="detroit-zine1" class="neta">
                 This is incorrect, I misspoke. I knew the content for the
                 zine would consist of writing regarding what the students
                 where experiencing within the class curriculum.
@@ -1520,7 +1538,7 @@
                   >↩</a
                 >
               </li>
-              <li id="ritu-detroit">
+              <li id="ritu-detroit" class="neta">
                 I misspoke again. Before I went to Detroit, myself and the
                 team knew it would be too much for me to design and
                 generate content for the zine. So, Ritu was brought on on
@@ -1538,7 +1556,7 @@
                   >↩</a
                 >
               </li>
-              <li id="undergrad">
+              <li id="undergrad" class="neta">
                 To clarify, I studied media studies with a specialization
                 in journalism in undergrad. I briefly minored in graphic
                 design before dropping the minor. I continued to study
@@ -1548,7 +1566,7 @@
                   >↩</a
                 >
               </li>
-              <li id="manipulate">
+              <li id="manipulate" class="neta">
                 I corrected myself because I'm practicing not using
                 language that reifies master/slave or command and control
                 logic within programming. Here, I don't see my
@@ -1559,7 +1577,7 @@
                   >↩</a
                 >
               </li>
-            </ol>
+            </ul>
           </div>
         </td>
       </tr>
