@@ -21,6 +21,35 @@
     <itunes:category text="Technology"></itunes:category>
     <itunes:explicit>no</itunes:explicit>
 
+    <!-- Episode 11 -->
+    <item>
+      <guid isPermaLink="false">http://html.energy/neta-ritu.html</guid>
+      <title>Neta Bomani & Ritu Ghiya</title>
+      <link>https://html.energy/neta-ritu.html</link>
+      <author>htmlenergy@gmail.com (HTML Energy)</author>
+      <pubDate>Wed, 9 Sep 2020 08:00:00 EST</pubDate>
+      <enclosure url="http://html.energy/sounds/neta-ritu.mp3" length="2520000" type="audio/mpeg"/>
+      <description>
+        <![CDATA[<p>Neta Bomani (<a href="https://netabomani.com">https://netabomani.com</a>) is a worker who engages in social practices like oral history and direct action through organizing and making archives, writings, prints, zines, computational objects and workshops.</p><p>Ritu Ghiya (<a href="https://www.r-i-t-u.com">https://www.r-i-t-u.com</a>) is an artist who works as a designer and web developer. Her digital works involve retrieving and archiving personal and collective ephemera – in an attempt to channel the serendipity of the offline world.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Neta Bomani (<a href="https://netabomani.com">https://netabomani.com</a>) is a worker who engages in social practices like oral history and direct action through organizing and making archives, writings, prints, zines, computational objects and workshops.</p><p>Ritu Ghiya (<a href="https://www.r-i-t-u.com">https://www.r-i-t-u.com</a>) is an artist who works as a designer and web developer. Her digital works involve retrieving and archiving personal and collective ephemera – in an attempt to channel the serendipity of the offline world.</p>]]>
+      </content:encoded>
+      <itunes:author>Neta Bomani, Ritu Ghiya, &amp; Laurel Schwulst</itunes:author>
+      <itunes:summary>
+        We interviewed Ritu and Neta together because they recently collaborated on the website https://maskon.zone, a mostly text-based protest guide focused around anti-surveillance.
+
+        This experimental epsidode was recorded asynchronously over the encrypted messaging app Telegram from July 17–24, 2020.
+
+        We also explore Ritu and Neta’s collaboration and friendship.
+      </itunes:summary>
+      <itunes:image href="http://html.energy/images/omar-gentle-small.png"/>
+      <itunes:duration>42:57</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Neta Bomani & Ritu Ghiya</itunes:title>
+    </item>
+
     <!-- Episode 10 -->
     <item>
       <guid isPermaLink="false">http://html.energy/omar.html</guid>
