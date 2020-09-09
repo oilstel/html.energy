@@ -75,7 +75,8 @@
     .footnotes li:last-of-type {
       margin-bottom: 0.5em;
     }
-    .footnotes li.neta {
+    .footnotes li.neta,
+    .footnotes li.ritu {
       list-style: none;
     }
     .footnotes li.neta:before{
@@ -88,11 +89,31 @@
       position: absolute;
       left: 1em;
     }
+    .footnotes li.ritu:before{
+      content: '';
+      display: inline-block;
+      height: 25px;
+      width: 25px;
+      background-image: url('images/ritu-still-small.png');
+      background-size: 100% 100%;
+      position: absolute;
+      left: 1em;
+    }
+    a.footnote-link {
+      background: rgba(255,255, 0, 0.2);
+      color: black;
+    }
+    a.footnote-link:hover {
+      background: rgba(255,255, 0, 1);
+    }
     .footnotes :target {
       background: yellow;
     }
-    .edit {
-      color: gray;
+    .footnotes a {
+      color: black;
+    }
+    .footnotes a:hover {
+      background: white;
     }
     @media only screen and (max-width: 500px) {
       .avatar {
@@ -536,6 +557,7 @@
                       href="#activist"
                       aria-describedby="footnote-label"
                       id="activist-content"
+                      class="footnote-link"
                     >
                       "activists" (which is a term I'm not really fond of)</a
                     >
@@ -553,16 +575,13 @@
                       particular platform, is that it's sitting on top of
                       technology, very "low level" technology we might say,
                       but technology that we already have, which is just using
-                      our voices<span class="edit">,</span>
-                      <s class="edit">using our</s> networks of neighbors<span
-                        class="edit"
-                        >,</span
-                      >
+                      our voices,
+                      <s class="edit">using our</s> networks of neighbors, 
                       <s class="edit">and</s> friends and community members to
                       organize amongst.</span
                     >
                     <s class="edit">And I think s</s>
-                    <span class="edit">S</span>ome of the things that Ritu was
+                    Some of the things that Ritu was
                     <s class="edit">sort of</s> alluding to in his
                     conversation about, you know, the static nature of
                     Instagram and <s class="edit">sort of like</s> images
@@ -797,7 +816,7 @@
                   <p>
                     What Ritu and I do in general… we send each other things
                     that we're thinking about. <s class="edit">Like</s>
-                    <span class="edit">s</span>Screenshots, selfies, or photos,
+                    Screenshots, selfies, or photos,
                     or just any type of material references that we feel is in
                     line with the type of things that we strive to make, or at
                     least want to be—or imagine ourselves being in
@@ -828,6 +847,7 @@
                       href="#detroit-zine1"
                       aria-describedby="footnote-label"
                       id="detroit-zine1-content"
+                      class="footnote-link"
                     >
                       <s class="edit"
                         >or what kind of content would be in that zine.</s
@@ -846,14 +866,13 @@
                       href="#ritu-detroit"
                       aria-describedby="footnote-label"
                       id="ritu-detroit-content"
+                      class="footnote-link"
                     >
                       <s class="edit"
                         >And so once I realized that well into the session, I
                         was like, “Hey Ritu, I’m doing these interviews, I
                         need help designing because I can't interview and
-                        design.” So
-                        <span class="edit">we</span>
-                        brought her into that project.</s
+                        design.” So we brought her into that project.</s
                       ></a
                     >
                     And <s class="edit">then</s> with
@@ -950,7 +969,17 @@
                   </p>
                   <p>
                     I sent Neta this page of this book I have. The page is
-                    from this archive of zines from Germany in the 70s. And
+                    from 
+                    
+                    <a
+                      href="#zine"
+                      aria-describedby="footnote-label"
+                      id="zine-content"
+                      class="footnote-link"
+                    >
+                    <s>this archive of zines from Germany in the 70s</s>
+                    </a>.
+                    And
                     they had this like psychedelic page that said,
                     <span class="highlight"
                       >“Think of your desires as realities.” And I sent it to
@@ -970,9 +999,18 @@
                     Like during this time, we were also teaching a zine
                     workshop to teachers at the Cornell Tech program during
                     quarantine. It was supposed to be a straightforward summer
-                    zine workshop, but what we decided to do is put together a
+                    zine workshop, but what we decided to do is
+                    <a
+                      href="#curriculum"
+                      aria-describedby="footnote-label"
+                      id="curriculum-content"
+                      class="footnote-link"
+                    >
+                    put together a
                     curriculum that we're calling “Alternative Zine
-                    Histories.” So I was very inspired, and I collected
+                    Histories.”
+                    </a>
+                    So I was very inspired, and I collected
                     readings that I felt really aligned. And Neta collected,
                     like Ida B. Wells posters, like pamphlets—things that
                     aren't a part of the normative zine history that we think
@@ -1310,6 +1348,7 @@
                       href="#undergrad"
                       aria-describedby="footnote-label"
                       id="undergrad-content"
+                      class="footnote-link"
                     >
                       I studied in undergrad in terms of design.</a
                     >
@@ -1318,11 +1357,11 @@
                     how to code until later in my life. I was a student at the
                     School of Poetic Computation in the fall of 2018. And
                     that's where I <s class="edit">really solidified my</s>
-                    <span class="edit"> began a</span>
+                    began a
                     <s class="edit">website making</s> coding practice.
                     <s class="edit">And still,</s>
-                    <span class="edit">I</span>n <s class="edit">some</s>
-                    <span class="edit">many</span> ways, I’m not so solid on
+                    In <s class="edit">some</s>
+                    many ways, I’m not so solid on
                     that. I'm still figuring it out. But since then, I've been
                     making a lot more websites and interested in making more
                     websites.
@@ -1350,6 +1389,7 @@
                       href="#manipulate"
                       aria-describedby="footnote-label"
                       id="manipulate-content"
+                      class="footnote-link"
                     >
                       <s class="edit">manipulate and</s> play with. Actually
                       scratch “manipulate,” I'm just gonna say “<span
@@ -1380,15 +1420,22 @@
                     &lt;span&gt; surprised me!
                   </p>
                   <p>
-                    <span class="highlight"
-                      >I started making websites a few years ago. I studied
-                      media theory in my undergrad, so designing and coding
-                      came to me just as interests and ways I could make
-                      money</span
+                    <a
+                      href="#job-ritu"
+                      aria-describedby="footnote-label"
+                      id="job-ritu-content"
+                      class="footnote-link"
                     >
-                    if I didn't want to have a full-time job. And I'm
-                    definitely still figuring my way around both of those
-                    things and what freelancing means to me.
+                      <span class="highlight"
+                        >I started making websites a few years ago. I studied
+                        media theory in my undergrad, so designing and coding
+                        came to me just as interests and ways I could make
+                        money</span
+                      >
+                      <s>if I didn't want to have a full-time job</s>. And I'm
+                      definitely still figuring my way around both of those
+                      things and what freelancing means to me.
+                    </a>
                   </p>
                   <p>
                     <span class="highlight"
@@ -1556,6 +1603,22 @@
                   >↩</a
                 >
               </li>
+              <li id="zine" class="ritu">
+                This is a much loved book of mine that's faded into my library, why I couldn't even remember its name, <a href="https://spectorbooks.com/under-the-radar-reprint">Under the Radar (Reprint) Underground Zines and Self-Publications 1965 – 1975</a> published by Spector Books. It's a design and culture resource for archival images and texts from underground zine culture in the 60s/70s. It's thoroughly researched but also has its ear to the ground – I felt like this book opened up new worlds for me! 
+                <a
+                  href="#zine-content"
+                  aria-label="Back to content"
+                  >↩</a
+                >
+              </li>
+              <li id="curriculum" class="ritu">
+                We've since uploaded our curriculum on <a href="https://www.are.na/ritu-ghiya/alt-histories-of-zine-making-neta-bomani-ritu-ghiya">this are.na channel</a>. This research and field of study into creating alternative zine histories is ongoing and a cornerstone of our ongoing research and practice.
+                <a
+                  href="#cirriculum-content"
+                  aria-label="Back to content"
+                  >↩</a
+                >
+              </li>
               <li id="undergrad" class="neta">
                 To clarify, I studied media studies with a specialization
                 in journalism in undergrad. I briefly minored in graphic
@@ -1574,6 +1637,12 @@
                 rather an act of play where I tease out the options the
                 computer's programming language has for me.
                 <a href="#manipulate-content" aria-label="Back to content"
+                  >↩</a
+                >
+              </li>
+              <li id="job-ritu" class="ritu">
+                When I came out of school, I had some full-time roles in the arts and startups where I didn't feel listened to or supported to the extent in which I believe workplaces should. I left those full-time jobs a bit traumatized by the collateral damage that employees, especially those from underrepresented backgrounds, have to navigate for the companies they work for. In hopes of finding a bit more autonomy and inspiration, I started to pick up coding simple websites, and for now, I work for myself full time designing and coding.
+                <a href="#job-ritu-content" aria-label="Back to content"
                   >↩</a
                 >
               </li>
