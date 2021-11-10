@@ -1,1 +1,353 @@
-coming soon!
+[~15 second musical intro jingle composed by Madalyn Merkey]
+
+Laurel  
+Hey everyone, welcome to HTML Energy. My name is Laurel. So, today I have a pretty special recorded conversation to share with you. This is a conversation I had with musician and video creator, Bill Wurtz. Bill has prolifically created songs and videos now for many years. And some of his videos have gone quite viral. For instance, his video titled "history of the entire world, i guess," currently has over 100 million views on YouTube. So, about a year and a half ago, in April 2019, I invited Bill to my class at Yale called "Interactive Design." So you'll soon hear a recorded conversation from my classroom, where we talk about Bill's work and approach. But we specifically keep coming back to Bill's website, which is located at www.billwurtz.com. And "Wurtz" is spelled w-u-r-t-z. Alright, hope you enjoy it.
+
+Thanks for coming here. 
+
+Bill  
+Thank you for having me.
+
+Laurel  
+Yeah, of course. So maybe just to give some context again, this is a class that's called "Interactive Design and the Internet." So we've been learning some basic HTML, CSS and JavaScript [laughing] but also thinking about what it means to publish online as an individual creator. So we just took a little look at your website and everything. We were  thinking you could tell us more about your website and why you created it.
+
+Bill  
+Yeah, it's kind of like escaping from prison, honestly. [laughing] There's this dream that I used to have a lot, which is like a flying dream, but it's not a good flying dream. I keep having this dream. But it's like, you know, you can't fly. But you realize that if you just jump pretty high and pust push down really hard, you can get a little bit off the ground. It's the realization that if I'm just patient, and I just do that a bunch of times, you can get as high as you want. So I've had that dream a lot of time. So how does that relate ... what was the point of that? It's like escaping from from jail, and like you think you can't get out of jail. But then all of a sudden, you realize you actually could ... if you just take one piece of the wall out at a time, you can do it. Is that making any sense?
+
+Laurel  
+Yeah.
+
+Bill  
+The thing is that I grew up in the digital age, or just going into the internet. And the internet started when I was a kid. There was always a general idea that it was going to be really helpful. Because traditionally, if you want to be an actor, or a musician, or a singer... there's this idea that you have to go to LA and you have to get noticed by the right people. And maybe I would have had the stomach to do that if I was living in 1950 or something. But I just got the feeling that the internet was going to be a nice way to sort of circumvent all that. So yeah, I kind of always knew that I was going to be able to somehow do that.
+
+Laurel  
+Yeah. And about when was it that you started your website?
+
+Bill  
+Well, I actually didn't start the website until 2014. Which may seem weird because the website has the honor that was done as far back as 2002. But I'm a very, very hesitant, patient person. When I was born — this might seem irrelevant — I was super late being born, but also super quick. [laughing] And I realized that that's kind of that pattern is everywhere in my life. When I have to wake up to go somewhere else ... I'll stay in bed, stay in bed, stay in bed, stay in bed ... all of a sudden, like, you know, I've gone. I'm out the door. Pretty much a lot of things I do that way. I don't wait, but I am just very, very careful putting all the pieces together. Writing, you know, a bazillion different things. Writing songs, you know. Playing, developing ... years and decades worth of musical experience and all that stuff. So it wasn't until 2014 that I actually got the website and then started filling it with everything I had.
+
+Laurel  
+Yeah, and it seems like you've kept very careful track of when you made everything. Was that important to you?
+
+Bill  
+Yeah. I think it is. It seems like everything in this world is going through time and is experiencing time. So if you look at music, if you look at movies, and you look at when it's made, you always know when it's made. And it tells its own story. Reality tells its own story ... again and again and again, just through time. So yeah, I think it's really important to know when stuff happened.
+
+Laurel  
+And that reminds me about your personal schedule. Could you tell us a little bit about it?
+
+Bill  
+Right now it's in shambles. I'm being dragged along. Dragged along by a rope, you know. [laughing] When you do everything yourself, it can take a long time. Especially because the main stuff that I generally do is fully audio visual content — you know, songs, videos, videos with songs, or songs with video — there's a lot of pieces to put together if you do it by yourself. So if you're also a raging perfectionist ... put all that together, and it just takes forever to get anything done. You're always fighting against that. So I've always been just kicking myself, trying to make this happen faster. And I had a big breakthrough last fall. And I essentially went to like 4x speed. That was my best time before I suddenly just had a crisis and just just went to 2 weeks per music video. And I did that 7 times in a row. And then I got greedy, because I wanted to put the non-songs back in. So then I said, but I don't want to interrupt the 2 weeks. So I got greedy. I tried to do a non-song on Tuesday, and then 2, and I never succeeded. And as a result, the whole thing came crashing down. I've been being dragged along ever since... kind of averaging maybe one every three weeks, which is still way better than before. But I'm suffering right now regarding schedule. The target is 1 week. I'm going for that 1 week, right and get full music video done in 1 week. My grand record of all time is probably 11 days. So I'm still gonna have to make some innovations to make that possible. But that's where we're at.
+
+Laurel  
+I've heard you say that "the schedule is life or death." Because you describe yourself as a perfectionist. So it allows you to battle yourself, or something.
+
+Bill  
+Yeah, well the thing is, if you're working off schedule ... and you're just doing what you want when you want to do it ... the project will just eat itself alive. Also I get a real kick out of watching like behind the scenes TV production things like there's a whole behind the scenes Seinfeld thing. I barely even seen the show Seinfeld, but I've watched more of the behind the scenes. And it's just it just, it just shakes me to the core in the best way because I'm reading now watching interviews with Jerry Seinfeld and Larry talking about how to do the rewrite of the script and literally run down the hall because there's no time you got to do and you got to Yeah, so yeah, speed, there's speed has its thrills, because it gets you to do it gets you to make crazy decisions and take crazy risks. The other one is behind the scenes southpark hardly seen any southpark. But they do their own show, and they do the show in a week, Simpson somehow spends eight months on every episode. That works that family does. But South Park does it in a week. And it's crazy. And they think that the world is gonna end every single time and they're stressed because they can't they can't, you know, and right before it's about to be released. You know, Trey Parker is like nearly suicidal because he thinks the thing sucks so much. She's like, this is the worst thing ever. But it's not perfectly good. And then you know, and then and he's over it, and then it goes on TV and everyone likes it. It's cool. Otherwise you would have and they also said, This is what kills me. They also said they've tried it where they work over the summer on a couple of episodes to try to get it better. And they say those ones always are the worst ones.
+
+Laurel  
+That's funny. Yeah, I mean, it's interesting, you comparing your song and video making to shows because you're just kind of like a one man band, I would say, but these have multiple people working on them. So to me it kind of feels like you almost have to pretend to be multiple people.
+
+Bill  
+Oh yeah, at least 10 to 20 different roles ... it's really stupid, honestly. I should really learn to get along with other people.
+
+Laurel  
+Is that a real wish?
+
+Bill  
+Yeah, sort of. It never worked. I used to be scared because there's a lot of I call it collabo propaganda. People will tell you that you're supposed to collaborate and you have to collaborate. They say look at Lennon and McCartney, look at this and that, you know. When I was younger, I assumed that you had to collaborate because everyone always says you're supposed to. And so I was stressed out about that. Because how's that gonna work? You know, no one's going to get what I'm trying to do. And I don't like what they're trying to do. And then one day, I saw an interview with someone...uh it was actually James Taylor; singer-songwriter. I still can't find this clip, I need to find this clip. I know it exists because I saw it, I think, but I'm not so sure anymore. I search for it now, I see myself because I've used this anecdote before. So that's what you get when you Google that. But it was like, "do you collaborate?" And he says, "you know, I don't really collaborate well. And that's one of the things I like about songwriting and what I do, because it really is something you can do all by yourself." And like, because I had been secretly wishing that that was legit, forever. And I was just, you know, I was too scared, because society kind of frowns upon that. But now, some people can do it themselves. And it has, it has its pros and cons. But having complete control over the whole thing, you can do crazy things. You can write scripts that you would never be able to pitch to anyone.
+
+Laurel  
+Yeah, that reminds me of when I was going to your questions page and he said something like, "it's easy to forget that you have creative freedom, like in a situation, as long as you're not working for anyone else." I find that line really valuable when I'm working alone to remember.
+
+Bill  
+Sometimes I feel like I can only think clearly when I feel like I'm breaking some ridiculous rule. I mean, one of the first videos, one of the earliest videos that — it was a ramble — but it got edited and made it onto say, with earliest things, I'm walking around with a camera in the room, just trying to figure out what the hell to do. And I look at the keyboard, and I just don't know ... I flipped the chair over upside down, a regular room...it's an upside down chair. And then...when I flipped the keyboard upside down, put the keyboard — piano keyboard — upside down. And then I took the keyboard stand and I put it on top. So like that kind of thing is the only way I can ever start thinking clearly. Because when I just take the whole thing and just and just break it, break the game ... then I start having fun. That's the only way I can get started.
+
+Laurel  
+That reminds me, we listened to your one second song called "bears" before this.
+
+Bill  
+That was actually part of another strategy, which comes into play, and I always suggest this when people say "I want to do this, I want to do that. I want to write this, I want to write songs, write movies and dadada ... It was too many moving parts." Yeah, it's too many moving parts. You have to — and I've never really heard this strategy from anyone else — but it works, it really works. It really worked for me. Start with insanely short things. And I've used that strategy in many ways. The "bears" was actually the second. The first one I did was called "die" ... "it's just gonna die." So all you need ... but it's it's, you know, a fully recorded thing so it's got, what do you need? Kick drum, the cymbal, the vocal, the chord, the bass note, the video has one word. But it's like, you get to zip through all those different things that you got to do. And you learn about the process because you get to everything boom. All you got to do is like one note on this. And then one thing on that and like boom, learning, instant learning. And then you gradually increase the length from there. "bears" was actually I had to do that. Because I meant to start with one second. I'm gonna go two seconds. But on "die" the crash cymbal rang out for like two seconds, so "bears" was actually one second. 
+
+Laurel  
+So one second, I see. And then can you tell us a little bit about — we were on your reality page earlier — and you were like, "Oh, I want to start making a really long video." 
+
+Bill  
+Oh when is this from?
+
+Laurel  
+Oh, I think this was 2016. But we're just wondering ... those two videos, "history of japan" and "history of the entire world, I guess," are like huge undertakings. And so could you tell us maybe first, how those evolved? But second, what does the research process for a year long project look like and how do you schedule that?
+
+Bill  
+I was really winging it and I'm kind of amazed that the Japan one, Japan was first, kind amazed that it worked as well as it did. But it was because I've been doing short ones for so long. And I was even I got, see i kind of accidentally just when I was sick of doing short stuff. I accidentally got super viral on Vine which is like the app in like six seconds is the time limit there. Great, because like it loops and I'm sure content works really well but I was just getting insanely sick of doing short stuff and all of a sudden that was where the audience was. So I had to do those like every day for like a long time. But because I did all that it just refined my skills like so much. I mean I started doing four part harmonies or three part harmonies on everything, just recording, producing the crazier graphics, everything. So then that's how I finally lost my mind...I'm doing a long history video, I don't care what anyone says. I was surprised at how well it worked. Just because I already had the procedure, you know? Like, do you do the audio first? Do you do the video first? It's like a trillion questions. So I was really surprised how smoothly that went because before that I never did anything longer than...she's not even 30 seconds. And somehow it just worked. And research is like, I don't know, just use the internet, I guess. I actually had a disclaimer at the beginning that was kind of like the South Park disclaimer, which is like, "the information here is ... could be completely ridiculous. I don't really know or care that much if it's true." But I just took that disclaimer out just for the hell of it. But I don't know, I just use the internet. I don't really know what else to say about the research.
+
+Laurel  
+The second video was like 20 minutes long.
+
+Bill  
+And that one never would have worked if I hadn't done the Japan. 
+
+Laurel  
+Seatbelt yourself, huh?
+
+Bill  
+Yeah, and the thing with the history thing, and I already had huge, massive viewership on Japan — I mean it was already at that point 30 million ... 20 million — so I knew. And everyone was asking me, every single day in my life, "when are you going to do another thing?" This is Japan right. Most people were thinking linearly, like they were expecting I would do another country or the next country over. And I was like, no, you don't get it. So yeah, the idea was to make  — 'cause Japan was a huge surprise, because everyone knew me from Vine and it was just super short — and I was like ... so I needed to do, like yeah whole world. And I wasn't gonna do it, I was gonna do America. But then I just said, you know, life is short, just try the whole world and I knew the pain that that was going to be. But you got to try it, you know? You got to try telling history of the entire world. You got to just go for it. But it was brutal. I mean, the total time for Japan, it was three months production time. For history of the world, it was ... I was kicking and screaming the whole way through ... 11 months. Just working as fast as I can just panicking every single day that I was going to lose the entire audience, if another day goes by with no with no releases. People asking me every single day, when are you going to make another history [...]? Are you afraid that you're gonna lose your audience? Because you because you never ... because you're inactive? People telling me I'm inactive every single day. 
+
+Laurel  
+Did you take a break after? 
+
+Bill  
+Not really. 
+
+Laurel  
+Not really [laughing]. You don't have ads on these videos, is that right? 
+
+Bill  
+Well, the thing is ... I have now on YouTube, I'm kind of playing the game with everyone else. The reason — well as a real drag and it really sucks, especially when I'm targeted and stuff and the thing is that I remember like before there were ads on YouTube, like so I remember the first time there was ever an ad on YouTube. And it was like that feeling like, no, this is ruined now. So that feelings carried over for a long time because they give you the option to not have ads. I just figured having ads on your videos on YouTube really makes it a miserable experience, so I held on to that for a long time. And then I turned on display ads — there's logistical reasons why I did that, it doesn't cover the video, I used the one thats just a picture to the side — the reason there's a technical reason for that — I dont know if this is getting too deep — there's a technical reason for that one, because in order to get the Red ... YouTube Red, which is now called YouTube Premium income, you actually have to check the box that includes some type of ad. So I chose the one that was ... so that's why I did that because I figured if I'm not even gonna be getting YouTube Red income then that's really silly. But now ... sorry this is so boring ... but as of recently, I actually turned on the five second skippables and the reason is, is because I found out finally for sure what everyone suspected, which is that if you don't have good monetization enabled, the YouTube algorithm will not be nice to videos. Which makes perfect sense because they ... need to make money. So and I was able to prove it because I had a video that was listed as number two on trending. It was like right at the top of the trending list when you click trending ... there it is number two. But when you go to a fresh browser, go to youtube.com front page, there's this line of five videos that says "trending videos". And those videos are being picked from like, the top 10ish. And if you keep refreshing the page, they'll mix around but it's all videos from the top 10 ... mine was never showing up, even though I knew it was number two on trending. So then I went into the settings, turn the five second skippable ads on, hit refresh ... boom it was there. So now I know, now I'm five second skippables ... Oh, well I'm making probably quite a bit more money now from that anyway. So anyway sorry that was a long boring story.
+
+Laurel  
+Oh no. But you're really ... for a while you were very anti ads and — 
+
+Bill  
+They just suck ... I think, I mean, some people I guess like ads and just watch ads [laughing]. I thought most people don't like them. And it's especially ridiculous when it's like the same one over and over again. Yeah, they just suck, I dont know. 
+
+Laurel  
+Yeah I mean, going back to your personal website, which is a place that is ad free.
+
+Bill  
+(...) 
+
+Laurel  
+Yeah [laughing]. I wonder if we could like talk a little bit about that. As someone who's been really curious about your work for a long time, I feel like it's super generous because not only do you have the mp4 videos just right there, but like, you also kind of have a trail through your whole process.
+
+Bill  
+Yeah. Ironically, nowadays, most people don't even know how to download a file from the internet. So when I give all that stuff for free... like, here's the file, there it is ... kaboom, download. Most people don't even know that. They don't even know how to like ... so if they prefer YouTube, that's fine. Go ahead. I make money from that so that's okay. But, I don't know why all websites are sooo bad. But like, you look something up online, and here's the thing that says, "okay, this has the information." You click on it —  maybe my computer just isn't good enough — but no website ever loads on my computer. The Facebook share thing, those always load first. And then they jump around the page like Chester (...). And then like, an ad will load. And then finally the content loads for like half a second then it jumps. And then and then all of a sudden, there's like a signup box to sign up for this website that I've never heard of. So it's like, why are all ... I don't know why all websites are like that, but all websites are like that. It's insane [laughing], because I'm just looking for a piece of text. And if you've just put a piece of text on the thing, it loads freakin instantly. And it's like, you know, and occasionally you'll stumble upon websites that are that were made in 1997. And they're just texts, and they load so fast. And they're so friendly. It's just bam, there's the thing. And it's like, I just I can't even tell you the excitement that I get when I find all those sites. So of course, it's a no brainer. I'm lucky it's still legal to do that. One day, it's gonna not be legal to do that. Or something. Yeah, I dont know.
+
+Laurel  
+Yeah ... And can you tell us a little bit about some of the maybe weirder sections on your website? Like, for example, the reality page? Why hasn't it been updated in a couple years [laughing]?
+
+Bill  
+Over and over and over again? Yeah, it's probably just because I'm perfectionist. And I want to ... thing is the whole reason the reality page is ever anything good or interesting ... is because I can edit it with an iron fist. Most people don't realize I leave these recordings on like, I mean, the entire way here I had it on. So yeah, not only just the graphics, that's actually the least part. It's actually going through the stuff and finding stuff that's good enough and piecing it together. And trying to ... it's really thrilling. I always knew I could do it, I just didn't even do the editing until four years after I'd already been coding. So when people say ... it's funny, because right after "history of japan" came out, I went and built the reality page for the first time. And I went through the last four years of audio things, spent weeks going through finding the bits editing together, then putting graphics on it and doing that. Finally the thing came out. And there it is, and it has my stopping point, I decided I was going to be right before I started editing, if that makes sense. The stopping point for the content released was actually going to be right before I started doing the producing, because otherwise you just get journals about journals about journalism about journalism. So ironically, like the day after I released it, people started saying, why don't you update that page anymore? Why did you stop doing that? I just like, you don't get it. I just started. Yes. Anyway. I still haven't figured out how to answer that. 
+
+Laurel  
+Yeah, that's a good answer. And this leads me to another question, which is like, do you think documenting your work in such a comprehensive way as generative for your process? Or does it slow your production time?
+
+Bill  
+Well, it might slow me down. But for some reason, it's just what I have to do. It's just the way I have to do it. 
+
+Laurel  
+Like, get ideas churning? Or? 
+
+Bill  
+No ... just ... I don't know, it just makes me feel more comfortable. Especially because it's kind of like you're escaping from a deserted island. There's no one taken from a deserted island is an awesome thing to do, by the way. And if you can succeed at doing that— 
+
+Laurel  
+You've done it? 
+
+Bill  
+Well, that's kind of a metaphor for escaping from the obscurity of feeling like you should be a really successful and famous person. And feeling like you're good enough to be that but having no comprehension of how to even interact with other people, basically. So yeah, but like, again, if you're like getting off of a deserted island, it's a pretty awesome thing to do and you're gonna want there to be a story about it. So ... it's also very difficult to do so if you're gonna do it. And if you think there's any chance that you might make it out, you kind of want to start documenting the whole thing because by the time you get out, that's gonna be super valuable. So that was kind of the general idea behind kind of just recording every move I make, because I knew that one day, it would, it would, it would pay off and I'd be able to like edit the hell out of it, which makes it even more fun.
+
+Laurel  
+Yeah, I feel like personally, I would do a lot of stuff at the same time just because it keeps me like fresher like makes me not precious about any one thing. So I figured that that was part of the reason but seems ... 
+
+Bill  
+No ... I actually don't like doing multiple projects at the time. Because once you're allowed to escape from one project, you just kind of escaped from home. So there's pretty much ... I've gotten myself over my head, you know, because I keep adding these sections. I love to do anagrams all time so, eventually, I added a section on the site for that. So every time I add a new section, there's a new way for people to complain that I'm not, you know, like, why did you abandon that page? You just don't like it anymore? It's like ...  there's like 10 ... 20 different things. I have Twitter, I have a million different things. You know, it's, that's whatever, my problem.
+
+Laurel  
+So the pages are kind of like little projects themselves, even though they have updates, it's like ... people shouldn't expect that you're going to update them. 
+
+Bill  
+Yeah, I just, you know, it's getting in over my head. It's just really common for me. 
+
+Laurel  
+Cool, maybe I'd open it up to all of you. If you have any questions for Bill? 
+
+Bill  
+I should have said this before. I was gonna say questions you should ask them when you think of them, because then ... but I forgot. 
+
+Student 1  
+I was... 
+
+Laurel  
+Oh, yeah, go ahead. 
+
+Student 1  
+I was wondering, because you post on your personal website, but you also post on a variety of social media platforms ... what difference you see in those experiences? And how you're interacting with your audience?
+
+Bill  
+Yeah, originally, I wanted to be just a website. Well, actually, here's the thing I should say, when I was finally ready to explode. Like I've been doing all the songwriting and recording and all this stuff for years and years and years ... wasn't actually online yet. And I was like, okay, it's time to figure out a way to get online. I didn't think of making my own site, I actually went to Bandcamp first, and then I went to... gonna try to do stuff with Reddit, I don't know how that would work. But then Tumblr is like ... Tumblr is probably it. So I started trying to do that. But I ended up just trying to find the most minimalist theme I could, and then I, and like, delete this delete ... basically, was just to try to delete everything. But you can't delete everything. So it's really crazy. So I ended up editing the custom code, because I wanted so badly to delete things that I didn't want. And after a few weeks of editing the custom code, I was like, wait a minute, I'm already editing the custom code. I mean, I don't even know anything about code. I was just copying and pasting stuff. I was like, I'm already editing code. So like, why don't I just see what it takes to make a website so then I figured it out on just on the hard drive and take a text file, put some stupid HTML, just put the things in list formed expert page is the only page on the site that was the first that's the original website. And it was just lists, links with dates. And then I threw it into Safari. It was the greatest thing. Like this is exactly what I've always dreamed of. So yeah, I didn't, I didn't want to mess with any social media or even YouTube. But there's a lot of pressure. There's a lot of pressure to do that. And Twitter was Twitter was actually a kind of a promotional strategy. So I had to get into that. And yeah, social media, things have huge advantages, because actually, they're connected with people. And you can't really get that on website, but who the hell is gonna find a website? So yeah, there's ups and downs. But yeah, people ... can't get likes on a website. But that's ... actually I'm really, really glad, because the blissful ignorance that I experienced writing stuff for the Questions page, you know, I can be like, yep, I know, I did a good job there. And I can have no clue if it was a complete flop. Or if it was a complete ... because there's a thing ... this human nature is a thing, once you get, you might sit around with like, you know, 30 views, it's like the most you've ever gotten and then you get 60. And you're like, holy crap, that's just not 60. Then when you get 60, then you're gonna commit suicide if you ever get 30 again. And then when you get to 5000, you're gonna kill yourself if you ever get 1000. So that's the weird thing. So in a way, it's really good not to know.
+
+Laurel  
+That makes me wonder if you keep numerical tallies on your questions like how many questions you've answered, because you do it very prolifically right?
+
+Bill  
+Yeah, I don't keep track of the ones I've answered. But I can tell how many I got during a certain period of time. So there's that, that's the only indication I have of how it's going.
+
+Student 2  
+Taking (...) I was wondering, since you are like active on some social media, including YouTube ... some YouTube comments are just wild. Do you read the comments on all your videos?
+
+Bill  
+No. The day after this, maybe the couple days after "history of japan" came out, I must have spent four hours just hitting refresh and it's just constant. There's actually a reality video about that, that expresses pretty much what this is like. And it's like people saying yes, yes, wow, more, great, more. And then you get this frickin huge paragraph about how I'm everything that's wrong with the world. And the thing is, I was only used to Vine and there's like Vine comments have to be really short, but on YouTube, they can be really long. So you get some really scary stuff on there. I literally haven't looked at YouTube comments since then, since I decided to recover from that, you know, yeah. I mean, people actually, when I tell people that on questions (...) they say, "What's the problem? Most of them are really, really good." But it's just too scary. It's too scary. So I haven't looked at comments in years.
+
+Student 3  
+I'm wondering, as someone who also produces things kind of (...), do you feel like when you're doing a project, have you ... are you familiar enough at this point in your work to know which elements of a project are going to take the most time or to feel like you have some control over certain parts of what you do? Like they're more static? And does that help you sort of know, or anticipate how much time any particular project is going to take? I'm thinking like, length of the video or?
+
+Bill  
+Yeah. When I'm working without a schedule, it's pretty much just tortured the whole way through, because I wish it was done ... I wish it was done the day I started it. So I'll just be kicking and screaming for the whole thing. But yeah, I do have an idea. I mean, I've been doing music videos, pretty much the same length, roughly, serially for a while. So I do. And of course, now that I'm trying to do this Olympic crunch, I mean, those things took 10 weeks, 12 weeks, 8 weeks, like it was like, and I was trying to go as fast as I could. And I went about a year just they all took 10 to 12 weeks, and it was the best I could do. And so one day, I was like, no, this is not acceptable two weeks or die trying, is what I said and I don't know how I did that. But I got it to two weeks. But what the hell is my point ... yeah, when dealing with that, I started to really start to get a sense of how long different things take. And now I'm trying to get to one week. So now I'm just trying to like I'm literally that's all I think about in terms of when I'm in the middle of — what do you call it — the defeated stage, which is where I am right now, because I attempted, I attempted one week, a couple weeks ago. I got further than I'd ever gotten before. I got from Tuesday, I start Tuesday to Friday, on schedule with this insane, where I cut everything in half, but then failed. So then I got really defeated, and I can't even lift a finger. But during that time, I'll constantly be trying to tweak the schedule around to try to ... so yeah, I'm very aware of at least with that project, the music video thing. I'm very aware of what's next.
+
+Student 4  
+So it sounds like you said you were like recording yourself a lot of the dynamics in the running, but you also seem— 
+
+Bill  
+Probably shouldn't admit that but yeah [laughing].
+
+Student 4  
+I am interested in text. So are you like writing stuff down? Or is it mostly like ...?
+
+Bill  
+I used to do many years ago when I really just wished I could make videos and wished I could record all the parts of the song myself. And when I wanted to do all these things, but it's a lot of stuff to come together to do that I couldn't get ... but the WordPress there was my best friend. I discovered that I could just turn it on and just start going crazy. And it really helped. And I saved all it and I've still 100 times more than I've ever posted but I am posting them I'm actually doing one a day on the notes page. So that's why I was stuck for 2005. But yeah, texts was my major outlet before I had the strength to really do all these audio visual stuff. So yeah, I think since about 2010 or 11, I started to switch over to audio recordings and video recording. But I've got both but sometime ... yeah, there's a little bit less text, text is more used in a more practical way, like for actual songwriting. Or if I get song ideas somewhere else, I'll be able to document it. Yeah, so it's still there. And every once in a while I go crazy though text, sometimes when I'm writing tweets, I'll go crazy just try to get some tweets. 
+
+Student 5  
+Something I think that resonates with me from your videos is sort of like their playfulness, but insightfulness constantly, it's sort of like this thing where then I'm thinking about like, well, I have a lot of thoughts also. And then I think about like how I could phrase these things. And I'm wondering, like, do you kind of think thoughts throughout your day that are like phrased in the context of your aesthetic, or like your sort of, like process where it's like, if I see like a cool color, you know, interested in exploring more with it, or if I see like, a funny situation and just like an absurdity of it kind of is gonna all I'll try to translate that. So how is your like, sort of life to (...)? 
+
+Bill  
+Definitely. It's an overload. And it's always been an overload for many years, like, you know, just go through like, I'm just like, there's this feeling that you could make a full length movie out of any moment. So yeah, that's kind of torture, a lot of things that have to be done to make a video or a movie. There's a lot of moving parts to come together. So yeah, it's definitely been an overload. And that's a big explanation for why I live life the way I do. I'm still catching up today, you know, so that's why I document everything. That's why ... you should see these like categories sort, things project sort. There's like I just found some from five years ago, but there's all over the place where I try to try to get a handle on these infinite types of projects, each of which can explode into infinite more types of project. This is just what I've been going through. 
+
+Laurel  
+I'd love to see your desktop and how you ... er your file structure... 
+
+Bill  
+Yeah, there's certain things, there's certain text files that are like golden text files that have actually lasted. There's one for songwriting. It's called "writing tare" t-a-r-e, I don't know why it's called that ... started it in 2012. It was when I just decided to take all of the songs and partial songs and everything that I had in books, binders and stuff, and just  list them chronologically. And then I could go through and work on that so that list has been going for like seven years. And it's still the list when I get a new song idea, it goes into there. There's certain ones that have lasted. But there's other ones that I can't seem to get a handle on like I'll do it. One was called "improv wishlist," which is from improv recordings, ones that have 1000s hours of (...) recordings ... ones that I wish I could add, ones that are to-do. It's a clusterfuck, it's insane. But there's certain ones that have that have lasted, so that's good. 
+
+Student 6  
+Have you ever like recycled your previous ideas? And it's just like ... I'm just gonna use my previous ideas, I just want to like make something new. Something like that.
+
+Bill  
+Yeah, I think so ... wait what do you mean, recycle...? 
+
+Student 6  
+As in like ... oh, this idea ... I've been like, I've done it before, something like that. But like, I don't want to do it anymore.
+
+Bill  
+Done it before ... like, released it? 
+
+Student 6  
+Yeah. 
+
+Bill  
+And then, so I did something and then released it, and then ...?
+
+Student 6  
+And then when you were trying to like make something and then you felt like, oh, I've done it before. 
+
+Bill  
+I try not to like repeat stuff that's already been released. It happens probably sometimes by accident. But if it hasn't been released, then I can use it. Sometimes what happens is it'll be like a older songs that didn't get finished or didn't release. Since I've been doing a lot of songs recently, writing a lot  of songs, I have caught myself lifting, you know, stealing bits and lines of previous songs that were never recorded and then finished. Which is bad news for the old (...) song because it means that creates a problem there. But that already had bad news because it wasn't able to get it you know, it's kind of good news, because that line was not gonna see the light of day otherwise. So I've started doing that recently. So yeah, sometimes ...
+
+Student 7  
+I was just wondering where you come from? And like, because we've watched the Mount Saint Helens video, and it seems like you have a relationship with the mountain, which I thought ...
+
+Bill  
+No, that happened really quick. It was a very fast relationship, actually. I was taking the plane, I spoke at a conference, which went very badly, actually, but that's a separate story. But I was on a plane to Portland, Oregon and I was following the ground. I can see the guy, they will let you follow the ... with no GPS, I actually kept track of the map the whole time. It was kind of fun. But anyway, all sudden, we get near the end of the flight, there's just like two actually two huge, ridiculous, huge like mountain volcano things. I'm like, well that's that's got to be a famous mountain, I'm sure. So yeah, I got a chance to look it up and one of them was Mount Saint Helens. And I guess I've heard of that. And then I got to the hotel room and there was a, there was a picture, there's like a big portrait of ... Mount Saint Helens is kind of like the Mount Fuji of Portland, I got that impression because there are pictures of it everywhere. So that kind of further solidified its specialness. And also I just started the two week schedule which is particularly the insane because I had to be out of town for two or three days. And now I have to ... because I just succeeded on the two week for the first time when normally it's eight weeks. So and then now for the second time, now you're gonna be out of town for three days ... what the hell are you gonna do? So I'm trying to write songs on the plane like ... so in my hotel room obviously I got a solidified song choice like man so I was doing songs idea generator in the hotel and that picture was there so like the first couple of months ... so that's where that came ...
+
+Student 8  
+How do you make a living with like YouTube videos? 
+
+Bill  
+Well, now it's completely billboards and billboards related things, which is pretty good. It's sort of a combination of everything ... YouTube, music, Spotify, iTunes, Patreon ... I'm forgetting something. There's like a conglomerate of five or six different things and it's enough ... a donations PayPal. But you can't do what I'm doing, if you think you're gonna have to make money from it. Like, I mean, if you don't ... if you I mean, if you count from just when the website started it was still years until there was anything like ... the reason I'm able to completely do exactly what I want to do, exactly what ... you can't make money from that. Unless you do it so good and so well for such a long time that you can succeed, then I think it's kind of a slow play. Like the whole thing that I'm doing is like a massive, slow burn [laughing]. I'm not all there yet.
+
+Laurel  
+That reminds me of like the topic of fame. And it makes me wonder, a couple of things ... First was fame kind of always a goal of yours? And second, what have been the repercussions of this sort of fame? And also makes me wonder, as a person who used the internet, do you ever, use the internet anonymously? Or kind of wish you had that experience again? 
+
+Bill  
+Yeah. Well, most of the stuff I do on the internet obviously is ... but you know, it's one of those things, you can't tell people, you shouldn't tell people that that's something you want. It's kind of taboo (...) until you have it and then you can, and then whatever. So like, I never, I didn't really tell people that I was doing what I was doing. It's kind of more thrilling for people that I know to text me or to run into me and say, my friend just recommended something to me but (...) So it's like, that's, that's fun. It's very awkward to tell people what I'm doing who didn't. So, you know, it's like David Letterman ... when he first moved out to LA, he told his family he wanted to be a writer. Because you just can't tell. He knew what he wanted to do. He wanted to like be the next Johnny Carson. But you can't ... it's taboo to tell people that you want to succeed really crazy, because there is that awkward moment when they're thinking, "well, you probably won't but okay." So it's kind of awkward. 
+
+Laurel  
+So it kind of was always a goal, but you wouldn't tell people because that's weird.
+
+Student 13  
+Yeah, 'cause I was, I mean, I was kind of annoyingly good with music, like from age two. I just picked stuff up insanely quickly. And so with that massive head start and it's just everything ... kind of like a magnet in terms of musical skill and musical (...). It's kind of really easy to me, since I was very young. So I get to that age 10 and I'm like yeah, this is great. This is gonna work out like this, you know, but actually it doesn't quite work out. Put in a lot of hard work.
+
+Yeah ... oh you had another question? 
+
+Student 9  
+You have a lot of people with when you were kind of spending those a lot of months making your longer videos, ask you like, when's the next one coming up? Do you feel pressured? Now that you have grown the audience to, like keep the audience? And if so, do you find that ... how do you find that maybe conflicting with your own artistic vision?
+
+Student 13  
+I never wanted to go slow, because I'm very aware that most of the things ... like I was saying before, how I just walk down the street, and it's like a frickin explosion of infinite types of ideas and (...). So I've always known that it's gonna be like a race against the clock just even just for my lifetime. I've never been not in a desperate hurry. So having an actual audience that's impatient is ... it's really no different, it's really no different than that. I mean, but generally, there is a feeling that when you have an audience there, it's like you need to, you need to catch that. It's kind of like when my Vine channel started going crazy just out of nowhere, that I had to kind of re-strategize to make sure I caught that. That's good, that's actually the first big thing to kind of send me ... sailing, so to speak. 
+
+Student 10  
+What's your sort of other entertainment consumption like?
+
+Bill  
+To be honest with you, I've noticed that I watch a lot of ... well I go through phases. It really is something ... I find myself watching a lot of interviews with directors, maybe actors, probably more directors and stuff. There's things like that to come and go. I watched a whole bunch of chess strategy videos a few weeks ago. Bob Ross, I watched a lot of Bob Ross for a while. Yeah, different, different things. Last couple days, I've been watching tool-assisted speedruns of like Mario games. That can be a thrill. If it's a game you're familiar with and you're watching them do crazy glitches in Super Mario. Holy crap. 
+
+Student 11  
+Like AGGQ?
+
+Bill  
+Oh, they inject code, they figured out how to inject code. It's just from gameplay. Like you go and you put a whole million shells in a bunch of places and then do a glitch and then it turns now, it's Pong. I played Pong. And the guy actually did it by hand. A guy actually did a Flappy Bird code. Someone else wrote it, but he made it. And the guy did it by hand on a console. 
+
+Student 12  
+( ??? ) 
+
+Bill  
+Yes, I just saw that. So that's crazy. But I haven't had time to play video games in like 100 years. So it's kind of embarrassing ... the video games I am familiar with, they're just decades old.
+
+Laurel  
+And I'm curious back to the ... you might be interested in collaborating, but you don't know how? Or how it's gonna happen? Like, what do you think you can get out of collaboration that you haven't done already? 
+
+Student 13  
+Things that look and sound a little different maybe? Because no matter how much ... people always say, you know, are you afraid to do videos with a different style? I'm like, dude. Every single time I try to make something that looks different, I'm not happy with the fact that anyone thinks that anything I do all looks the same. By the way all looks the same might just be codeword for they just don't like it. Because if they'd liked it, then maybe that wouldn't be a problem. But no, I try so hard to make things different. And if you do everything yourself, it's hard to escape that sometimes. So that could be an advantage.
+
+Laurel  
+Yeah, I mean, when you were mentioning the director thing, I couldn't help but be like, I would love to see Phil direct a film or something.
+
+Student 13  
+Yeah, for some reason, I go wild when I see interviews with directors, and I see directors working. Because in some ways, they're doing exactly the same thing I'm doing because they're worrying about everything. They're worrying about the final product, how it affects the viewer, moment to moment, visual, audio, everything. Especially writer-directors. But the weird thing is, is that they're living in this world where their product takes 1,000 people to make. So in that sense, it's completely different from anything I've ever done. It'd be great to do that, but I dont know how that would happen.
+
+Just curious, if you've ever performed live? 
+
+In terms of my own material? No, I've never done it live and I don't need to. But there's never a good time to put production or everything else on hold. Because if I go on tour, I'm not making videos or records. That's a problem.
+
+Laurel  
+Yeah, and I was also wondering, in general about control, because it seems if you do more live stuff, you have less control.
+
+Bill  
+Yeah ... I've actually had enough experience with that because I'm a musician, so I've had quite a bit of experience playing in bands, great bands, and that's really everything I want. I don't want a live show that is pre-recorded. Nothing pre-recorded. I've been the drummer on so many gigs where there's a click in my ear. Because you got to play two tracks ... it's just a waste of time, it just doesn't feel right. And pre-recorded videos on the thing. I'm not doing any of that in our shows, it's gonna be a band, and magical things happen. And they're not going to, you know, they're not going to be in the same style, like, the songs are not going to be in the same ... they're going to be, you know, magical things, man. Take songs and just do them in different way. No, yeah, it's gonna be a band and I'm not worried about that, because I've had enough experiences with bands where just magical stuff happens. Stuff that can't happen when I, unfortunately, can't happen ... when I do things the way I do. You can't get just instant chemistry. Five Guys sitting down playing and just, you know, you can't get that. But that is something that I'm very attached to, so that will be something that would be happening in a live show, for sure.
+
+Student 14  
+Do you listen to a lot of music or is it mostly playing?
+
+Bill  
+I was completely addicted to one particular musician — instrumental musician — for my teenage years. And that was the only thing I could listen to. Because I was so trapped, for so long, I busted out of that so hard after that and then I started listening to pop radio. And then I just got obsessed, went through all the charts. So yeah, it's a lot of popular stuff. But there's a lot of Paul McCartney  — post Beatles — a lot of Stevie Wonder. A lot of stuff. A lot of stuff I don't even know the name of. I just kind of, yeah, I listen to a lot of stuff.
+
+Student 15  
+Do you collect anything? Like, not necessarily related to your work?
+
+Bill  
+Yeah ... I think so. Luckily, I've managed to almost merge every hobby that I have on to the website almost, over time, which is pretty cool. I don't know ... I do collect clips of good interview clips, like maybe 5 to 10 seconds. Just kind of from the Questions page, people sometimes ... I use anecdotes and references. I just find little clips ... yeah, I do collect ... whenever I see a soundbite of like an interview that really seems meaningful.
+
+Laurel  
+That reminds me ... I was on your website once and I found this picture. I think it must have been of your room or your studio. And they were all of these inspirational quotes. 
+
+Bill  
+Not mine.
+
+Laurel  
+Not yours, okay. 
+
+Bill  
+No. 
+
+Laurel  
+I really liked it. No, okay. 
+
+Bill  
+No, this is crazy. I've never really said this, but I was playing ... I got a gig playing for a church. And they found out that I didn't know where I was going to live next and I didn't really have a job. They converted the conference room into a bedroom. They said live in the church for a few months. It's totally cool. And I said, I wish I could say no to that but I have to say yes. I ended up having all the time in the world to record and do stuff. But yeah, that's that room and it had ... I guess one day he just printed out a whole bunch of like Steve Jobs quotes. It's like preachers and entrepreneurs. And just Winston Churchill, Martin Luther King and it was just famous quotes. It's actually pretty cool, I don't even think I read all of them ... every wall has them. So yeah, I didn't do it ... but I probably read most of them, some were pretty good.
+
+Laurel  
+Oh, well, maybe we'll wrap up if that sounds good. Thanks so much for coming. It's an honor to have you here.
+
+Bill  
+This is free learning training for me because I'm terrible at this. I went on the h3 podcast and I was a basket case. I was blown away by how ... because I've had a lot of stage time, just as a player, so it blew me away how unequipped I was to deal with stage time when I'm talking speed. So this is this is just free learning for me. That's what I was saying in the basement ... I was like free learning, this is free learning [laughing] that's what I was trying to say ... so thank you for letting me do this.
+
+[~2 minute musical outro composed by Madalyn Merkey]
