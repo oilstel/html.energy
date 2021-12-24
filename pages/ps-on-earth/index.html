@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>&lt;p&gt;’s on earth</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <link rel="icon" href="greencircle.png">
+  <style>
+    html { height: 100%; }
+    body { margin: 0; height: 100%; background: forestgreen; display: flex; align-items: center; justify-content: center; color: #143709; }
+    a { color: #143709; }
+    button { cursor: pointer; background: transparent; border: 1px solid #143709; border-radius: 50%; padding: 1em; height: 50px; width: 50px; }
+    img { max-width: 100%; }
+    p.motto { text-align: center; }
+    section { max-width: 333px; margin: 1em auto; text-align: center; display: none; }
+    blockquote { margin: 0; margin-bottom: 1em; }
+  </style>
+
+</head>
+
+<body>
+
+  <div>
+    <img src="greencircle.png" alt="a beautiful green sphere">
+    <p class="motto">
+      <i>&lt;p&gt;’s on earth</i>
+      <br><br>
+      <button id="bell">🔔</button>
+    </p>
+    <section id="quote">
+      <p>
+        What's your favorite HTML element?
+      </p>
+      <blockquote>
+        I'm gonna throw maybe a bit more of a curveball and say the paragraph tag, the humble, crappy paragraph tag that you put text on the page with because I think the most important part of a page, especially like your conventional kind of page that's not like an app is the writing. It's the text. And when I built marketing pages or just pages talking about my favorite stuff or whatever back in the day, starting with asking yourself if its compelling content is a good place to start. If the content is good, add styling on top of that, and you're in a really great place, but if your p tags suck, no amount of like HTML, JavaScript, or CSS trickery is gonna get around that. It's kind of like putting lipstick on a pig. The pigs got to have really great &lt;p&gt; tags.
+      </blockquote>
+      <cite><a href="https://html.energy/pirijan.html" target="_blank">Pirijan Ketheswaran</a></cite>
+    </section>
+  </div>
+
+  <audio preload="auto" id="sound" src="bell.wav"></audio>
+
+  <script>
+    const bell = document.getElementById('bell');
+    const quote = document.getElementById('quote');
+    const sound = document.getElementById('sound');
+    bell.onclick = () => {
+      sound.currentTime = 0;
+      sound.play();
+      setTimeout(function() {
+        quote.style.display = 'block';
+        bell.style.display = 'none';
+      }, 1200);
+    };
+  </script>
+
+</body>
+
+</html>
