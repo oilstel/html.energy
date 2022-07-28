@@ -282,6 +282,11 @@ h1.tiny a {
   margin-bottom: 0.5em;
 }
 
+hr {
+    border: 0;
+    border-bottom: 1px solid #d1d1d1;
+}
+
 /* .tiers-grid {
   border: 1px solid #d1d1d1;
 }
