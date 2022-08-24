@@ -18,6 +18,10 @@ img {
   overflow: hidden;
 }
 
+.wide {
+    max-width: 1500px;
+}
+
 .small-star {
   max-width: 42px;
   display: inline-block;
