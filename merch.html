@@ -14,44 +14,85 @@
   <meta name="twitter:title" content="HTML Energy">
   <meta name="twitter:description" content="html energy is all around us and in this very website.">
   <meta name="twitter:image" content="https://html.energy/images/social-energy.jpg"/>
+  <style>
+    body {
+        font-family: serif;
+        text-align: center;
+        font-size: 18px;
+    }
+    .container {
+        max-width: 100%;
+    }
+    #shirt {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        width: 100%;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    img {
+        width: 100%;
+    }
+  </style>
 </head>
 
 <body>
-  <div class="container">
-    <header>
-      <h1 class="tiny"><a href="index.html">HTML Energy</a></h1>
-      <div class="small-star">
-        <a href="index.html">
-          <img src="images/star-gray.png" style="max-width: 100%;" alt="HTML Energy's lime green glowing star">
-        </a>
-      </div>
-    </header>
-    <nav>
-      <a href="podcast.html" class="button">🎵 Podcast</a>
-      <a href="diary.html" class="button"> 📝 Diary</a>
-      <!-- <a href="lessons.html" class="button">🌱 Lessons</a> -->
-      <a href="merch.html" class="button">🦺 Merch</a>
-      <a href="join.html" class="button">❇️ Join</a>
-      <a href="contact.html" class="button">✉️ Contact</a>
-    </nav>
+    <div class="container">
+        <header>
+        <h1 class="tiny"><a href="index.html">HTML Energy</a></h1>
+        <div class="small-star">
+            <a href="index.html">
+            <img src="images/star-gray.png" style="max-width: 100%;" alt="HTML Energy's lime green glowing star">
+            </a>
+        </div>
+        </header>
 
-    <table>
-        <tr>
-          <td style="background: #e0f9e0;">
-              <h2 style="margin-top: 0;">Our shirt is alive</h2>
-                <img src="images/shirt.jpg"><br><br>
-                <a href="https://www.customink.com/fundraising/html">until January 16, 2022</a><br><br>
-                Please order it! And support the spreading of the HTML gospel<br><br>
-                <i>Thank you very much</i>
-          </td>
-        </tr>
-    </table>
+        <nav>
+          <div>
+            <a href="goals.html" class="button">✅ Goals</a>
+            <a href="podcast.html" class="button">🎵 Podcast</a>
+            <a href="join.html" class="button">❇️ Join</a>
+            <a href="contact.html" class="button">✉️ Contact</a>
+          </div>
+        </nav>
 
-    <footer>
-      ❇️ Written in pure, raw HTML. Can you feel the energy?<br><br>
-      ⛲ Want to see? View the source!
-    </footer>
-  </div>
+        <h2 style="font-size: 8vw; font-style: italic; font-weight: normal; margin: 0.5em 0;">pre-order our shirt</h2>
+
+        <div id="shirt">
+            <img src="images/shirt-front.jpg">
+            <img src="images/shirt-back.png">
+        </div>
+
+        <p>
+            <i>Taking pre-orders until October 9, 2022</i>
+        </p>
+
+        <p>
+            <a href="https://buy.stripe.com/dR6fZMdE4aTMaCQcMN" class="button special">Pre-order</a>
+        </p>
+
+        <p style="font-style: italic;">
+            high quality * medium weight * soft on your &lt;body&gt;
+        </p>
+
+        <p>
+            Screen printed in Brooklyn, New York
+        </p>
+
+        <p>
+            <span style="text-transform: uppercase; font-size: 13px; color: red;">warning: will attract html energy like a magnet</span><br>
+        </p>
+
+        <br><br>
+
+        <hr>
+
+
+        <footer>
+        ❇️ Written in pure, raw HTML. Can you feel the energy?<br><br>
+        ⛲ Want to see? View the source!
+        </footer>
+    </div>
 </body>
 
 </html>

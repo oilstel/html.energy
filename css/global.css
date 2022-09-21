@@ -19,11 +19,77 @@ a.button {
   background: white;
   color: black;
   border: 1px solid #d1d1d1;
-  /* border-bottom-color: #BABABA; */
   text-decoration: none;
-  padding: 0.5em 0.8em;
+  padding: 0.6em 1em 0.4em;
   border-radius: 1.5em;
   margin: 0 0.2em 0.75em;
+  transition: all 0.25s ease-out;
+}
+
+a.podcast {
+  transition: all 0.25s ease-out;
+}
+
+a.button:hover,
+a.button.current {
+  background: #f0f0f0;
+}
+
+a.podcast:hover {
+  background: #f0f0f0;
+}
+
+a.merch-button {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  border-radius: 50%;
+  border: 1px solid #d1d1d1;
+  display: inline-block;
+  padding: 1em;
+  background: url('../images/shirt.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center 25%;
+  margin-bottom: 3em;
+  position: relative;
+  color: black;
+  transition: all 0.25s ease-out;
+  box-shadow: 0 0 0 lime;
+}
+
+a.merch-button:hover {
+  box-shadow: 0 0 15px lime;
+}
+
+a.merch-button::after {
+  content: "pre-order our shirt";
+  position: absolute;
+  font-style: italic;
+  bottom: -2em;
+  left: 1em;
+  right: 1em;
+  text-align: center;
+}
+
+a.button.special {
+  background: #f0f0f0;
+  /* border: 0; */
+  position: relative;
+  padding: 0.5em 1em 0.4em;
+  font-size: 2em;
+}
+
+a.button.special::after {
+  content: "";
+  position: absolute;
+  top: 2px;
+  left: 20px;
+  border-radius: 4vw;
+  width: calc(100% - 40px);
+  height: 23px;
+  filter: blur(5px);
+  background: rgba(0, 0, 0, 0) linear-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0)) repeat scroll 0% 0%;
 }
 
 a.button.meta {
