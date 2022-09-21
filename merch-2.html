@@ -36,16 +36,18 @@
     a.button.special {
       background: lime;
       border: 0;
+      position: relative;
+      padding: 0.5em 1em 0.4em;
     }
     a.button.special::after {
       content: "";
       position: absolute;
-      top: 10px;
-      left: 20px;
-      border-radius: 10vw;
-      width: calc(100% - 40px);
-      height: 30px;
-      filter: blur(5px);
+      top: 2px;
+      left: 8px;
+      border-radius: 4vw;
+      width: calc(100% - 16px);
+      height: 23px;
+      filter: blur(2px);
       background: rgba(0, 0, 0, 0) linear-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0)) repeat scroll 0% 0%;
     }
   </style>
