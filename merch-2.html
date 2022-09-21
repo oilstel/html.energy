@@ -33,6 +33,21 @@
     img {
         width: 100%;
     }
+    a.button.special {
+      background: lime;
+      border: 0;
+    }
+    a.button.special::after {
+      content: "";
+      position: absolute;
+      top: 10px;
+      left: 20px;
+      border-radius: 10vw;
+      width: calc(100% - 40px);
+      height: 30px;
+      filter: blur(5px);
+      background: rgba(0, 0, 0, 0) linear-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0)) repeat scroll 0% 0%;
+    }
   </style>
 </head>
 
@@ -66,7 +81,7 @@
         </p>
 
         <p>
-            <a href="https://buy.stripe.com/dR6fZMdE4aTMaCQcMN" class="button">Purchase Now</a>
+            <a href="https://buy.stripe.com/dR6fZMdE4aTMaCQcMN" class="button special">Purchase Now</a>
         </p>
 
         <p style="font-style: italic;">
