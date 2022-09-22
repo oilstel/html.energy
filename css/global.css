@@ -96,6 +96,7 @@ a.merch-button::after {
 }
 
 button.button.special {
+  color: #000;
   background: #f0f0f0;
   /* border: 0; */
   position: relative;
