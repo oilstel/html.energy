@@ -53,9 +53,9 @@ a.podcast,
   padding: 1em;
 }
 
-/* #big-star {
-    width: 250px;
-} */
+#big-star {
+   pointer-events: none;
+}
 
 #big-star,
 .star {
