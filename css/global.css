@@ -14,20 +14,24 @@ h1 {
   margin-top: 0;
 }
 
+nav a.button {
+    padding: 0.6em 1em 0.4em;
+}
+
 a.button {
   display: inline-block;
   background: white;
   color: black;
   border: 1px solid #d1d1d1;
   text-decoration: none;
-  padding: 0.6em 1em 0.4em;
+  padding: 0.6em 1em;
   border-radius: 1.5em;
   margin: 0 0.2em 0.75em;
-  transition: all 0.25s ease-out;
+  transition: background 0.25s ease-out;
 }
 
 a.podcast {
-  transition: all 0.25s ease-out;
+  transition: background 0.25s ease-out;
 }
 
 a.button:hover,
@@ -54,8 +58,11 @@ a.merch-button {
   margin-bottom: 3em;
   position: relative;
   color: black;
-  transition: all 0.25s ease-out;
+  transition: box-shadow 0.25s ease-out;
   box-shadow: 0 0 0 lime;
+  position: absolute;
+  right: 1em;
+  top: 1em;
 }
 
 a.merch-button:hover {
@@ -72,12 +79,27 @@ a.merch-button::after {
   text-align: center;
 }
 
+@media only screen and (max-width: 800px) {
+    a.merch-button {
+        width: 65px;
+        height: 65px;
+        right: 0.45em;
+        top: 0.5em;
+    }
+    a.merch-button::after {
+        content: "";
+    }
+}
+
 button.button.special {
   background: #f0f0f0;
   /* border: 0; */
   position: relative;
   padding: 0.5em 1em 0.4em;
   font-size: 2em;
+  border-radius: 1.5em;
+  border: 1px solid #d1d1d1;
+  cursor: pointer;
 }
 
 button.button.special::after {

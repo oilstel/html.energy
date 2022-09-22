@@ -53,6 +53,10 @@ a.podcast,
   padding: 1em;
 }
 
+/* #big-star {
+    width: 250px;
+} */
+
 #big-star,
 .star {
   -webkit-animation: rotating 100s linear infinite;
@@ -92,7 +96,7 @@ iframe.transcript {
 
 nav {
   text-align: center;
-  margin-bottom: 2em;
+  margin-bottom: 0.5em;
   margin-left: -2em;
   margin-right: -2em;
 }
@@ -274,7 +278,8 @@ h1.tiny {
   font-weight: normal;
 }
 
-h1.tiny a {
+h1.tiny a,
+h1.link a {
   color: black;
   text-decoration: none;
   /* border-bottom: 1px solid #d1d1d1; */
