@@ -14,6 +14,8 @@
   <meta name="twitter:title" content="HTML Energy">
   <meta name="twitter:description" content="html energy is all around us and in this very website.">
   <meta name="twitter:image" content="https://html.energy/images/social-energy.jpg"/>
+  <script src="https://polyfill.io/v3/polyfill.min.js?version=3.52.1&features=fetch"></script>
+  <script src="https://js.stripe.com/v3/"></script>
   <style>
     body {
         font-family: serif;
@@ -67,9 +69,18 @@
             <i>Taking pre-orders until October 9, 2022</i>
         </p>
 
-        <p>
-            <a href="https://buy.stripe.com/dR6fZMdE4aTMaCQcMN" class="button special">Pre-order</a>
-        </p>
+        <form action="https://green.html.energy/shirt-checkout" method="POST">
+            <!-- <label for="pet-select">Size</label> -->
+            <select name="size" id="size">
+                <option value="" disabled selected>Choose a size</option>
+                <option value="small">Small</option>
+                <option value="medium">Medium</option>
+                <option value="large">Large</option>
+                <option value="extra-large">Extra Large</option>
+            </select>
+    
+            <button type="submit" class="button special">Pre-order</button>
+        </form>
 
         <p style="font-style: italic;">
             high quality * medium weight * soft on your &lt;body&gt;
