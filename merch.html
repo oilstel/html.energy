@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>html energy</title>
+  <title>merch - html energy</title>
   <meta name="description" content="html energy is all around us and in this very website.">
   <meta name="viewport" content="width=device-width,initial-scale=1.0" />
   <link rel="stylesheet" href="css/global.css">
@@ -11,9 +11,11 @@
   <link rel="shortcut icon" type="image/png" href="images/favicon.png" />
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@htmlenergy">
-  <meta name="twitter:title" content="HTML Energy">
-  <meta name="twitter:description" content="html energy is all around us and in this very website.">
-  <meta name="twitter:image" content="https://html.energy/images/social-energy.jpg"/>
+  <meta name="twitter:title" content="Pre-order the HTML Energy shirt">
+  <meta name="twitter:description" content="HTML Energy shirts — at long last!">
+  <meta name="twitter:image" content="https://html.energy/images/shirt-social.jpg"/>
+
+  <!-- Stripe Stuff 🤮 -->
   <script src="https://polyfill.io/v3/polyfill.min.js?version=3.52.1&features=fetch"></script>
   <script src="https://js.stripe.com/v3/"></script>
   <style>
@@ -21,10 +23,7 @@
         font-family: serif;
         text-align: center;
         font-size: 18px;
-        background-color: #c0fdc0;
-    }
-    .container {
-        max-width: 100%;
+        /* background-color: #c0fdc0; */
     }
     #shirt {
         display: grid;
@@ -40,7 +39,7 @@
 </head>
 
 <body>
-    <div class="container">
+    <div class="container" style="max-width: 100%;">
         <header>
             <h1 class="link"><a href="index.html">HTML Energy</a></h1>
         </header>
@@ -50,6 +49,7 @@
             <!-- <a href="goals.html" class="button">✅ Goals</a> -->
             <a href="podcast.html" class="button">🎵 Podcast</a>
             <a href="join.html" class="button">❇️ Join</a>
+            <a href="merch.html" class="button current">🦺 Merch</a>
             <a href="contact.html" class="button">✉️ Contact</a>
           </div>
         </nav>
@@ -65,7 +65,21 @@
             <i>Taking pre-orders until October 9, 2022</i>
         </p>
 
-        <!-- <form action="https://green.html.energy/shirt-checkout" method="POST">
+        <form action="https://green.html.energy/shirt-checkout" method="POST">
+            <select name="quantity" id="quantity" required>
+                <option value="" disabled selected>Number of shirts</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+            </select>
+
             <select name="size" id="size" required>
                 <option value="" disabled selected>Choose a size</option>
                 <option value="small">Small</option>
@@ -74,9 +88,10 @@
                 <option value="extra-large">Extra Large</option>
             </select>
             <br><br>
-    
+            
+            <!-- shout out to https://wonder-publishing.com and haha services for this button styling inspo -->
             <button type="submit" class="button special">Pre-order</button>
-        </form> -->
+        </form>
 
         <p style="font-style: italic;">
             high quality * medium weight * soft on your &lt;body&gt;
@@ -87,12 +102,35 @@
         </p>
 
         <p>
+            <a href="size.html" style="font-size: 12px;">sizing</a>
+        </p>
+
+        <p>
             <span style="text-transform: uppercase; font-size: 13px; color: red;">warning: will attract html energy like a magnet</span><br>
+        </p>
+
+        <p>
+            🦺 ❇️ 🦺
         </p>
 
         <br><br>
 
-        <hr>
+        <div id="goals" style="min-height: 100vh;">
+        <div class="container" style="text-align: left;">
+        <p>
+            Your energy goes to support our <u>goals</u>:
+        </p>
+        <ul>
+            <li style="margin-bottom: 1em;"><strong>The human goal:</strong> to show people that the web is still alive. And to actively make the web more human and handmade.</li>
+            <li style="margin-bottom: 1em;"><strong>The educational goal:</strong> to teach people of all ages to write HTML. Our dream would be to get HTML into schools or curriculums.</li>
+            <li><strong>The energetic goal:</strong> to reveal the raw energy of HTML. Approaching HTML as you would anything that excites you in life.</li>
+        </ul>
+        <p>
+            Right now, these goals are expressed as our podcast (that celebrates practitioners & fans of HTML), our freewrites (that invites people to learn & write HTML), and our general excitement about HTML. We’d love to go further, and your support makes this possible — thank you!
+        </p>
+        </div>
+    </div>
+
 
 
         <footer>
