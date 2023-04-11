@@ -414,7 +414,7 @@ p.info.a code {
 
 a.join.html {
   box-shadow: 0 0 12px rgba(149, 238, 74, 0.2);
-  transition: box-shadow 0.5s ease-in-out 0s;
+  /* transition: box-shadow 0.5s ease-in-out 0s; */
 }
 
 a.join.html:hover {
@@ -423,7 +423,7 @@ a.join.html:hover {
 
 a.join.body {
   box-shadow: 0 0 12px rgba(146, 112, 92, 0.2);
-  transition: box-shadow 0.5s ease-in-out 0s;
+  /* transition: box-shadow 0.5s ease-in-out 0s; */
 }
 
 a.join.body:hover {
@@ -432,7 +432,7 @@ a.join.body:hover {
 
 a.join.head {
   box-shadow: 0 0 12px rgba(149, 149, 149, 0.2);
-  transition: box-shadow 0.5s ease-in-out 0s;
+  /* transition: box-shadow 0.5s ease-in-out 0s; */
 }
 
 a.join.head:hover {
@@ -441,7 +441,7 @@ a.join.head:hover {
 
 a.join.a {
   box-shadow: 0 0 12px rgba(161, 133, 84, 0.2);
-  transition: box-shadow 0.5s ease-in-out 0s;
+  /* transition: box-shadow 0.5s ease-in-out 0s; */
 }
 
 a.join.a:hover {
