@@ -27,12 +27,12 @@ a.button {
   padding: 0.6em 1em;
   border-radius: 1.5em;
   margin: 0 0.2em 0.75em;
-  transition: background 0.25s ease-out;
+  /* transition: background 0.25s ease-out; */
 }
 
-a.podcast {
+/* a.podcast {
   transition: background 0.25s ease-out;
-}
+} */
 
 a.button:hover,
 a.button.current {
@@ -58,7 +58,7 @@ a.merch-button {
   margin-bottom: 3em;
   position: relative;
   color: black;
-  transition: box-shadow 0.25s ease-out;
+  /* transition: box-shadow 0.25s ease-out; */
   box-shadow: 0 0 0 lime;
   position: absolute;
   right: 1em;
