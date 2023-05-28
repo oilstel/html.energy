@@ -15,8 +15,20 @@
   <meta name="twitter:description" content="html energy is all around us and in this very website.">
   <meta name="twitter:image" content="https://html.energy/images/freewrite-prospect-4.jpg"/>
   <style>
+    * { box-sizing: border-box; }
+    html, body, .container {
+      padding-left: 0;
+      padding-right: 0;
+    }
     body {
-        overflow-x: hidden;
+      margin: 0;
+    }
+    header, nav, h2, p, hr, .event-images, footer {
+      padding-right: 15px;
+      padding-left: 15px;
+    }
+    hr {
+      margin: 0 20px;
     }
     #event-images {
         display: flex;
@@ -31,6 +43,19 @@
         border: 1px solid #d1d1d1;
         padding: 10px;
         background-color: #fff;
+    }
+    .table-wrapper {
+      overflow-x: auto;
+      margin: 0;
+      padding: 0;
+      width: 100%%
+    }
+    .table-wrapper .inner-wrapper {
+      margin: 20px;
+      display: inline-block;
+    }
+    table {
+      min-width: 600px;
     }
     table td {
         width: initial;
@@ -73,6 +98,7 @@
 
     <h3>Upcoming</h3>
 
+<<<<<<< HEAD
     <table style="background: #fff;">
         <tr>
             <th>City</th>
@@ -121,6 +147,34 @@
         </td>
     </tr>
     </table>
+=======
+    <div class="table-wrapper">
+      <div class="inner-wrapper">
+        <table style="background: #fff;">
+            <tr>
+                <th>City</th>
+                <th>Date</th>
+                <th>Organizers</th>
+                <th>Venue</th>
+                <th>More info</th>
+            </tr>
+            <tr>
+                <td>
+                    Toronto
+                </td>
+                <td>
+                    June 3, 2023
+                </td>
+                <td>Gary Ing & Ross Zurowski</td>
+                <td>Dovercourt Park</td>
+                <td>
+                    <a href="https://html.green">Visit html.green</a> for more info & RSVP.
+                </td>
+            </tr>
+        </table>
+      </div>
+    </div>
+>>>>>>> 16bdbf1a679179e6c74bb4b27d868997e6bcc9fc
 
     <p><i>More freewrites coming soon...</i></p>
 
@@ -132,68 +186,72 @@
 
     <h3>Past</h3>
 
-    <table style="background: white;">
-        <tr>
-            <th>City</th>
-            <th>Date</th>
-            <th>Organizer</th>
-            <th>Venue</th>
-            <th>Documentation</th>
-        </tr>
-        <tr>
-          <td>New York</td>
-        <td>
-          January 29, 2023
-        </td>
-        <td>HTML Energy</td>
-        <td>Brooklyn Botanic Garden</td>
-        <td>
-          <a href="https://twitter.com/htmlenergy/status/1619878256441962498">link</a>
-        </td>
-      </tr>
-      <tr>
-        <tr>
-            <td>New York</td>
-          <td>
-            June 26, 2022
-          </td>
-          <td>HTML Energy</td>
-          <td>Nellie's Lawn, Prospect Park</td>
-          <td>
-            <a href="https://twitter.com/htmlenergy/status/1541213327828844546">link</a>
-          </td>
-        </tr>
-        <tr>
-            <td>Virtual</td>
+    <div class="table-wrapper">
+      <div class="inner-wrapper">
+        <table style="background: white;">
+            <tr>
+                <th>City</th>
+                <th>Date</th>
+                <th>Organizer</th>
+                <th>Venue</th>
+                <th>Documentation</th>
+            </tr>
+            <tr>
+              <td>New York</td>
             <td>
-              January 15, 2022
+              January 29, 2023
             </td>
             <td>HTML Energy</td>
-            <td>...</td>
+            <td>Brooklyn Botanic Garden</td>
             <td>
-              <a href="https://www.are.na/html-energy/html-energy-freewrite-01-15-2022">link</a>
+              <a href="https://twitter.com/htmlenergy/status/1619878256441962498">link</a>
             </td>
-        </tr>
-        <tr>
-            <td>Virtual</td>
-            <td>January 12, 2020</td>
-            <td>HTML Energy</td>
-            <td>...</td>
-            <td>
-              <a href="https://www.are.na/html-energy/html-energy-freewrite-01-12-2020">link</a>
-            </td>
-        </tr>
-        <tr>
-          <td>Brooklyn</td>
-          <td>November 23, 2019</td>
-          <td>HTML Energy</td>
-          <td>...</td>
-          <td>
-            <a href="html.energy/pages/freewrite-2019-11-23">link</a><br>
-            <a href="https://www.are.na/html-energy/html-energy-freewrite-11-23-2019">link</a>
-          </td>
-      </tr>
-    </table>
+          </tr>
+          <tr>
+            <tr>
+                <td>New York</td>
+              <td>
+                June 26, 2022
+              </td>
+              <td>HTML Energy</td>
+              <td>Nellie's Lawn, Prospect Park</td>
+              <td>
+                <a href="https://twitter.com/htmlenergy/status/1541213327828844546">link</a>
+              </td>
+            </tr>
+            <tr>
+                <td>Virtual</td>
+                <td>
+                  January 15, 2022
+                </td>
+                <td>HTML Energy</td>
+                <td>...</td>
+                <td>
+                  <a href="https://www.are.na/html-energy/html-energy-freewrite-01-15-2022">link</a>
+                </td>
+            </tr>
+            <tr>
+                <td>Virtual</td>
+                <td>January 12, 2020</td>
+                <td>HTML Energy</td>
+                <td>...</td>
+                <td>
+                  <a href="https://www.are.na/html-energy/html-energy-freewrite-01-12-2020">link</a>
+                </td>
+            </tr>
+            <tr>
+              <td>Brooklyn</td>
+              <td>November 23, 2019</td>
+              <td>HTML Energy</td>
+              <td>...</td>
+              <td>
+                <a href="html.energy/pages/freewrite-2019-11-23">link</a><br>
+                <a href="https://www.are.na/html-energy/html-energy-freewrite-11-23-2019">link</a>
+              </td>
+          </tr>
+        </table>
+      </div>
+    </div>
 
     <br><br>
     <br><br>
