@@ -1,319 +1,299 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <meta charset="utf-8">
+        <title>events - html energy</title>
+        <meta name="description" content="html energy is all around us and in this very website.">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+        <link rel="stylesheet" href="css/global.css?v=1.0">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="shortcut icon" type="image/png" href="images/favicon.png" />
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@htmlenergy">
+        <meta name="twitter:title" content="HTML Energy">
+        <meta name="twitter:description" content="html energy is all around us and in this very website.">
+        <meta name="twitter:image" content="https://html.energy/images/freewrite-prospect-4.jpg" />
+        <style>
+            * {
+                box-sizing: border-box;
+            }
 
-<head>
-  <meta charset="utf-8">
-  <title>events - html energy</title>
-  <meta name="description" content="html energy is all around us and in this very website.">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-  <link rel="stylesheet" href="css/global.css?v=1.0">
-  <link rel="stylesheet" href="css/main.css">
-  <link rel="shortcut icon" type="image/png" href="images/favicon.png" />
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@htmlenergy">
-  <meta name="twitter:title" content="HTML Energy">
-  <meta name="twitter:description" content="html energy is all around us and in this very website.">
-  <meta name="twitter:image" content="https://html.energy/images/freewrite-prospect-4.jpg"/>
-  <style>
-    * { box-sizing: border-box; }
-    html, body, .container {
-      padding-left: 0;
-      padding-right: 0;
-    }
-    body {
-      margin: 0;
-    }
-    header, nav, h2, p, hr, .event-images, footer {
-      padding-right: 15px;
-      padding-left: 15px;
-    }
-    hr {
-      margin: 0 20px;
-    }
-    #event-images {
-        display: flex;
-        flex-flow: row wrap;
-        align-items: center;
-        justify-content: center;
-        gap: 20px;
-    }
-    #event-images img {
-        max-height: 320px;
-        height: auto;
-        border: 1px solid #d1d1d1;
-        padding: 10px;
-        background-color: #fff;
-    }
-    .table-wrapper {
-      overflow-x: auto;
-      margin: 0;
-      padding: 0;
-      width: 100%%
-    }
-    .table-wrapper .inner-wrapper {
-      margin: 20px;
-      display: inline-block;
-    }
-    table {
-      min-width: 600px;
-    }
-    table td {
-        width: initial;
-    }
-    table th {
-        font-size: 14px;
-        padding-bottom: 5px;
-        font-weight: normal;
-        font-style: italic;
-    }
-  </style>
-</head>
+            html,
+            body,
+            .container {
+                padding-left: 0;
+                padding-right: 0;
+            }
 
-<body>
-  <div class="container wide">
-    <header>
-        <h1 class="link"><a href="index.html">HTML Energy</a></h1>
-    </header>
+            body {
+                margin: 0;
+            }
 
-    <nav>
-        <a href="podcast.html" class="button">🎵 Podcast</a>
-        <a href="events.html" class="button current">🌎 Events</a>
-        <a href="goals.html" class="button">💫 Goals</a>
-        <a href="join.html" class="button">❇️ Join</a>
-        <!-- <a href="angels.html" class="button">🕊 Angels</a> -->
-        <!-- <a href="http://store.html.energy" class="button">🦺 Store</a> -->
-    </nav>
+            header,
+            nav,
+            h2,
+            p,
+            hr,
+            .event-images,
+            footer {
+                padding-right: 15px;
+                padding-left: 15px;
+            }
 
-    <h2>Freewrites & Events</h2>
+            hr {
+                margin: 0 20px;
+            }
 
-    <p>HTML Energy organizes virtual and IRL HTML freewrites with friends around the world.</p>
+            #event-images {
+                display: flex;
+                flex-flow: row wrap;
+                align-items: center;
+                justify-content: center;
+                gap: 20px;
+            }
 
-    <p>If you would like to organize a freewrite in your city please <a href="join.html#contact">reach out</a>.</p>
+            #event-images img {
+                max-height: 320px;
+                height: auto;
+                border: 1px solid #d1d1d1;
+                padding: 10px;
+                background-color: #fff;
+            }
 
-    <br>
+            .table-wrapper {
+                overflow-x: auto;
+                margin: 0;
+                padding: 0;
+                width: 100%%
+            }
 
-    <hr>
+            .table-wrapper .inner-wrapper {
+                margin: 20px;
+                display: inline-block;
+            }
 
-    <br>
+            table {
+                min-width: 600px;
+            }
 
-    <h3>Upcoming</h3>
+            table td {
+                width: initial;
+            }
 
-    <div class="table-wrapper">
-      <div class="inner-wrapper">
-        <table style="background: #fff;">
-            <tr>
-                <th>City</th>
-                <th>Date</th>
-                <th>Time</th>
-                <th>Organizers</th>
-                <th>Venue</th>
-                <th>More info</th>
-            </tr>
-            <tr>
-                <td>
-                    Toronto
-                </td>
-                <td>
-                    June 3, 2023
-                </td>
-                <td>2-5pm</td>
-                <td>Garry & Ross</td>
-                <td>Dovercourt Park</td>
-                <td>
-                    <a href="https://html.green">Visit html.green</a> for more info & RSVP.
-                </td>
-            </tr>
-            <tr>
-            <td>
-                San Francisco
-            </td>
-            <td>
-                June 3, 2023
-            </td>
-              <td>3-6pm</td>
-            <td>Chia & Spencer</td>
-            <td>Alamo Square Park</td>
-            <td>
-                <a href="https://twitter.com/spencerc99/status/1662511055938158592">Visit poster 1</a> and <a href="https://twitter.com/hotemogf/status/1662514569523363840">poster 2</a> for more info.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                New York City
-            </td>
-            <td>
-                June 3, 2023
-            </td>
-            <td>6-8pm</td>
-            <td>Omar & Laurel</td>
-            <td>Valentino Jr. Park, Red Hook</td>
-            <td>
-            <a href="https://docs.google.com/document/d/1jJob08ovFgryT1Yv41F3Vj4CikVg6Yn7hiNEIsxAldE/edit?usp=sharing" target="_blank">Visit this doc</a> for more info.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Boston
-            </td>
-            <td>
-                June 3, 2023
-            </td>
-            <td>6-8pm</td>
-            <td>Toph</td>
-            <td>Public Garden, Bagheera Fountain</td>
-            <td>
-              <a href="https://www.tophtucker.com/htmlenergy/" target="_blank">Visit this page</a> or <a href="https://twitter.com/tophtucker/status/1664292146986246145" target="_blank">tweet</a> or tweet for more info.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                London
-            </td>
-            <td>
-                June 3, 2023
-            </td>
-            <td>2-4pm</td>
-            <td>DJM, 10A, & Ann</td>
-            <td>Victoria Park</td>
-            <td>
-            <a href="https://docs.google.com/document/d/12GgOJ4G6dSUBESpfFSVrq9n5SV_3VCGBBFA5rAaOPdc/edit?usp=sharing" target="_blank">Visit this doc</a> for more info.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Seattle
-            </td>
-            <td>
-                June 3, 2023
-            </td>
-            <td>10am-12pm</td>
-            <td>Cindy</td>
-            <td>Dahlia Garden at Volunteer Park</td>
-            <td>
-              <a href="https://htmlenergyseattle.vercel.app/" target="_blank">Visit this page</a> or <a href="https://twitter.com/cindywu/status/1664435932962115584" target="_blank">tweet</a> for more info.
-            </td>
-         </tr>
-         <tr>
-            <td>Rotterdam</td>
-            <td>June 3, 2023</td>
-            <td>2-4pm</td>
-            <td>Ben & Elliott</td>
-            <td>Kralingen</td>
-            <td><a href="https://html.energy/freewrites/2023-06-03-rotterdam/invite.html" target="_blank">Visit this page</a> for more info.</td>
-         </tr>
-          <tr>
-            <td>Berlin</td>
-            <td>June 3, 2023</td>
-            <td>2-4pm</td>
-            <td>Timur & Eugene</td>
-            <td>Schloss Charlottenburg, by water</td>
-            <td><a href="https://twitter.com/eugenekudashev/status/1664741687376203778" target="_blank">Visit this tweet</a> for more info.</td>
-         </tr>
-        </table>
-      </div>
-    </div>
-
-    <p><i>More freewrites coming soon...</i></p>
-
-    <p>Please consider <a href="https://www.patreon.com/htmlenergy">supporting us</a> so that we can put more energy into organizing these events. Thank you!</p>
-
-
-    <br><br>
-
-
-    <h3>Past</h3>
-
-    <div class="table-wrapper">
-      <div class="inner-wrapper">
-        <table style="background: white;">
-            <tr>
-                <th>City</th>
-                <th>Date</th>
-                <th>Organizer</th>
-                <th>Venue</th>
-                <th>Documentation</th>
-            </tr>
-            <tr>
-              <td>New York</td>
-            <td>
-              January 29, 2023
-            </td>
-            <td>HTML Energy</td>
-            <td>Brooklyn Botanic Garden</td>
-            <td>
-              <a href="https://twitter.com/htmlenergy/status/1619878256441962498">link</a><br>
-              <a href="https://www.instagram.com/p/CpWC_OYMGwz/">link</a>
-            </td>
-          </tr>
-          <tr>
-            <tr>
-                <td>New York</td>
-              <td>
-                June 26, 2022
-              </td>
-              <td>HTML Energy</td>
-              <td>Nellie's Lawn, Prospect Park</td>
-              <td>
-                <a href="https://twitter.com/htmlenergy/status/1541213327828844546">link</a>
-              </td>
-            </tr>
-            <tr>
-                <td>Virtual</td>
-                <td>
-                  January 15, 2022
-                </td>
-                <td>HTML Energy</td>
-                <td>...</td>
-                <td>
-                  <a href="https://www.are.na/html-energy/html-energy-freewrite-01-15-2022">link</a>
-                </td>
-            </tr>
-            <tr>
-                <td>Virtual</td>
-                <td>January 12, 2020</td>
-                <td>HTML Energy</td>
-                <td>...</td>
-                <td>
-                  <a href="https://www.are.na/html-energy/html-energy-freewrite-01-12-2020">link</a>
-                </td>
-            </tr>
-            <tr>
-              <td>Brooklyn</td>
-              <td>November 23, 2019</td>
-              <td>HTML Energy</td>
-              <td>...</td>
-              <td>
-                <a href="https://html.energy/pages/freewrite-2019-11-23">link</a><br>
-                <a href="https://www.are.na/html-energy/html-energy-freewrite-11-23-2019">link</a>
-              </td>
-          </tr>
-        </table>
-      </div>
-    </div>
-
-    <br><br>
-    <br><br>
-
-    <div id="event-images">
-        <img src="images/freewrite-prospect-1.jpg" alt="Freewrite in Prospect Park" style="transform: rotate(-10deg)">
-        <img src="images/freewrite-prospect-3.jpg" alt="Freewrite in Prospect Park" style="transform: rotate(22deg)">
-        <img src="images/freewrite-prospect-4.jpg" alt="Freewrite in Prospect Park" style="transform: rotate(-5deg)">
-        <img src="images/freewrite-prospect-2.jpg" alt="Freewrite in Prospect Park" style="transform: rotate(10deg)">
-        <img src="images/freewrite-prospect-5.jpg" alt="Freewrite in Prospect Park" style="transform: rotate(7deg)">
-        <img src="images/freewrite-becca-laurel.jpg" alt="Becca and Laurel writing HTML" style="transform: rotate(30deg)">
-        <img src="images/freewrite-mark.jpg" alt="Mark writing HTML">
-    </div>
-
-    <br><br>
-    <br><br>
-
-    <footer>
-      ❇️ Written in pure, raw HTML. Can you feel the energy?<br><br>
-      ⛲ Want to see? View the source!
-    </footer>
-
-  </div>
-
-</body>
-
+            table th {
+                font-size: 14px;
+                padding-bottom: 5px;
+                font-weight: normal;
+                font-style: italic;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container wide">
+            <header>
+                <h1 class="link">
+                    <a href="index.html">HTML Energy</a>
+                </h1>
+            </header>
+            <nav>
+                <a href="podcast.html" class="button">🎵 Podcast</a>
+                <a href="events.html" class="button current">🌎 Events</a>
+                <a href="goals.html" class="button">💫 Goals</a>
+                <a href="join.html" class="button">❇️ Join</a>
+                <!-- <a href="angels.html" class="button">🕊 Angels</a> -->
+                <!-- <a href="http://store.html.energy" class="button">🦺 Store</a> -->
+            </nav>
+            <h2>Freewrites & Events</h2>
+            <p>HTML Energy organizes virtual and IRL HTML freewrites with friends around the world.</p>
+            <p>If you would like to organize a freewrite in your city please <a href="join.html#contact">reach out</a>. </p>
+            <br>
+            <hr>
+            <br>
+            <h3>Upcoming</h3>
+<!--             <div class="table-wrapper">
+                <div class="inner-wrapper">
+                    <table style="background: #fff;">
+                        <tr>
+                            <th>City</th>
+                            <th>Date</th>
+                            <th>Time</th>
+                            <th>Organizers</th>
+                            <th>Venue</th>
+                            <th>More info</th>
+                        </tr>
+                    </table>
+                </div>
+            </div> -->
+            <p>
+                <i>More freewrites coming soon...</i>
+            </p>
+            <p>Please consider <a href="https://www.patreon.com/htmlenergy">supporting us</a> so that we can put more energy into organizing these events. Thank you! </p>
+            <br>
+            <br>
+            <h3>Past</h3>
+            <div class="table-wrapper">
+                <div class="inner-wrapper">
+                    <table style="background: white;">
+                        <tr>
+                            <th>City</th>
+                            <th>Date</th>
+                            <th>Organizer</th>
+                            <th>Venue</th>
+                            <th>Documentation</th>
+                        </tr>
+                                              <tr>
+                            <td> Toronto </td>
+                            <td> June 3, 2023 </td>
+                            <td>2-5pm</td>
+                            <td>Garry & Ross</td>
+                            <td>Dovercourt Park</td>
+                            <td>
+                                <a href="https://html.green">Visit html.green</a> for more info & RSVP.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td> San Francisco </td>
+                            <td> June 3, 2023 </td>
+                            <td>3-6pm</td>
+                            <td>Chia & Spencer</td>
+                            <td>Alamo Square Park</td>
+                            <td>
+                                <a href="https://twitter.com/spencerc99/status/1662511055938158592">Visit poster 1</a> and <a href="https://twitter.com/hotemogf/status/1662514569523363840">poster 2</a> for more info.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td> New York City </td>
+                            <td> June 3, 2023 </td>
+                            <td>6-8pm</td>
+                            <td>Omar & Laurel</td>
+                            <td>Valentino Jr. Park, Red Hook</td>
+                            <td>
+                                <a href="https://docs.google.com/document/d/1jJob08ovFgryT1Yv41F3Vj4CikVg6Yn7hiNEIsxAldE/edit?usp=sharing" target="_blank">Visit this doc</a> for more info.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td> Boston </td>
+                            <td> June 3, 2023 </td>
+                            <td>6-8pm</td>
+                            <td>Toph</td>
+                            <td>Public Garden, Bagheera Fountain</td>
+                            <td>
+                                <a href="https://www.tophtucker.com/htmlenergy/" target="_blank">Visit this page</a> or <a href="https://twitter.com/tophtucker/status/1664292146986246145" target="_blank">tweet</a> or tweet for more info.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td> London </td>
+                            <td> June 3, 2023 </td>
+                            <td>2-4pm</td>
+                            <td>DJM, 10A, & Ann</td>
+                            <td>Victoria Park</td>
+                            <td>
+                                <a href="https://docs.google.com/document/d/12GgOJ4G6dSUBESpfFSVrq9n5SV_3VCGBBFA5rAaOPdc/edit?usp=sharing" target="_blank">Visit this doc</a> for more info.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td> Seattle </td>
+                            <td> June 3, 2023 </td>
+                            <td>10am-12pm</td>
+                            <td>Cindy</td>
+                            <td>Dahlia Garden at Volunteer Park</td>
+                            <td>
+                                <a href="https://htmlenergyseattle.vercel.app/" target="_blank">Visit this page</a> or <a href="https://twitter.com/cindywu/status/1664435932962115584" target="_blank">tweet</a> for more info.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Rotterdam</td>
+                            <td>June 3, 2023</td>
+                            <td>2-4pm</td>
+                            <td>Ben & Elliott</td>
+                            <td>Kralingen</td>
+                            <td>
+                                <a href="https://html.energy/freewrites/2023-06-03-rotterdam/invite.html" target="_blank">Visit this page</a> for more info.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Berlin</td>
+                            <td>June 3, 2023</td>
+                            <td>2-4pm</td>
+                            <td>Timur & Eugene</td>
+                            <td>Schloss Charlottenburg, by water</td>
+                            <td>
+                                <a href="https://twitter.com/eugenekudashev/status/1664741687376203778" target="_blank">Visit this tweet</a> for more info.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>New York</td>
+                            <td>January 29, 2023</td>
+                            <td>HTML Energy</td>
+                            <td>Brooklyn Botanic Garden</td>
+                            <td>
+                                <a href="https://twitter.com/htmlenergy/status/1619878256441962498">link</a>
+                                <br>
+                                <a href="https://www.instagram.com/p/CpWC_OYMGwz/">link</a>
+                            </td>
+                        </tr>
+                        <tr>
+                        <tr>
+                            <td>New York</td>
+                            <td> June 26, 2022 </td>
+                            <td>HTML Energy</td>
+                            <td>Nellie's Lawn, Prospect Park</td>
+                            <td>
+                                <a href="https://twitter.com/htmlenergy/status/1541213327828844546">link</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Virtual</td>
+                            <td> January 15, 2022 </td>
+                            <td>HTML Energy</td>
+                            <td>...</td>
+                            <td>
+                                <a href="https://www.are.na/html-energy/html-energy-freewrite-01-15-2022">link</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Virtual</td>
+                            <td>January 12, 2020</td>
+                            <td>HTML Energy</td>
+                            <td>...</td>
+                            <td>
+                                <a href="https://www.are.na/html-energy/html-energy-freewrite-01-12-2020">link</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Brooklyn</td>
+                            <td>November 23, 2019</td>
+                            <td>HTML Energy</td>
+                            <td>...</td>
+                            <td>
+                                <a href="https://html.energy/pages/freewrite-2019-11-23">link</a>
+                                <br>
+                                <a href="https://www.are.na/html-energy/html-energy-freewrite-11-23-2019">link</a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div id="event-images">
+                <img src="images/freewrite-prospect-1.jpg" alt="Freewrite in Prospect Park" style="transform: rotate(-10deg)">
+                <img src="images/freewrite-prospect-3.jpg" alt="Freewrite in Prospect Park" style="transform: rotate(22deg)">
+                <img src="images/freewrite-prospect-4.jpg" alt="Freewrite in Prospect Park" style="transform: rotate(-5deg)">
+                <img src="images/freewrite-prospect-2.jpg" alt="Freewrite in Prospect Park" style="transform: rotate(10deg)">
+                <img src="images/freewrite-prospect-5.jpg" alt="Freewrite in Prospect Park" style="transform: rotate(7deg)">
+                <img src="images/freewrite-becca-laurel.jpg" alt="Becca and Laurel writing HTML" style="transform: rotate(30deg)">
+                <img src="images/freewrite-mark.jpg" alt="Mark writing HTML">
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <footer> ❇️ Written in pure, raw HTML. Can you feel the energy? <br>
+                <br> ⛲ Want to see? View the source!
+            </footer>
+        </div>
+    </body>
 </html>
