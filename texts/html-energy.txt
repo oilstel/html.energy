@@ -1,0 +1,425 @@
+Elliott  0:02  
+This is the official one. Now we're live now we're really live. So welcome to the pod.
+
+Laurel  0:08  
+Yeah, welcome. Welcome back to the pod.
+
+Unknown Speaker  0:12  
+It's been too long.
+
+Elliott  0:13  
+It's it's been, I don't know when we last release a podcast.
+
+Laurel  0:20  
+I think it was like a year ago, or something
+
+Elliott  0:25  
+we'd ever done this.
+
+Unknown Speaker  0:27  
+Yeah, Fireside Chat with HTML energy.
+
+Elliott  0:30  
+Yeah. You've never heard our voices. Actually, I guess. It like every interview.
+
+Speaker 3  0:37  
+Right. And we had some interviews where both of us interviewed someone. Remember? That's true. Yeah. Like, nobody did we do? I'm not sure. But I remember we did Tom. Toms. Remember Tom bubbles? Yep. Tom. Tom. How's he doing? Oh, I think he's good. I think he's in Minneapolis right now if I'm not mistaken. Also, I think it was his birthday recently. Happy birthday, Tom. It's still Leo season. Cheers.
+
+Elliott  1:10  
+What are we drinking here?
+
+Speaker 3  1:12  
+I think you brought some cider over. So we have cider.
+
+Elliott  1:16  
+This is sparkling pear cider from the perks of co op. I wish you could see how we're drinking it.
+
+Unknown Speaker  1:26  
+Love to put this on the cover, don't you think?
+
+Elliott  1:30  
+Yeah, definitely take some pics. Yeah.
+
+Speaker 3  1:32  
+This is just like my house signature style. Really? It's like a big spherical ice cube. And clear teacup? Yeah, so
+
+Elliott  1:48  
+it's slightly getting easier to drink. Every time we go for a second like blocks are liquid.
+
+Speaker 3  1:55  
+No. So what does this have to do with HTML? Elliot?
+
+Elliott  2:01  
+This drink? Um, I mean, pears are green.
+
+Unknown Speaker  2:05  
+Oh, that's true and HTML screen.
+
+Elliott  2:09  
+Right appear to bear.
+
+Speaker 3  2:13  
+Yeah, so I wonder if people are wondering what's what's up with HTML energy or like, what's going on with it? Do you think anyone cares? Yeah, I
+
+Elliott  2:22  
+got a little trolley recently, I guess.
+
+Unknown Speaker  2:24  
+Oh, really? What happened?
+
+Speaker 3  2:31  
+Yeah, I mean, it had some moments of trolling. But it also had some moments where it was just celebrating the good stuff. Sorry, Toby. Yeah, sorry, Toby. And Brian, and other internet. I don't think HTML energy meant it. But
+
+Elliott  3:05  
+so what's been happening to your browser? Recently? Online shopping? Couch.
+
+Unknown Speaker  3:15  
+That's personal. All my tabs are a little bit personal. Yeah, I mean, it looks a search like couch. Scrolling.
+
+Unknown Speaker  3:24  
+I mean.
+
+Speaker 3  3:28  
+I mean, how do you search for a small couch for your tiny apartment? Because couches just want to be so big. I mean, do you start at Google? Like, where does one start these days?
+
+Elliott  3:40  
+If we have any listeners, you know, work at any of these nice fancy couch startups. I want to donate the couch. Our teams are always open. That's right. But yeah, I don't know where to start.
+
+Unknown Speaker  3:57  
+I mean, does peas have a couch?
+
+Elliott  4:02  
+So they should rename it to peas. I'm just so obsessed with my peas.
+
+Speaker 3  4:12  
+Tell us about your new rug. Your piece rug.
+
+Elliott  4:16  
+It's my favorite piece of my favorite item in my apartment. Well, it's a piece rug by piece.
+
+Yeah, it's made of little, little pieces of HTML energy that are stitched together.
+
+Speaker 3  4:37  
+Oh, that's really cute. So it must be like really green. It's kind
+
+Elliott  4:40  
+of like a document like this bunch of elements that make it up. And then you're it's all collected together in the body. Also like settlement. But before before recording this we were talking about. Our friend Ben made this tweet A shout out to bear from extra practice, but it was really nice to read about like, maybe we could pull it up or something. But the gist of it was like, a rag should be something that you can lay down on.
+
+I thought it was nice. Wow
+
+Speaker 3  5:24  
+that's really nice. Every guy here, what's the point in a rug? That is not comfy to live down on? Okay, I just liked it on the pod live on the pod.
+
+Unknown Speaker  5:43  
+Good point.
+
+Elliott  5:47  
+So as the HTML energy Twitter guy, I guess we kind of covered that. It's out of it's not being bad anymore. It's been good. We're good. Maybe we should change the name to good. Good Twitter.
+
+Speaker 3  6:05  
+Good. Oh, looks like most recent tweet is talked to a pigeon about HTML today. Is that right?
+
+Elliott  6:17  
+Yeah, I think you did that. Oh.
+
+Speaker 3  6:20  
+That's right. Oh, yeah. So we've been walking around New York, wanting to interview people about HTML, but we're both feeling a little bit shy. And so we thought we would start with like a pigeon. So we'll have that to share with you sometime. Soon. Maybe. But um, yeah, I guess we are curious, like, would us asking people on the street about HTML? Will that get you all going?
+
+Elliott  6:51  
+Yeah. Send us a email. A voice memo? Yeah, it was either that or a booth threat? like setting up a booth with a sign in the park?
+
+Speaker 3  7:07  
+Yeah. I think we actually want to do that this Sunday.
+
+Elliott  7:11  
+On our body or something?
+
+Speaker 3  7:13  
+Yeah, I think we were going to be in Prospect Park this Sunday, with a little table on a sign that says like, Do you know what this element means? Or do you know what this means? And there's gonna be like a body element. And then people who know about the body are going to talk to us.
+
+Unknown Speaker  7:37  
+So All right. Sounds good. What time?
+
+Speaker 3  7:41  
+I'm thinking after we donate clothes to Goodwill. Yeah.
+
+Elliott  7:53  
+Yeah, please shut up. If you're on the slope in the area, yeah.
+
+Speaker 3  8:04  
+So have you seen any really great HTML websites lately? That's a good question. Are there any that you just keep on going back to because you can't get enough?
+
+Elliott  8:22  
+Yeah, there's a few. One that I can think of. Is this cafe Atlas site. Oh, yeah. We love and have a poster from it was made by this, like Professor of Economics at NYU, who just loves like, visiting different cafes around the world. And he made this like, map. I don't think I think he hired someone to make the site but it is it definitely has some HTML energy is very unstyled. I guess it does depend on a Google map. But I really appreciate the design. There's like little coffee cups as markers for the different cafes. Any takes takes photos and then he'll post them on this map but he also he also, I learned about the site through Trudy who their website is Trudy dot painter or started Trudy dot computer. They're really Oh, yeah. This is another side of them really? Coming back to you. Yeah, I think they're studying I met te right now that they've done a lot of projects like using the Spotify die. They're very interested in like using the using it to like, catalog their musical lessons.
+
+Unknown Speaker  10:06  
+Very cool. Um
+
+Elliott  10:11  
+But um, yeah, they posted like on their special fish a while back that like about about the cafe as I say, and that you could you could request a poster from him. And he would send it to you. And I did that. And yeah, he immediately replied and sent me to you.
+
+Unknown Speaker  10:34  
+Oh, that's really nice. Cool.
+
+Speaker 3  10:41  
+Love these tags on the site. I love a good tag. filtering system. Yeah.
+
+Elliott  10:48  
+A bit of HTML energy in this like green bubbles.
+
+Speaker 3  10:54  
+It definitely seems like they're a friend of HTML. Yeah, I found a nice website today. I guess I was sent to this website, Bob dot website. I think it's Bob dot website. And it just says, Hi, I'm Bob. And it is a static HTML site. I think. Yeah, it just has like a really nice light yellow background. I'm wondering if it's actually lemon chiffon, which is a background. Oh, no, it's a custom hex code. f f f six C four. That looks like I knew that. Yeah. I mean, I use lemon chief on on Firefly sanctuary. My website for my home where we are right now. And just shout out to Tiana. Okay, yeah. I just want to say shout out to Tiana, who's the one who inspired me to use lemon chiffon. Wow, very close, don't you think?
+
+Elliott  12:06  
+Yeah, that's a pretty close. I don't know if I could tell the difference. Yeah.
+
+Unknown Speaker  12:13  
+Yeah. So how do you choose? Yes, the
+
+Elliott  12:15  
+limit is like a little bit later. Oh, the webcams on? Should we get on the webcam?
+
+Speaker 3  12:20  
+Yeah, why not? Maybe I could just put it this way. If anybody's watching.
+
+Elliott  12:29  
+Also, for those who are listening to the pod, maybe we should be better about like describing what websites are on. But we're on laurels fireflies sanctuary dot today website
+
+it's kind of hard to describe a website.
+
+Unknown Speaker  12:50  
+Oh, yeah.
+
+Elliott  12:54  
+More just in words, in those things.
+
+No luck with the webcam.
+
+Speaker 3  13:05  
+Oh, no, it just there's a delay, I think so we have to wait like, three minutes or like a minute.
+
+Elliott  13:15  
+I was teaching somebody HTML today. Really? Yeah. My friend Austin, who was in Philly. And yeah, he's making a website for an artist that he's working for. But he was showing me how he was updating it. And he's using GitHub Pages. And he's editing through GitHub. Yeah, there's a delay. Yeah, like when you update something? Yeah, it takes like, probably three minutes. But he actually appreciates that he's like, no, no, I like I like doing this as like, recommending he might download it locally. But you're it's kind of the delay. Oh, wow. Which, yeah, slow development.
+
+Unknown Speaker  14:00  
+Yeah, slow development can be anything can be moved.
+
+Elliott  14:04  
+That's how HTML energy. People develop their sites.
+
+Unknown Speaker  14:10  
+Yeah, maybe.
+
+Elliott  14:15  
+Someone should build a browser extension that won't. I guess I would die where it just wouldn't like they can be reloaded a page. It would put like a timer up for three minutes. And then we'll show you a page.
+
+Unknown Speaker  14:34  
+That's funny.
+
+Elliott  14:42  
+We're on the cam.
+
+Speaker 3  14:43  
+So we're live on Firefly sanctuary dot today. Oh, yeah. I killed it. So we have finished our first cider, but we split one bottle. So it's we're not nothing's too crazy yet. Yeah. So I heard you are offering HTML lessons. Is that right?
+
+Elliott  15:12  
+Yep. Yep. You know, I honestly thought like more people would reach out if you're listening and need some HTML lessons and are located in New York. Yeah. Yeah, I would love to do it. I'm trying to go offline more. So I want to like meet up with people in real life and teach them HTML. And they came after like, yeah, teaching Austin a little HTML today. We were just doing it over, like, video chat. That just, it feels good to like, see people like getting it, and understanding. Like, why it's so powerful, and then like, making their own stuff.
+
+Using that, so that's inspiring. Yeah. I'm here.
+
+Speaker 3  16:08  
+It seems like you've done that a few times where someone has come to you and one to the website. And then you said, Hey, actually, what do you want to just learn HTML? Is that right? Like with gern?
+
+Elliott  16:21  
+Yeah, that's true. Yeah. With Karen. Shout out to Garyun. A lot of shout outs.
+
+Speaker 3  16:29  
+Well, I have to have a whole list list with links, drop it in. Yeah, but further record. gerne is an art gallery in the East Village. And they have a great HTML site.
+
+Elliott  16:43  
+Yep. That our friends run. And yeah, they have a great little website that they update. I think they use DreamHost for the server, and then they just edit it using like atom. And like copy and paste, like the previous shows page. And, and then just customize it to their liking, and then upload it to their server using FTP.
+
+Unknown Speaker  17:15  
+Right, I'm kind of old school, but yeah. It works. Nice.
+
+Elliott  17:21  
+Maybe that's more modern than modern. Yeah.
+
+Speaker 3  17:28  
+Definitely. I am curious if, like, if everyone knows how to do that, because sometimes, how to FTP. Sometimes we make assumptions that people know. And that's true. I'm also with GitHub Pages. Like actually, the first time I use GitHub, it was like super confusing, and I'm still confused. Yeah. Crazy. I mean, so if anyone needs some tips, let us know. Yeah, yeah, but speaking of tips, I've been thinking about what's up homies.
+
+Speaker 3  18:15  
+Here, we're having our first ad break. So this is sponsored by HTML soup, a new cookbook for HTML,
+
+Elliott  18:25  
+and PS IPs
+
+Unknown Speaker  18:30  
+and this meditation because Oh, yeah, I do. Let's see
+
+Unknown Speaker  18:38  
+by hugger mugger. Shout out Yeah,
+
+Elliott  18:46  
+can we turn back on the fire?
+
+Unknown Speaker  18:48  
+Oh, sure. This is a fireside chat after all.
+
+Elliott  18:52  
+We're watching like some weird Roku illustration right now floating by
+
+somebody was asking me so somebody DM DM man was like, I'm teaching people HTML and CSS tonight. Or maybe it was some tonight but CNN, like a bunch of their friends. They're teaching and they're like, What resources can you provide? Which I know we've talked about before, of like, creating a resource list. And then I went to a very interactive you got a lot there.
+
+Speaker 3  19:44  
+That's nice. Well, thank you. Yeah. Good to know. So we've got this beautiful fire on in the background. Oh yeah. Hey, I'll turn it in later. Okay, well,
+
+Elliott  20:03  
+so now you're gonna hear the fake fire right now
+
+Speaker 3  20:21  
+also, I wonder. I bet like, if we released this in the discord. People might have something to say. Oh, yeah. Yeah, I guess I recently, I was informed that our Discord has been a lively community of some HTML fans. And there's a lot of people. Yeah, a lot of nice little Convos going on.
+
+Elliott  20:51  
+You wonder like, how, if there's any overlap between like, the discord community and the Twitter I just wish I could meet some of these people. Wait, what are just like all these different little communities we have? Like, I feel like they must overlap. But like sometimes I feel like they don't at all, you know, like audiences on different social media platforms. Yeah, I mean, it's all different. Yeah, I mean, experience for like people like reached out and they're like, Oh, I didn't even know you had a Twitter?
+
+Unknown Speaker  21:26  
+Oh, that's kind of cool.
+
+Speaker 3  21:30  
+Yeah, I mean, multiple paths in are good. Right. Through. Yeah. And
+
+Elliott  21:42  
+Blinkbox?
+
+Speaker 3  21:43  
+Yeah, multiple linkbacks. SEO, SEO. Quote back.
+
+Elliott  21:51  
+Do you get any like, clients asking about SEO?
+
+Speaker 3  21:55  
+Sometimes, you know, who asks me about SEO the most though.
+
+Unknown Speaker  22:01  
+My mom.
+
+Speaker 3  22:04  
+My mom was always sometimes just so nice. My mom has insomnia. And Google's me. And sometimes last year, she complained last week. Yeah, sometimes actually, she complained a bit about my presence on Google having a little bit too much redundancy and so actually cleaned it up for her this year. Yeah. I was surprised. There's a lot you can do. I'm just Yeah, hey google. Oh, yeah. Oops. Yeah, go.
+
+Elliott  22:49  
+Well, this bleep it up trying to work up
+
+is HTML energy. Hi.
+
+Speaker 3  23:00  
+Um, I don't think so. Because we don't have any income.
+
+Unknown Speaker  23:04  
+They're taking fun. Um, well.
+
+Speaker 3  23:07  
+Well, actually, we've been talking about wanting to have a petite web shop that has a T shirts, hats, it tote bag, and the ability to donate to HTML energy. Adopting a park bench in Prospect Park. Or once we have this park bench, anyone can sit on it and enjoy that the plaque that says HTML energy is all around us. You just have to unlock it or something. Is that right? Sounds good.
+
+Elliott  23:49  
+Oh, yeah, there'll be like, another plaque under the bench that was like thrown in there. Um, yeah, a secret plaque. But super glue later. Yeah, we could literally just do that. But
+
+Speaker 3  24:07  
+what you want to do it the legal way. And we want to support the park.
+
+Elliott  24:11  
+Right? Well, it's kind of rebellious. But we respect the park.
+
+Unknown Speaker  24:15  
+The rules.
+
+Elliott  24:19  
+New York City Parks, which also has a great website.
+
+Unknown Speaker  24:25  
+There's a there's an amazing tree map.
+
+Unknown Speaker  24:28  
+Good to be mad. Yeah. Yeah.
+
+Elliott  24:32  
+Each tree has its own QR code. Right.
+
+Speaker 3  24:37  
+Something like that. So speaking of QR codes, those really popped off in the pandemic, right?
+
+Elliott  24:47  
+They certainly did. And it made me think our website's back.
+
+Speaker 3  24:54  
+Hey, great question. Also, isn't it just amazing that like, that could be the name of this point. is our websites back? Like, that's a great idea. Also, you know what? We could advertise this podcast by putting QR codes up around the city. That's good. Yeah. And then it just goes to the podcast. Yeah, I think. Yeah. You know what, when people see a QR code, they just love to scan it. Especially when they're at a restaurant.
+
+Elliott  25:34  
+Place some restaurant
+
+Unknown Speaker  25:36  
+without trollee? Elliot? Yeah, okay.
+
+Elliott  25:45  
+We could just like make, we could still like keep the menu intact menu project for your class. Like, on the edges at the bottom, it should be like, get a fucking website or something.
+
+Speaker 3  26:04  
+But also, I have to say one of the I like love when a QR code for a restaurant, like, for example, just goes to, like a Google Drive folder or something like really nice style, or I like when it just goes to a PDF. And the amazing thing is they just upload that PDF to the internet somewhere, and then they just literally access the URL of it. Wow, yeah, I'm just amazed. That's a good topic. Well, it's
+
+Elliott  26:34  
+just like the look of like a PDF on a website, where PDF has website. It's great. You don't even need I know where you're running HTML energy. But what do we think about PDFs? HTML? Like, either, like, dot txt or? Yeah, PDF as well.
+
+Speaker 3  27:00  
+I mean, of course, HTML is the best, but I, I love any medium and kind of process that is going to make someone feel more agency over. You know, just feel like they can contribute to the web, and not feel like they have to do it in a kind of template style a like if I have a PDF, and I just want to upload it. I can. Yeah, totally. But yeah, what do you think about those formats?
+
+Elliott  27:37  
+I'm very into them. Yeah, I think it's like, maybe I'm just like, into them. Aesthetically.
+
+I guess my website used to be a dot txt file.
+
+Unknown Speaker  27:47  
+Oh, really? When was that?
+
+Elliott  27:54  
+Few years ago? Yes.
+
+Sorry, I didn't. Because my website for a year.
+
+Speaker 3  28:03  
+Wow, it stayed that way for a year. I feel like your website only stays the same for like two days.
+
+Elliott  28:09  
+That's true. Yeah. Right now, lots of people are like asking me about this company thing. They put on my website that I want to start a company.
+
+Unknown Speaker  28:21  
+Oh, yeah. A few other people.
+
+Elliott  28:23  
+And I forget, like people, I feel like a lot of people say this, but like, I feel like it is like it's true. It's like, you change your website, and you don't realize that people are visiting it. And then they're gonna ask you about it. The next day? Yes. So you really have to think, you
+
+know, like,
+
+I have something to say about that.
+
+Speaker 3  28:51  
+I mean, that's, that's nice to think of a website as a conversation piece or website as an icebreaker. Yeah, so you weren't prepared for people to ask you about the company.
+
+Elliott  29:10  
+Maybe I was, I don't know. I mean, I've maybe maybe there's like other examples of that happening. But not really. I mean, I don't even know like the company idea is like, I don't even know what I want to do. Company wise, but some have some conversation setup, so maybe it is I mean, it's probably good. Just put it out there and see what happens.
+
+Unknown Speaker  29:34  
+Nice. Yeah, well, you know, accompany
+
+Unknown Speaker  29:37  
+those VCs. Kolon Oh, yeah. Website.
+
+Speaker 3  29:43  
+Like little robots. Yeah. Nice. Well, hey, we're almost at the 30 minute mark. I feel like I think we should wrap this. But thanks, everybody like
+
+Elliott  29:55  
+it somehow.
+
+Speaker 3  29:56  
+Oh, yeah. What should we do? And In the fires roaring, or you're done with a cider Do you have anything to drop
+
+Transcribed by https://otter.ai
