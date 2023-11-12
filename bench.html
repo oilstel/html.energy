@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>bench - html energy</title>
+  <meta name="description" content="html energy is all around us and in this very website.">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <link rel="stylesheet" href="css/global.css?v=1.0">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/bench.css">
+  <link rel="shortcut icon" type="image/png" href="images/favicon.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@htmlenergy">
+  <meta name="twitter:title" content="HTML Energy">
+  <meta name="twitter:description" content="html energy is all around us and in this very website.">
+  <meta name="twitter:image" content="https://html.energy/images/social-energy.jpg"/>
+</head>
+
+<body>
+  <div class="container medium">
+    <header>
+      <h1 class="link"><a href="index.html">HTML Energy</a></h1>
+    </header>
+    <nav>
+      <div>
+        <a href="podcast.html" class="button">🎵 Podcast</a>
+        <a href="events.html" class="button">🌎 Events</a>
+        <a href="goals.html" class="button">💫 Goals</a>
+        <a href="join.html" class="button">❇️ Join</a>
+        <a href="bench.html" class="button current">🌳 Bench</a>
+      </div>
+    </nav>
+
+    <h2 id="page-title"><i>a park bench dedicated to html</i></h2>
+    <p class="big-text">a place for the &lt;body&gt; ... for writing html together irl ... a monument</p>
+
+    <br>
+
+    <section id="what">
+
+        <div id="bench-slideshow">
+            <img src="images/bench-long-shot.jpg" alt="Park Bench Long Shot" id="image1" class="fade-image">
+            <img src="images/bench-medium-shot.jpg" alt="Park Bench Medium Shot" id="image2" class="fade-image">
+            <img src="images/bench-close-up.jpg" alt="Park Bench Close-Up" id="image3" class="fade-image">
+        </div>
+    </section>
+
+    <p class="big-text">The first bench will be in Prospect Park, Brooklyn.<br> If we reach our goal and beyond we will install others in different cities.</p>
+
+    <br>
+
+    <section id="why">
+
+        <div>
+          <h2>A Meeting Place</h2>
+          <p>Our dedicated HTML park bench in Prospect Park symbolizes a unique gathering spot, a physical representation of the communal spirit of the web. It's not just a bench; it's a meeting point for enthusiasts, learners, and experts alike to share, collaborate, and celebrate the vibrancy of the web. This bench is a testament to the power of HTML in connecting people, just as it connects the vast expanse of the internet.</p>
+        </div>
+        
+        <div>
+          <h2>The personal is public</h2>
+          <p>By dedicating a bench to HTML, we are reinforcing our commitment to our core goals. This bench is a beacon, highlighting the human element of the web – it’s alive, evolving, and crafted by human hands. It serves as a tangible milestone in our journey to make the web more accessible and to embed HTML deeper into educational curricula. Each visitor to the bench is a step towards realizing these ambitions.</p>
+        </div>
+        
+        <div>
+          <h2>Supports HTML Energy Activities</h2>
+          <p>This bench is more than just a place to sit; it's a symbol of the raw, dynamic energy of HTML. It's a physical embodiment of HTML, mirroring the enthusiasm we share through our <a href="podcast.html">podcast</a>, <a href="events.html">freewrites</a>, and various community engagements. It's a reminder that HTML is not just code, but a canvas for creativity, a tool for education, and a medium for expression. Your support helps us bring this energy to life and extend our reach further. Thank you for being part of this journey!</p>
+        </div>
+      
+    </section>
+
+    <br>
+      
+
+    <section id="progress">
+        <h2>We need your help to make this a reality...</h2>
+        <br>
+        <div id="progress-bar-container">
+            <!-- <div class="marker" id="bench">Bench in Prospect Park, Brooklyn</div> -->
+            <div class="marker" id="goal">$10,000</div>
+            <div id="progress-bar">
+                <div id="so-far"></div>
+            </div>
+        </div>
+
+        <br><br><br><br>
+
+        <a href="" id="support-button">Support the bench and HTML Energy</a>
+    </section>
+
+    <br><br><br>
+
+    <h2>Thank you for your energy...</h2>
+    <br>
+
+    <section id="plaques">
+        <div class="plaque">
+            <p id="dedication">
+                Elliott believes in HTML
+            </p>
+        </div>
+        <div class="plaque">
+            <p id="dedication">
+                Laurel believes in HTML
+            </p>
+        </div>
+        <div class="plaque" style="background-color: lime;">
+            <p id="dedication">
+                Kristoffer believes in HTML
+            </p>
+        </div>
+        <div class="plaque" style="background-color: lime;">
+            <p id="dedication">
+                Uno believes in HTML
+            </p>
+        </div>
+        <div class="plaque" >
+            <p id="dedication">
+                Athens believes in HTML
+            </p>
+        </div>
+    </section>
+
+    <br><br><br><br><br><br>
+
+    <footer>
+      ❇️ Written in pure, raw HTML. Can you feel the energy?<br><br>
+      ⛲ Want to see? View the source!
+    </footer>
+
+  </div>
+
+  <script>
+    let currentImage = 1;
+    const totalImages = 3;
+    const imageDisplayTime = 5000; // 3 seconds
+    const crossFadeTime = 1500; // 1.5 seconds
+
+    function changeImage() {
+    let nextImage = currentImage + 1;
+    if (nextImage > totalImages) {
+        nextImage = 1;
+    }
+
+    document.getElementById('image' + currentImage).style.opacity = 0;
+    document.getElementById('image' + nextImage).style.opacity = 1;
+
+    currentImage = nextImage;
+    }
+
+    // Initial display
+    document.getElementById('image1').style.opacity = 1;
+
+    setInterval(changeImage, imageDisplayTime);
+
+    // Adjust the crossfade timing
+    document.querySelectorAll('.fade-image').forEach(image => {
+    image.style.transition = `opacity ${crossFadeTime}ms ease-in-out`;
+});
+
+  </script>
+</body>
+
+</html>

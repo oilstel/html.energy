@@ -1,0 +1,135 @@
+.medium {
+    max-width: 1000px;
+    overflow: initial;
+}
+
+h2#page-title {
+    font-weight: normal;
+    margin: 40px 0 0 0;
+    font-size: 60px;
+}
+.big-text {
+    font-size: 24px;
+}
+section {
+    margin-bottom: 2em;
+}
+
+#what #bench-slideshow {
+    width: 100%;
+    height: 450px;
+    position: relative;
+    border-radius: 2em;
+    overflow: hidden;
+    /* filter: grayscale(100%); */
+    /* background-color: green; */
+}
+#what #bench-slideshow .fade-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 1.5s ease-in-out;
+    object-fit: cover;
+}
+  
+#why {
+    display: flex;
+    gap: 20px;
+}
+#why h2 {
+    font-size: 18px;
+    font-style: italic;
+}
+#why div {
+    text-align: left;
+}
+#progress-bar-container {
+    position: relative;
+}
+#progress-bar {
+    position: relative;
+    width: 100%;
+    height: 40px;
+    border: 1px solid gray;
+    border-radius: 0px;
+    overflow: hidden;
+}
+#progress-bar #so-far {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 10%;
+    background-color: lime;
+}
+#progress-bar-container .marker {
+    font-size: 13px;
+    font-style: italic;
+    position: absolute;
+    top: 25px;
+    z-index: 1;
+}
+#progress-bar-container .marker::before {
+    display: block;
+    content: '';
+    width: 30px;
+    height: 30px;
+    margin-left: -5px;
+    background-image: url('../images/star.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: 2px;
+}
+.marker#bench {
+    left: 20%;
+}
+.marker#goal {
+    font-size: 18px;
+    text-align: right;
+    left: 95%;
+    top: 17px;
+}
+.marker#goal::before {
+    background-image: none;
+}
+a#support-button {
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 1.5em;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #000;
+    background-color: rgba(0, 255, 0, 0.289);
+}
+a#support-button:hover {
+    background-color: lime;
+}
+
+h2 {
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+#plaques {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px 15px;
+}
+#plaques .plaque {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 263px;
+    height: 193px;
+    background-image: url('../images/plaque.svg');
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border: 2px solid #000;
+}
