@@ -1,0 +1,22 @@
+.medium {
+    max-width: 1000px;
+    overflow: initial;
+}
+
+h2#page-title {
+    font-weight: normal;
+    margin: 40px 0 0 0;
+    font-size: 60px;
+}
+.big-text {
+    font-size: 24px;
+}
+main {
+    text-align: left;
+}
+i#email {
+    display: inline;
+    /* border: 1px solid gray; */
+    background-color: rgb(239, 239, 239);
+    padding: 8px;
+}
