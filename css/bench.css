@@ -41,10 +41,12 @@ section {
 }
 #why h2 {
     font-size: 18px;
-    font-style: italic;
+    font-style: normal;
+    font-weight: bold;
 }
 #why div {
     text-align: left;
+    flex: 1;
 }
 #progress-bar-container {
     position: relative;
