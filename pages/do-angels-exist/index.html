@@ -56,14 +56,46 @@
             border-radius: 1.5em;
             margin: 0 0.2em 0.75em;
             /* transition: background 0.25s ease-out; */
-            transition: border-color 0.5s ease;
+            transition: all 0.5s ease;
+        }
+        a.button.normal,
+        a.button.normal-special {
+            border-color: #aaa;
+            -webkit-box-shadow: 0px 0px 5px lime;
+            -moz-box-shadow: 0px 0px 5px lime;
+            box-shadow: 0px 0px 5px lime;
+        }
+        a.button.normal:hover {
+            -webkit-box-shadow: 0px 0px 10px lime;
+            -moz-box-shadow: 0px 0px 10px lime;
+            box-shadow: 0px 0px 10px lime;
+        }
+
+        a.button.normal-special:hover {
+            -webkit-box-shadow: 0px 0px 20px lime;
+            -moz-box-shadow: 0px 0px 20px lime;
+            box-shadow: 0px 0px 20px lime;
+            text-decoration: underline;
         }
         a.button.special {
-            background: #C4F2B0; padding-top: 0.75em; border-color: #aaa;
+            padding-top: 0.75em;
+            /* border-color: lime; */
+            border-color: #aaa;
+            -webkit-box-shadow: 0px 0px 5px lime;
+            -moz-box-shadow: 0px 0px 5px lime;
+            box-shadow: 0px 0px 5px lime;
         }
-        a.button.normal:hover,
         a.button.special:hover {
             border-color: black;
+            background: white;
+            text-decoration: underline;
+            -webkit-box-shadow: 0px 0px 50px lime;
+            -moz-box-shadow: 0px 0px 50px lime;
+            box-shadow: 0px 0px 50px lime;
+        }
+        a.button.normal:hover {
+            border-color: rgba(0, 0, 0, 0.6);
+            text-decoration: underline;
         }
         #star {
             top: 10px;
@@ -162,11 +194,8 @@
 
         <p>So the question still lingers with us...</p>
     
-        <p><i>Is there an HTML Energy angel out there?</i></p>
+        <p style="margin-bottom: 1.5em;"><i style="background: #D5FFD4">Is there an HTML Energy angel out there?</i></p>
 
-        <p>
-            
-        </p>
 
         <p style="font-size: 1.75em;">
         <a
@@ -177,7 +206,7 @@
 <br>        <a
               href="https://buy.stripe.com/dR600O9nOge6bGUdQX"
               target="_blank"
-              class="button normal"
+              class="button normal-special"
               style="padding-top: 0.75em;"
               >Send HTML Energy $1000</a>
             <br>
@@ -187,7 +216,10 @@
               style="padding-top: 0.75em;"
               class="button normal">Send HTML Energy $50</a></p>
 
-        <p><i>Please note all payments are non-refundable and final.</i></p>
+        <p>
+            <i>
+                <!-- <i> -->
+                Please note all payments are non-refundable and final.</i></p>
 
         <figure class="wide">
             <img src="do-angels-exist.jpg" alt="">
