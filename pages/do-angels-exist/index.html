@@ -1,252 +1,344 @@
-
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Someone sent 5000 dollars to HTML Energy</title>
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@htmlenergy">
-    <meta name="twitter:title" content="Someone sent 5000 dollars to HTML Energy">
-    <meta name="twitter:description" content="Yesterday, I woke up to an email that someone had sent us $5,000...">
-    <meta name="twitter:image" content="https://html.energy/pages/do-angels-exist/do-angels-exist.jpg">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@htmlenergy" />
+    <meta
+      name="twitter:title"
+      content="Someone sent 5000 dollars to HTML Energy"
+    />
+    <meta
+      name="twitter:description"
+      content="Yesterday, I woke up to an email that someone had sent us $5,000..."
+    />
+    <meta
+      name="twitter:image"
+      content="https://html.energy/pages/do-angels-exist/do-angels-exist.jpg"
+    />
     <style>
-        *, *:before, *:after { box-sizing: border-box; }
-        body {
-            color: #000;
-            padding: 20px;
-        }
-        p {
-            font-size: 20px;
-            line-height: 30px;
-            margin: 20px auto;
-        }
-        p, figure.narrow {
-            width: 100%;
-            max-width: 500px;
-        }
-        figure.wide {
-            margin: 40px auto;
-            max-width: 1200px;
-        }
-        figure.narrow {
-            margin: 40px auto;
-            padding: 0;
-        }
-        figcaption {
-            font-size: 16px;
-            line-height: 20px;
-            text-align: center;
-            /* font-style: italic; */
-        }
-        .small {
-            font-size: 15px;
-            line-height: 16px;
-        }
-        img {
-            width: 100%;
-        }
-        a.button {
-            display: inline-block;
-            background: white;
-            color: black;
-            border: 1px solid #d1d1d1;
-            text-decoration: none;
-            padding: 0.6em 1em;
-            border-radius: 1.5em;
-            margin: 0 0.2em 0.75em;
-            /* transition: background 0.25s ease-out; */
-            transition: all 0.5s ease;
-        }
-        a.button.normal,
-        a.button.normal-special {
-            border-color: #aaa;
-            -webkit-box-shadow: 0px 0px 5px lime;
-            -moz-box-shadow: 0px 0px 5px lime;
-            box-shadow: 0px 0px 5px lime;
-        }
-        a.button.normal:hover {
-            -webkit-box-shadow: 0px 0px 10px lime;
-            -moz-box-shadow: 0px 0px 10px lime;
-            box-shadow: 0px 0px 10px lime;
-        }
+      *,
+      *:before,
+      *:after {
+        box-sizing: border-box;
+      }
+      body {
+        color: #000;
+        padding: 20px;
+      }
+      p {
+        font-size: 20px;
+        line-height: 30px;
+        margin: 20px auto;
+      }
+      p,
+      figure.narrow {
+        width: 100%;
+        max-width: 500px;
+      }
+      figure.wide {
+        margin: 40px auto;
+        max-width: 1200px;
+      }
+      figure.narrow {
+        margin: 40px auto;
+        padding: 0;
+      }
+      figure.tiny {
+        max-width: 150px;
+        height: 150px;
+        margin: 0;
+        display: inline-block;
+        position: relative;
+      }
+      figure.tiny .angel {
+        position: absolute;
+        top: 0; left: 0; bottom: 0; right: 0;
+        display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3;
+      }
+      .angels-wall {
+        text-align: center;
+      }
+      figcaption {
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        /* font-style: italic; */
+      }
+      .small {
+        font-size: 15px;
+        line-height: 16px;
+      }
+      img {
+        width: 100%;
+      }
+      a.button {
+        display: inline-block;
+        background: white;
+        color: black;
+        border: 1px solid #d1d1d1;
+        text-decoration: none;
+        padding: 0.6em 1em;
+        border-radius: 1.5em;
+        margin: 0 0.2em 0.75em;
+        /* transition: background 0.25s ease-out; */
+        transition: all 0.5s ease;
+      }
+      a.button.normal,
+      a.button.normal-special {
+        border-color: #aaa;
+        -webkit-box-shadow: 0px 0px 5px lime;
+        -moz-box-shadow: 0px 0px 5px lime;
+        box-shadow: 0px 0px 5px lime;
+      }
+      a.button.normal:hover {
+        -webkit-box-shadow: 0px 0px 10px lime;
+        -moz-box-shadow: 0px 0px 10px lime;
+        box-shadow: 0px 0px 10px lime;
+      }
 
-        a.button.normal-special:hover {
-            -webkit-box-shadow: 0px 0px 20px lime;
-            -moz-box-shadow: 0px 0px 20px lime;
-            box-shadow: 0px 0px 20px lime;
-            text-decoration: underline;
-        }
-        a.button.special {
-            padding-top: 0.75em;
-            /* border-color: lime; */
-            border-color: #aaa;
-            -webkit-box-shadow: 0px 0px 5px lime;
-            -moz-box-shadow: 0px 0px 5px lime;
-            box-shadow: 0px 0px 5px lime;
-        }
-        a.button.special:hover {
-            border-color: black;
-            background: white;
-            text-decoration: underline;
-            -webkit-box-shadow: 0px 0px 50px lime;
-            -moz-box-shadow: 0px 0px 50px lime;
-            box-shadow: 0px 0px 50px lime;
-        }
-        a.button.normal:hover {
-            border-color: rgba(0, 0, 0, 0.6);
-            text-decoration: underline;
-        }
-        #star {
-            top: 10px;
-            left: 10px;
-            width: 50px;
-            position: fixed;
-        }
-        .message {
-            padding: 10px 15px;
-            margin: 5px;
-            border-radius: 18px;
-            font-family: "Helvetica Neue", Arial, sans-serif;
-            font-size: 30px;
-            line-height: 1.5;
-            box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
-            background-color: #e6ecef;
-            max-width: 500px;
-            width: 100%;
-            margin: 0 auto;
-        }
+      a.button.normal-special:hover {
+        -webkit-box-shadow: 0px 0px 20px lime;
+        -moz-box-shadow: 0px 0px 20px lime;
+        box-shadow: 0px 0px 20px lime;
+        text-decoration: underline;
+      }
+      a.button.special {
+        padding-top: 0.75em;
+        /* border-color: lime; */
+        border-color: #aaa;
+        -webkit-box-shadow: 0px 0px 5px lime;
+        -moz-box-shadow: 0px 0px 5px lime;
+        box-shadow: 0px 0px 5px lime;
+      }
+      a.button.special:hover {
+        border-color: black;
+        background: white;
+        text-decoration: underline;
+        -webkit-box-shadow: 0px 0px 50px lime;
+        -moz-box-shadow: 0px 0px 50px lime;
+        box-shadow: 0px 0px 50px lime;
+      }
+      a.button.normal:hover {
+        border-color: rgba(0, 0, 0, 0.6);
+        text-decoration: underline;
+      }
+      #star {
+        top: 10px;
+        left: 10px;
+        width: 50px;
+        position: fixed;
+      }
+      .message {
+        padding: 10px 15px;
+        margin: 5px;
+        border-radius: 18px;
+        font-family: "Helvetica Neue", Arial, sans-serif;
+        font-size: 30px;
+        line-height: 1.5;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+        background-color: #e6ecef;
+        max-width: 500px;
+        width: 100%;
+        margin: 0 auto;
+      }
     </style>
-</head>
-<body>
-    <a href="https://html.energy"><img src="star.png" alt="" id="star"></a>
+  </head>
+  <body>
+    <a href="https://html.energy"><img src="star.png" alt="" id="star" /></a>
     <article>
-        <p>Yesterday, I woke up to an email that someone had sent us $5,000. I reread the Stripe email several times and blinked to make sure I wasn't still asleep.</p>
+      <p>
+        Yesterday, I woke up to an email that someone had sent us $5,000. I
+        reread the Stripe email several times and blinked to make sure I wasn't
+        still asleep.
+      </p>
 
-        <p>I quickly messaged Laurel about our new HTML angel...</p>
-    
-        <figure class="narrow">
-            <img src="omg.png" alt="">
-            <figcaption></figcaption>
-        </figure>
-    
-        <p>We had just orchestrated <a href="/events.html">HTML Day</a>, a day where people meet up and write HTML in cities all around the world. (This year, 20 cities spanning 4 continents participated.) These freewrites take place in parks, cafes, even boats. It's all about returning to the source of what made the web beautiful to begin with and writing HTML together in real life. Maybe our new angel had seen <a href="/goals.html">the potential</a> of our project. Maybe they realized how much unpaid work we had done over the last five years: organizing events, teaching people HTML, recording an entire <a href="/podcast.html">podcast</a>, keeping things <a href="https://x.com/htmlenergy">light</a>, all in the hopes of making the web a calmer and more human place to browse.</p>
+      <p>I quickly messaged Laurel about our new HTML angel...</p>
 
-        <figure class="wide">
-            <img src="html-day-2024.png" alt="">
-            <figcaption>
-                HTML Day took place on Saturday, July 13th, 2024 in <a href="http://maxbo.me/html-in-hyde">Sydney</a>, 
-                <a href="https://html.energy/freewrites/2024-07-13-nyc/index.html">New York City</a>, 
-                <a href="https://html.energy/freewrites/2024-07-13-rotterdam/index.html">Rotterdam</a>, 
-                <a href="https://html.energy/freewrites/2024-07-13-sf/index.html">San Francisco</a>, 
-                <a href="http://html.green">Toronto</a>, 
-                <a href="http://niceinter.net/yvr-2024">Vancouver</a>, 
-                <a href="http://html.blue">Montreal</a>, 
-                <a href="http://sundaysites.cafe/htmlday2024.html">Stockholm</a>, 
-                <a href="http://html---energy---hamburg.glitch.me">Hamburg</a>, 
-                <a href="http://html-energy-london-2024-ducks.glitch.me">London</a>, 
-                <a href="http://closed-pinnate-father.glitch.me">Saskatoon</a>, 
-                <a href="http://energiahtml.com">Buenos Aires</a>, 
-                <a href="http://donothing.online/htmlday">Dublin</a>, 
-                <a href="http://afterneworder.com/htmlday">Seoul</a>, 
-                <a href="http://writecards.github.io/html-energy">Shanghai</a>, 
-                <a href="http://htmlaustin.com">Austin</a>, 
-                <a href="http://peata.github.io/html-day-2024">Portland (Maine)</a>, 
-                <a href="http://htmlatl.glitch.me">Atlanta</a>, 
-                <a href="http://tophtucker.com/htmlenergy/2024">Lee / Lenox (Massachusetts)</a>, 
-                <a href="http://html-day-hnl.vercel.app">Honolulu</a>, and 
-                <a href="http://seattlehtmlday.glitch.me">Seattle</a>.
-            </figcaption>
-        </figure>
-        
-        <p>The day passed as usual, and Laurel and I texted about how we could thank our angel and how we could put this new found energy into the movement. A special edition HTML Energy shirt, a gift basket of only green items, and, of course, a special certificate of appreciation all came to mind.</p>
-    
-        <figure class="wide">
-            <img src="angel-merch.png" alt="">
-            <figcaption></figcaption>
-        </figure>
-    
-        <p>In the evening, a message arrived...</p>
-    
-        <!-- <figure class="narrow">
+      <figure class="narrow">
+        <img src="omg.png" alt="" />
+        <figcaption></figcaption>
+      </figure>
+
+      <p>
+        We had just orchestrated <a href="/events.html">HTML Day</a>, a day
+        where people meet up and write HTML in cities all around the world.
+        (This year, 20 cities spanning 4 continents participated.) These
+        freewrites take place in parks, cafes, even boats. It's all about
+        returning to the source of what made the web beautiful to begin with and
+        writing HTML together in real life. Maybe our new angel had seen
+        <a href="/goals.html">the potential</a> of our project. Maybe they
+        realized how much unpaid work we had done over the last five years:
+        organizing events, teaching people HTML, recording an entire
+        <a href="/podcast.html">podcast</a>, keeping things
+        <a href="https://x.com/htmlenergy">light</a>, all in the hopes of making
+        the web a calmer and more human place to browse.
+      </p>
+
+      <figure class="wide">
+        <img src="html-day-2024.png" alt="" />
+        <figcaption>
+          HTML Day took place on Saturday, July 13th, 2024 in
+          <a href="http://maxbo.me/html-in-hyde">Sydney</a>,
+          <a href="https://html.energy/freewrites/2024-07-13-nyc/index.html"
+            >New York City</a
+          >,
+          <a
+            href="https://html.energy/freewrites/2024-07-13-rotterdam/index.html"
+            >Rotterdam</a
+          >,
+          <a href="https://html.energy/freewrites/2024-07-13-sf/index.html"
+            >San Francisco</a
+          >, <a href="http://html.green">Toronto</a>,
+          <a href="http://niceinter.net/yvr-2024">Vancouver</a>,
+          <a href="http://html.blue">Montreal</a>,
+          <a href="http://sundaysites.cafe/htmlday2024.html">Stockholm</a>,
+          <a href="http://html---energy---hamburg.glitch.me">Hamburg</a>,
+          <a href="http://html-energy-london-2024-ducks.glitch.me">London</a>,
+          <a href="http://closed-pinnate-father.glitch.me">Saskatoon</a>,
+          <a href="http://energiahtml.com">Buenos Aires</a>,
+          <a href="http://donothing.online/htmlday">Dublin</a>,
+          <a href="http://afterneworder.com/htmlday">Seoul</a>,
+          <a href="http://writecards.github.io/html-energy">Shanghai</a>,
+          <a href="http://htmlaustin.com">Austin</a>,
+          <a href="http://peata.github.io/html-day-2024">Portland (Maine)</a>,
+          <a href="http://htmlatl.glitch.me">Atlanta</a>,
+          <a href="http://tophtucker.com/htmlenergy/2024"
+            >Lee / Lenox (Massachusetts)</a
+          >, <a href="http://html-day-hnl.vercel.app">Honolulu</a>, and
+          <a href="http://seattlehtmlday.glitch.me">Seattle</a>.
+        </figcaption>
+      </figure>
+
+      <p>
+        The day passed as usual, and Laurel and I texted about how we could
+        thank our angel and how we could put this new found energy into the
+        movement. A special edition HTML Energy shirt, a gift basket of only
+        green items, and, of course, a special certificate of appreciation all
+        came to mind.
+      </p>
+
+      <figure class="wide">
+        <img src="angel-merch.png" alt="" />
+        <figcaption></figcaption>
+      </figure>
+
+      <p>In the evening, a message arrived...</p>
+
+      <!-- <figure class="narrow">
             <img src="from-angel.png" alt="HELP HELP PLEASE DECLINE MY PAYMENT THE MONTHLY WAS $50 I THOUGHT THE ONE TIME WAS ALSO GOING TO BE $50 PLEASE DECLINE MY PAYMENT">
             <figcaption>A message in all-caps arrives from our angel.</figcaption>
         </figure> -->
 
-        <p class="message">
-            HELP HELP PLEASE DECLINE MY PAYMENT...
-        </p>
-    
-        <p>Alas, it had all been a mistake :(</p>
-    
-        <p>Our angel was just a smaller angel who had clicked through the donate page a little too fast. Maybe if Stripe had more HTML Energy this wouldn't have happened.</p>
-    
-        <p>We promptly refunded our tiny angel and thanked them for their energy, though it saddened us that this was all a mistake.</p>
-    
-        <p>But this experience did make us wonder...</p>
-    
-        <p>Maybe a big angel did exist after all. It seemed so possible early that day. We had heard stories of projects being funded by a single bitcoin or a generous CEO. It really felt like our day had come.</p>
-        
+      <p class="message">HELP HELP PLEASE DECLINE MY PAYMENT...</p>
 
-            <figure class="narrow">
+      <p>Alas, it had all been a mistake :(</p>
+
+      <p>
+        Our angel was just a smaller angel who had clicked through the donate
+        page a little too fast. Maybe if Stripe had more HTML Energy this
+        wouldn't have happened.
+      </p>
+
+      <p>
+        We promptly refunded our tiny angel and thanked them for their energy,
+        though it saddened us that this was all a mistake.
+      </p>
+
+      <p>But this experience did make us wonder...</p>
+
+      <p>
+        Maybe a big angel did exist after all. It seemed so possible early that
+        day. We had heard stories of projects being funded by a single bitcoin
+        or a generous CEO. It really felt like our day had come.
+      </p>
+
+      <!-- <figure class="narrow">
                 <img src="star.png">
-            </figure>
+            </figure> -->
 
-        <p>So the question still lingers with us...</p>
-    
-        <p style="margin-bottom: 1.5em;"><i style="background: #D5FFD4">Is there an HTML Energy angel out there?</i></p>
+      <p>So the question still lingers with us...</p>
 
+      <p style="margin-bottom: 1.5em">
+        <i style="background: #d5ffd4"
+          >Is there an HTML Energy angel out there?</i
+        >
+      </p>
 
-        <p style="font-size: 1.25em;">
+      <p style="font-size: 1.25em">
         <a
-              href="https://buy.stripe.com/28odRE9nO3rkdP228h"
-              target="_blank"
-              class="button special"
-              >Send HTML Energy $5000 for real</a>
-<br>        <a
-              href="https://buy.stripe.com/dR600O9nOge6bGUdQX"
-              target="_blank"
-              class="button normal-special"
-              style="padding-top: 0.75em;"
-              >Send HTML Energy $100</a>
-            <br>
-            <a
-              href="https://buy.stripe.com/14kaFsbvWe5Y5iw14c"
-              target="_blank"
-              style="padding-top: 0.75em;"
-              class="button normal">Send HTML Energy $25</a></p>
+          href="https://buy.stripe.com/28odRE9nO3rkdP228h"
+          target="_blank"
+          class="button special"
+          >Send HTML Energy $5000</a
+        >
+        <br />
+        <a
+          href="https://buy.stripe.com/dR600O9nOge6bGUdQX"
+          target="_blank"
+          class="button normal-special"
+          style="padding-top: 0.75em"
+          >Send HTML Energy $100</a
+        >
+        <br />
+        <a
+          href="https://buy.stripe.com/14kaFsbvWe5Y5iw14c"
+          target="_blank"
+          style="padding-top: 0.75em"
+          class="button normal"
+          >Send HTML Energy $25</a
+        >
+      </p>
 
+      <figure class="wide">
+        <img src="do-angels-exist.jpg" alt="" />
+      </figure>
 
-        <figure class="wide">
-            <img src="do-angels-exist.jpg" alt="">
+      <p>
+        Thanks to our angels:
+      
+        <div class="angels-wall">
+        <figure class="tiny">
+          <div class="angel">shub</div>
+          <img src="star.png" />
         </figure>
 
-        <p>
-            <b>🕊 Our Angels 🕊</b><br><br>
-            shub
-            <!-- 🕊 For big angels reach out to <a href="mailto:angel@html.energy">angel@html.energy</a></a><br>
+        <figure class="tiny">
+          <div class="angel">???</div>
+          <img src="star.png" />
+        </figure>
+        </div>
+
+        <!-- 🕊 For big angels reach out to <a href="mailto:angel@html.energy">angel@html.energy</a></a><br>
             🍃 For small angels visit <a href="/join.html">html.energy/join.html</a></p> -->
-        </p>
-    
-        <br>
-    
-        <p style="">
-            Energy creates energy,<br>
-            <span style="font-style: italic;">
-                <a href="https://elliott.computer">Elliott</a> & <a href="https://laurel.world">Laurel</a><br>
-                stewards of html energy<br>
-                <a href="http://html.energy">http://html.energy</a>
-            </span>
+      </p>
+
+      <br />
+
+      <p style="">
+        Energy creates energy,<br />
+        <span style="font-style: italic">
+          <a href="https://elliott.computer">Elliott</a> &
+          <a href="https://laurel.world">Laurel</a><br />
+          stewards of html energy<br />
+          <a href="http://html.energy">http://html.energy</a>
+        </span>
+      </p>
+
+      <br /><br /><br /><br /><br /><br />
+
+      <center>
+        <p class="small">
+          ❇️ Written in pure, raw HTML. Can you feel the energy?
         </p>
 
-        <br><br><br><br><br><br>
-
-        <center>
-            <p class="small">❇️ Written in pure, raw HTML. Can you feel the energy? </p>
-    
-            <p class="small">⛲ Want to see? View the source!</p>
-        </center>
+        <p class="small">⛲ Want to see? View the source!</p>
+      </center>
     </article>
-      
-</body>
+  </body>
 </html>
