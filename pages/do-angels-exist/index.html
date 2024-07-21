@@ -53,13 +53,20 @@
         display: inline-block;
         position: relative;
       }
+      figure.tiny.big-angel {
+        max-width: 350px;
+        height: 350px;
+      }
+      figure.tiny.big-angel .angel {
+        font-size: 1.5em;
+      }
       figure.tiny .angel {
         position: absolute;
         top: 0; left: 0; bottom: 0; right: 0;
         display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 3;
+        align-items: center;
+        justify-content: center;
+        z-index: 3;
       }
       .angels-wall {
         text-align: center;
@@ -301,6 +308,7 @@
 
       <p>
         Thanks to our angels:
+    </p>
       
         <div class="angels-wall">
         <figure class="tiny">
@@ -309,9 +317,16 @@
         </figure>
 
         <figure class="tiny">
-          <div class="angel">???</div>
+          <div class="angel">Andrew</div>
           <img src="star.png" />
         </figure>
+
+        <br>
+
+        <figure class="tiny big-angel">
+            <div class="angel">you?</div>
+            <img src="star.png" />
+          </figure>
         </div>
 
         <!-- 🕊 For big angels reach out to <a href="mailto:angel@html.energy">angel@html.energy</a></a><br>
