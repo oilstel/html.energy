@@ -37,7 +37,7 @@
             border-radius: 100%;
             filter: blur(500px);
             position: fixed;
-            top: -50%;
+            top: -50dvw;
             left: 50%;
             transform: translate(-50%, -50%);
         }
@@ -73,11 +73,18 @@
             max-width: 600px;
         }
         @media (max-width: 600px) {
+            #star {
+                filter: blur(150px);
+            }
             main {
                 padding: 20px;
             }
             p {
                 font-size: 24px;
+            }
+            #inline-star {
+                width: 40px !important;
+                margin-bottom: -12px !important;
             }
         }
     </style>
@@ -93,7 +100,7 @@
     
         <p>Happy July! We wanted to send a .html to the wwworld to let you know that we're still here and that we're still writing HTML.</p>
     
-        <p>We also wanted to let you know that <img src="../images/star.png" alt="HTML Day" style="width: 100px; height: 100px; margin-bottom: -35px;"><a href="https://html.energy/events.html">HTML Day</a> (an annual celebration of HTML) is just around the corner.</p>
+        <p>We also wanted to let you know that <img src="../images/star.png" alt="HTML Day" style="width: 100px; margin-bottom: -35px;" id="inline-star"><a href="https://html.energy/events.html">HTML Day</a> (an annual celebration of HTML) is just around the corner.</p>
     
         <p>This year (2025), it's happening on <strong><a href="https://html.energy/events.html">Saturday, August 2, 2025</a></strong> around the world!</p>
     
@@ -148,7 +155,7 @@
         <p>Here are some HTML memes for your enjoyment...</p>
 
         <div id="memes">
-            <video src="https://attachments.are.na/37494514/124bcdac22b24469a1071b3b41513593.mp4?1750171725" poster="../images/star.png" controls></video>
+            <video src="https://attachments.are.na/37494514/124bcdac22b24469a1071b3b41513593.mp4?1750171725" poster="../images/star.png" controls playsinline></video>
     
             <img src="https://d2w9rnfcy7mm78.cloudfront.net/37052147/original_b6ca146e7fe93703a29a2297d5fa438e.jpg?1748533400?bc=0" alt="">
     
