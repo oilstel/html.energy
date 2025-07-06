@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Text to HTML Converter</title>
+  <script>
+    function convertTextToHTML() {
+      const inputText = document.getElementById('inputText').value;
+      const div = document.createElement('div');
+      div.innerHTML = '<a><abbr><address><area><article><aside><audio><b><base><bdi><bdo><blockquote><body><br><button><canvas><caption><cite><code><col><colgroup><data><datalist><dd><del><details><dfn><dialog><div><dl><dt><em><embed><fieldset><figcaption><figure><footer><form><h1><h2><h3><h4><h5><h6><head><header><hr><html><i><iframe><img><input><ins><kbd><label><legend><li><link><main><map><mark><meta><meter><nav><noscript><object><ol><optgroup><option><output><p><param><picture><pre><progress><q><rp><rt><ruby><s><samp><script><section><select><small><source><span><strong><style><sub><summary><sup><svg><table><tbody><td><template><textarea><tfoot><th><thead><time><title><tr><track><u><ul><var><video><wbr>';
+      
+      // Get all valid tag names
+      const validTags = Array.from(div.children).map(el => el.tagName.toLowerCase());
+      let result = '';
+      let buffer = '';
+      
+      for (let i = 0; i < inputText.length; i++) {
+        buffer += inputText[i];
+        
+        // If the buffer matches a valid tag, wrap it in HTML tags
+        if (validTags.some(tag => buffer.toLowerCase() === tag)) {
+          result += `<${buffer}>`;
+          buffer = '';
+        }
+        // If we encounter a space or end of input, append unmatched text to the result
+        else if (i === inputText.length - 1 || inputText[i + 1] === ' ') {
+          result += buffer;
+          buffer = '';
+        }
+      }
+      
+      // Append any leftover text in the buffer (if not matched as a tag)
+      if (buffer) {
+        result += buffer;
+      }
+
+      document.getElementById('outputText').value = result;
+    }
+  </script>
+</head>
+<body>
+  <h1>Text to HTML Converter</h1>
+  <textarea id="inputText" rows="10" cols="50" placeholder="Enter text here..."></textarea><br>
+  <button onclick="convertTextToHTML()">Convert</button><br>
+  <textarea id="outputText" rows="10" cols="50" placeholder="Output will appear here..." readonly></textarea>
+</body>
+</html>
