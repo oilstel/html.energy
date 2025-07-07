@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>HTML Day 2025: NYC (Sunset Mode)</title>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="HTML Day 2025: NYC (Sunset Mode)" />
+    <meta
+      name="twitter:description"
+      content="August 2, 2025, 6-8pm, Red Hook"
+    />
+    <meta
+      name="twitter:image"
+      content="https://html.energy/freewrites/2025-08-02-nyc/2025-og.png"
+    />
+    <!-- manually upload 2025-og.png to this path -->
+    <style>
+      pre {
+        font-size: min(12px, 2vw);
+        color: orange;
+      }
+
+      body {
+        background-color: lightyellow;
+      }
+
+      h1 {
+        background-color: palevioletred;
+        color: floralwhite;
+        display: inline-block;
+        font-size: 4em;
+      }
+
+      h2 {
+        margin: 0;
+        font-size: 1.25em;
+      }
+
+      @keyframes raining {
+        0% {
+          background-position: 0 0;
+        }
+
+        100% {
+          background-position: -1rem 1rem;
+        }
+      }
+
+      .rain {
+        flex-basis: 50%;
+        background: radial-gradient(circle, steelblue 0.1rem, lightblue 0.1rem);
+        background-size: 1rem 1rem;
+        animation: raining 2s linear infinite;
+        animation-timing-function: steps(8, end);
+        color: black;
+      }
+
+      a {
+        color: palevioletred;
+        font-weight: bold;
+      }
+
+      #cat {
+        /* display: block; */
+        width: 50px;
+        height: auto;
+        transform: scale(-1, 1);
+      }
+
+      @property --a {
+        syntax: "<angle>";
+        inherits: false;
+        initial-value: 0deg;
+      }
+
+      @keyframes spin {
+        from {
+          --a: 0deg;
+        }
+
+        to {
+          --a: 360deg;
+        }
+      }
+
+      #sunny {
+        flex-basis: 50%;
+        width: 100%;
+        background: repeating-conic-gradient(
+          from var(--a),
+          gold 0deg 10deg,
+          yellow 10deg 20deg /* blue 20deg 30deg */
+        );
+        animation: spin 10s linear infinite;
+        animation-timing-function: steps(10, end);
+      }
+
+      /* https://maxbittker.github.io/broider/ */
+      .broider {
+        border-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAAAAXNSR0IArs4c6QAAAftJREFUeF7t28tRAzEQhOF1PFyJh+CIh6vjgTMypa6uaY1k/HOVPNZ+25p9lLld/EUFbtFqFLsADYcAUEDDAuFyJBTQsEC4HAkFNCwQLkdCAQ0LhMuR0FcDvb9/fs+O+e3r46hQHLWYv+AADW8hQAENC5jlVALNctfunrq9hwLqRkbMBxTQqUD7lleJdHtgul41L4BWBYfPAwrobwG2/PBs7vZMFagROF1fff/2LZ8+YEDDb4sABXTeRU67SHSvJ95Duw9AXSS61wNouOUAehpo95ZSW1yNr15vOaGrF6iA3PHV6wV0OCPVBw1Ad4Ou3jLuFq7OTz9Z2QkFdH4KAQ2//QIU0GrXXPuCmoSGf4wGKKD/bMuPh5O+j8ty6Wrp20B7ywMavg8FFNCpwPFbflx99e2N7oLejDTg+O3xHgqod4IfZq8+48Xlta+XhO5+H6oSc1piu9dTTqi6jdrdUwFVW8AcB9QEU9OfHtQ9wPR96u53C/EeCqgSCI+vTtDq+oqDhCohc3w7aPW2qvuio3wBVULmOKAmmJoOqBIyx9tB3UdV83j4f3l1UQHUFADUBFPTAVVCxXEFnH72Ly734ePbL0ruRQpQMwIk1ART0wFVQi82flwPfXZ/QMNnEFBAwwLhciQU0LBAuBwJBTQsEC5HQgENC4TLkdAw6A+xgaBkHEOr0QAAAABJRU5ErkJggg==")
+          28 / 28px / 0 round;
+        border-width: 28px;
+        border-style: solid;
+        padding: 10px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <marquee>
+      <pre>
+
+                   ^^           @@@@@@@@@
+      ^^       ^^            @@@@@@@@@@@@@@@
+                           @@@@@@@@@@@@@@@@@@             ^^
+                          @@@@@@@@@@@@@@@@@@@@      ___/\___
+~~~~ ~~ ~~~~~ ~~~~~~~~ ~~ &&&&&&&&&&&&&&&&&&&& ~~~~~\______/~~~~~~ ~~~ ~~~~~~~ ~~~~~ ~~~~~ ~~~ 
+~         ~~   ~  ~       ~~~~~~~~~~~~~~~~~~~~ ~    / ~~   \   ~~ ~ ~~~ ~~~ ~~~~ ~~~~~ ~~~~ ~~~~
+  ~      ~~      ~~ ~~ ~~  ~~~~~~~~~~~~~ ~~~~  ~     ~~~    ~ ~~~  ~ ~~  ~~~~ ~~ ~~~~~~ ~~~ ~~~~~
+  ~  ~~     ~         ~      ~~~~~~  ~~ ~~~       ~~ ~ ~~  ~~ ~  ~~~~~~ ~~~~~~~~ ~~ ~~~     ~~
+~  ~     ___/\___     ~           ~~ ~~~~~~  ~      ~~  ~             ~~                   ~~~
+      ~  \______/           ~        ~      ~      ~~   ~             ~ ~~ ~                   ~~
+         /      \   ~       ~      ~      ~ ~~ ~~~~ ~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~          ~~
+    </pre
+      >
+    </marquee>
+    <h1>☼ HTML Day 2025: NYC ☼</h1>
+    <br />
+
+    <h2>
+      Saturday, August 02, 2025<br />
+      6–8PM<br />
+      Red Hook<br /><br />
+    </h2>
+
+    <div style="color: blue; font-weight: bold; font-size: 1.25em"></div>
+
+    <div style="display: flex; gap: 1em">
+      <div id="sunny">
+        <div
+          style="
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            position: relative;
+          "
+        >
+          <div
+            style="
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              font-size: 5em;
+            "
+          >
+            ☀️
+          </div>
+          <div style="display: block; z-index: 1; font-size: 2em">
+            Sun venue:
+            <br />
+            Valentino Jr. Park!
+          </div>
+        </div>
+      </div>
+      <div
+        class="rain"
+        style="
+          padding: 10px;
+          display: flex;
+          position: relative;
+          justify-content: center;
+          align-items: center;
+          height: 100%;
+          font-size: 2em;
+        "
+      >
+        <div
+          style="
+            font-size: 2em;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+          "
+        >
+          🌧️
+        </div>
+        <div style="z-index: 1">
+          Rain venue:
+          <br />
+          IKEA living rooms area!
+        </div>
+      </div>
+    </div>
+
+    <br />
+
+    <div class="broider">
+      <b>What should I bring?</b><br />
+      yourself, something to write HTML on, and your sunset energy<br /><br />
+
+      <b>Where exactly?</b><br />
+      <a href="https://goo.gl/maps/JX1LUpeaepmvQQqb7"
+        >https://goo.gl/maps/JX1LUpeaepmvQQqb7</a
+      ><br /><br />
+
+      <b>Who is running this?</b><br />
+      Ashley (<a href="https://twitter.com/gifts4ghosts" target="_blank"
+        >@gifts4ghosts</a
+      >) & Yu (<a href="https://twitter.com/__dundery" target="_blank"
+        >@__dundery</a
+      >) & Justin (<a href="https://twitter.com/justinliang1020" target="_blank"
+        >@justinliang1020</a
+      >)!<br />
+      We are keeping the
+      <a href="https://html.energy" target="_blank">HTML.energy</a> light going
+      strong!<br /><br />
+
+      <b>How can I contact you all??</b><br />
+      DM us on Twitter or email us (janniesun00@gmail.com)<br /><br />
+
+      <b>Is this the same as last year's event?</b><br />
+      Yup! :)<br /><br />
+
+      <b>I'm not in NYC. Is there an event in my city?</b><br />
+      Check out
+      <a href="https://html.energy/events.html">html.energy/events.html</a>. If
+      your city isn't listed, feel free to organize your own!
+    </div>
+  </body>
+  <script>
+    const ascii = document.getElementById("ascii");
+  </script>
+</html>
