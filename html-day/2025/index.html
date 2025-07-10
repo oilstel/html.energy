@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Day – August 2nd, 2025</title>
+    <link rel="shortcut icon" type="image/png" href="../images/favicon.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@htmlenergy" />
+    <meta name="twitter:title" content="HTML Energy" />
+    <meta name="twitter:description" content="HTMl Day is on August 2nd, 2025!" />
+    <meta name="twitter:image" content="https://html.energy/images/social-energy.jpg" alt="HTML Day 2025 in 22 cities wwworldwide!" />
+    <style>
+        html {
+            background-color: #fff;
+            color: #000;
+            text-align: center;
+            font-size: 36px;
+            /* -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale; 
+            -webkit-text-size-adjust: none; */
+        }
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            font-weight: normal;
+            font-size: 3rem;
+        }
+        #big-star {
+            color: #70F202;
+            animation: spin 30s linear infinite;
+            display: inline-block;
+            filter: blur(4px);
+        }
+        hr {
+            height: 2px;
+            border: 0;
+            background-color: #e7e7e7;
+        }
+        
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+        a {
+            color: blue;
+        }
+        main {
+            max-width: 2000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        menu {
+            display: flex;
+            flex-flow: row wrap;
+            align-items: center;
+            justify-content: center;
+            gap: 30px;
+            list-style: none;
+            padding: 0;
+        }
+        p, menu li {
+
+        }
+        p, li {
+            font-size: 1rem;
+            line-height: 1.5rem;
+        }
+
+        /* Ticker */
+        #ticker {
+            display: flex;
+            flex-flow: row wrap;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            background-color: rgb(229, 229, 229);
+            overflow: hidden;
+            white-space: nowrap;
+        }
+        #ticker-text {
+            font-size: 18px;
+            line-height: 30px;
+            display: inline-block;
+            animation: none;
+        }
+        .ticker-star {
+            color: #70F202;
+            margin: 0 10px;
+        }
+
+        /* Events */
+        #events-list {
+            display: flex;
+            flex-flow: column wrap;
+            align-items: center;
+            justify-content: center;
+            gap: 60px;
+        }
+
+        /* Section titles */
+        h2.section-title {
+            font-weight: normal;
+            font-style: italic;
+            font-size: 1.5rem;
+            margin-bottom: 60px;
+        }
+
+        #about-section {
+            text-align: left;
+        }
+        #about-section details {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #d1d1d1;
+        }
+        #about-section details summary {
+            font-size: 1.2rem;
+            padding: 10px;
+            cursor: pointer;
+        }
+        #about-section details p {}
+        /* #events-list .event {
+            text-align: center;
+            max-width: 400px;
+            padding: 10px;
+        } */
+
+        .star-break {
+            font-size: 3rem;
+            color: #70F202;
+            animation: spin 30s linear infinite;
+            filter: blur(4px);
+        }
+
+        #star {
+            width: 120dvw;
+            height: 120dvw;
+            background-color: #70F202;
+            border-radius: 100%;
+            filter: blur(100px);
+            position: fixed;
+            top: -50dvw;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: -1;
+            display: none;
+        }
+        #photots {
+            display: flex;
+            flex-flow: row wrap;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+        }
+        #photos img {
+            width: 100%;
+            max-width: 320px;
+            height: auto;
+            border: 1px solid #d1d1d1;
+            padding: 10px;
+            background-color: #fff;
+        }
+
+        #memes {
+            display: flex;
+            flex-flow: column wrap;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+        }
+        #memes video {
+            width: 100%;
+            max-width: 600px;
+            background-color: #70F202;
+        }
+        #memes img {
+            width: 100%;
+            max-width: 600px;
+        }
+
+        /* Sponsors */
+        #sponsors {
+            display: flex;
+            justify-content: center;
+            text-align: center;
+        }
+        #sponsors .sponsor {
+            display: flex;
+            flex-flow: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        #sponsors .sponsor img {
+            max-width: 500px;
+            width: 100%;
+        }
+
+        @media (max-width: 600px) {
+            html {
+                font-size: 24px;
+            }
+            #star {
+                filter: blur(150px);
+            }
+            main {
+                padding: 20px;
+            }
+            p {
+                font-size: 24px;
+            }
+            #inline-star {
+                width: 40px !important;
+                margin-bottom: -12px !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="ticker">
+        <div id="ticker-text">
+            🌅🗽 New York City &nbsp;&nbsp; 🍃🚂 Sydney &nbsp;&nbsp; 💜🌴 Singapore &nbsp;&nbsp; 🌇🌴 Los Angeles &nbsp;&nbsp; 🌷🚲 Amsterdam &nbsp;&nbsp; 🌸🏙️ Seoul &nbsp;&nbsp; 📗🍭 New Haven &nbsp;&nbsp; 🚗🪷 Detroit &nbsp;&nbsp; 🐛🍃 Victoria, BC &nbsp;&nbsp; 
+        </div>
+    </div>
+
+
+    <main>
+        <div id="star"></div>
+
+        <h1 style="margin-bottom: 0;">HTML Day<span id="big-star">✺</span></h1>
+
+        <p style="margin-top: 0;">An annual celebration of HTML</p>
+
+        <menu>
+            <li><a href="#events">Events</a></li>
+            <li><a href="#photos">Photos</a></li>
+            <li><a href="#join">Join</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#organize">Organize</a></li>
+            <li><a href="#sponsors">Sponsors</a></li>
+        </menu>
+
+        <br>
+
+        <p style="max-width: 1000px; margin: 0 auto;">On <b>Saturday, August 2nd, 2025</b>, we'll be gathering in places around the world</span> to write and celebrate HTML.</p>
+
+        <br>
+
+        <hr>
+
+        <!-- ☼☼☼ About HTML Day ☼☼☼ -->
+
+        <h2 id="events" class="section-title">Events</h2>
+
+        <div id="events-list">
+            <div class="event">
+                <b>🌅🗽 New York City</b><br />
+                Saturday, August 2, 6-8pm<br />
+                Valentino Jr. Park, Red Hook<br />
+                <i>Organized by Ashley & Yu & Justin</i><br />
+                More info:
+                <a href="freewrites/2025-08-02-nyc/index.html" target="_blank">2025-08-02-nyc/index.html</a>
+            </div>
+    
+            <div class="event">
+                <b>🍃🚂 Sydney</b><br />
+                Saturday, August 2, 12-3pm<br />
+                North-East the Anzac Memorial in Hyde Park<br />
+                <i>Organized by Max</i><br />
+                More info:
+                <a href="https://maxbo.me/html-in-hyde/1/invitation.html" target="_blank">
+                    https://maxbo.me/html-in-hyde/1/invitation.html
+                </a>
+            </div>
+    
+            <div class="event">
+                <b>💜🌴 Singapore</b><br />
+                Saturday, August 2, 4-6:30pm<br />
+                Fort Canning Green<br />
+                <i>Organized by Lina</i><br />
+                More info:
+                <a href="https://amalinalai.github.io/htmlenergy/event-2025.html" target="_blank">
+                    https://amalinalai.github.io/htmlenergy/event-2025.html
+                </a>
+            </div>
+    
+            <div class="event">
+                <b>🌇🌴 Los Angeles</b><br />
+                Saturday, August 2, 12pm - 3pm<br />
+                Silver Lake Meadows - 2300 Silver Lake Blvd, Los Angeles, CA 90039<br />
+                <i>Organized by Emily</i><br />
+                More info:
+                <a href="https://www.sneakyfelix.com/htmlenergy.html" target="_blank">www.sneakyfelix.com/htmlenergy.html</a>
+            </div>
+
+            <div class="event">
+                <b>🌷🚲 Amsterdam</b><br />
+                Saturday, August 2, 17:00-20:00<br />
+                Filmhuis Cavia<br />
+                <i>Organized by Braxton</i><br />
+                More info:
+                <a href="https://bobs-club.net/html-day-2025-08-02/index.html" target="_blank">bobs-club.net/html-day-2025-08-02/index.html</a>
+            </div>
+
+            <div class="event">
+                <b>🌸🏙️ Seoul</b><br />
+                Saturday, August 2, 6-9pm KST<br />
+                <a href="http://p-i-e.kr/" target="_blank">Studio Pie</a> (116, Seongmisan-ro, Mapo-gu, Seoul, Korea)<br />
+                <i>Organized by <a href="http://neworder.xyz/" target="_blank">New Order</a> & <a href="http://afterneworder.com/" target="_blank">After New Order</a></i><br />
+                More info:
+                <a href="http://afterneworder.com/htmlday" target="_blank">afterneworder.com/htmlday</a>
+            </div>
+
+            <div class="event">
+                <b>📗🍭 New Haven</b><br />
+                Saturday, August 2, 12-3pm<br />
+                Never Ending Books<br />
+                <i>Organized by Loren</i><br />
+                More info: <a href="https://ribo.zone/html-day/" target="_blank">ribo.zone/html-day</a>
+            </div>
+
+            <div class="event">
+                <b>🚗🪷 Detroit</b><br />
+                Saturday, August 2, 10am-2pm<br />
+                POST Detroit<br />
+                <i>Organized by Connor M.</i><br />
+                More info:
+                <a href="https://htmldaydetroit.web.app/" target="_blank">
+                    https://htmldaydetroit.web.app/
+                </a>
+            </div>
+
+            <div class="event">
+                <b>🐛🍃 Victoria, BC</b><br />
+                Saturday, August 2, 2-4pm<br />
+                William Stevenson Memorial Park<br />
+                <i>Organized by Seán & Kate</i><br />
+                More info:
+                <a href="https://vicbc.neocities.org/html-day/2025.html" target="_blank">
+                    https://vicbc.neocities.org/html-day/2025.html
+                </a>
+            </div>
+        </div>
+
+        <p class="star-break" style="color: #ff35e4;">&#x273A;</p>
+
+        <!-- ☼☼☼ Organize ☼☼☼ -->
+
+        <div style="background: #f0f0f0; padding: 1.5em; max-width: 600px; text-align: left; margin: 1.5em auto;">
+            <i>To organize your own HTML freewrite ... </i><br><br>
+          
+              <h3><u>Step 1.</u> Create event poster / site</h3>
+              Create some kind of website with the event information. It should live as a hyperlink — ideally it's an HTML website we can link to from this page. Look at examples below from last year etc. for inspo...<br>
+      
+              <h3><u>Step 2.</u> Email us with your info</h3>
+              
+                  Email day@html.energy with:
+                  <ul style="padding-left: 1em;">
+                      <li>City</li>
+                      <li>Date <span style="opacity: 0.5;">... Saturday, August 2 is HTML Day 2025!</span></li>
+                  <li>Time</li>
+                  <li>Organizer / Organizers Name(s)</li>
+                  <li>Specific Location</li>
+                  <li>A link to your poster / website with event info</li>
+      
+                  </ul>
+      
+                  <h3><u>Step 3.</u> Enjoy your HTML freewrite!</u> </h3>
+                  If it looks good, you'll hear back from us (within a few days at the most) and we will list it on this website. Please spread the word on your own accord, and enjoy the free flowing HTML energy! 
+                         ❇️
+      
+        </div>
+
+        <p class="star-break" style="color: #ff7f35;">&#x273A;</p>
+
+        <!-- ☼☼☼ About HTML Day ☼☼☼ -->
+
+        <h2 id="about" class="section-title">More about HTML Day</h2>
+
+        <div id="about-section">
+            <details>
+                <summary>What is HTML Day?</summary>
+
+                <p>HTML Day is an annual celebration of HTML. It's a day to gather IRL in places around the world to write and learn HTML. It's been going strong for three years.</p>
+            </details>
+    
+            <details>
+                <summary>Who is behind this?</summary>
+
+                <p>This is a community-driven initiative organized by <a href="https://html.energy">HTML Energy</a>. HTML Energy was started by Laurel Schwulst and Elliott Cost in 2019. As HTML Energy, we made a <a href="../../podcast.html">podcast</a>, organized HTML freewrites, the past two years of HTML Day, and run a popular HTML meme <a href="https://x.com/htmlenergy">account</a>. We are just getting started and have many more <a href="../../goals.html">goals</a>.</p>
+
+                <p>We're not affiliated with any company or organization. This type of work takes a lot of time and energy, and we need <a href="https://www.patreon.com/htmlenergy">your help</a> to make it sustainable. <span style="background-color: #b0ffa0;">This year we are looking for sponsors to make HTML Day possible. If you're interested in helping us make HTML Day possible this year, please email us at <a href="mailto:sponsor@html.energy">sponsor@html.energy</a>.</span></p>
+            </details>
+    
+            <details>
+                <summary>How do I organize an event?</summary>
+                <p>If you're interested in organizing an event, please email us at <a href="mailto:organize@html.energy">organize@html.energy</a>.</p>
+            </details>
+    
+            <details>
+                <summary>How can I help?</summary>
+                <div>
+                    <p>There are several ways you can help us make HTML Day possible this year:</p>
+                    <ul>
+                        <li>Organize an event in your city</li>
+                        <li>If you have the means, please consider donating to help us cover the costs of HTML Day</li>
+                        <li>If you work at a company that might be interested in sponsoring HTML Day, talk with your company about possibly becoming a sponsor of HTML Day.</li>
+                        <li>Spread the word about HTML Day to your friends and family.</li>
+                        <li>Attend an event in your city (or in another city).</li>
+                    </ul>
+                </div>
+            </details>
+        </div>
+
+        <br>
+
+        <p>Here are some photos taken at previous HTML Days...</p>
+
+        <div id="photos">
+            <img src="https://d2w9rnfcy7mm78.cloudfront.net/22116492/original_c7e3fb2a3e4e3a31f3921a961b28ee8b.png?1685912191?bc=0" alt="" style="transform: rotate(2deg)">
+            <img src="https://d2w9rnfcy7mm78.cloudfront.net/22111543/original_844a0c216a252d47b9d7052f0b3aa554.jpg?1685861357?bc=0" alt="" style="transform: rotate(-7deg); pointer-events: auto;">
+            <img src="https://d2w9rnfcy7mm78.cloudfront.net/22262259/original_0e463fe9f8285a11877249b3380ee0f1.jpg?1686784451?bc=0" alt="HTML day June 3, 2023 in Toronto">
+            <img src="https://d2w9rnfcy7mm78.cloudfront.net/22637193/original_77eaaafb0401642743bb0bbf7832d6b4.jpg?1689193781?bc=0" alt="" style="transform: rotate(3deg)">
+            <img src="../images/freewrite-prospect-1.jpg" alt="" style="transform: rotate(-10deg)">
+            <img src="../images/freewrite-prospect-3.jpg" alt="" style="transform: rotate(22deg)">
+            <img src="../images/freewrite-prospect-2.jpg" alt="" style="transform: rotate(10deg)">
+            <img src="../images/freewrite-prospect-5.jpg" alt="" style="transform: rotate(7deg)">
+            <img src="https://d2w9rnfcy7mm78.cloudfront.net/22593772/original_9445e76d24c21104546629869aee70ed.jpg?1688947753?bc=0" alt="" style="transform: rotate(-3deg)">
+            <img src="https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyODY2NDg5Ni9vcmlnaW5hbF8xYTI5MmIxZDVhNWM4NmE4MDlhODFlNTVhMDRjYTY2MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo2NX0sImpwZWciOnsicXVhbGl0eSI6NjV9LCJyb3RhdGUiOm51bGx9fQ==?bc=0" alt="" style="transform: rotate(-3deg)">
+            <img src="https://html.energy/freewrites/2023-06-08-yaras-class-at-het-park/images/yaras-class-at-het-park-9.jpg" alt="" style="transform: rotate(4deg)">
+            <img src="https://html.energy/freewrites/2023-06-08-yaras-class-at-het-park/images/yaras-class-at-het-park-4.jpg" alt="" style="transform: rotate(4deg)">
+            <img src="https://d2w9rnfcy7mm78.cloudfront.net/22111040/original_3d5cb9fab67ad1945a2b29dfb2062567.jpg?1685848907?bc=0" alt="" style="transform: rotate(4deg)">
+            <img src="https://d2w9rnfcy7mm78.cloudfront.net/22595115/original_569f17680cabc94a7555a7d764e94232.jpg?1688960301?bc=0" alt="" style="transform: rotate(-2deg)">
+            <img src="https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyODY2NDkwMy9vcmlnaW5hbF9iN2Y1N2NhZTIzMmUyNDU4ZGE2MjVjYWRlNDM3MzgxNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo2NX0sImpwZWciOnsicXVhbGl0eSI6NjV9LCJyb3RhdGUiOm51bGx9fQ==?bc=0" alt="" style="transform: rotate(3deg)">
+            <img src="../images/freewrite-prospect-4.jpg" alt="" style="transform: rotate(-5deg)">
+        </div>
+
+        <br><br>
+
+        <p class="star-break" style="color: #4d35ff;">&#x273A;</p>
+
+        <br>
+
+        <p>Here are some HTML memes for your enjoyment...</p>
+
+        <div id="memes">
+            <video src="https://attachments.are.na/37494514/124bcdac22b24469a1071b3b41513593.mp4?1750171725" poster="../images/star.png" controls playsinline></video>
+            <img src="https://d2w9rnfcy7mm78.cloudfront.net/37052147/original_b6ca146e7fe93703a29a2297d5fa438e.jpg?1748533400?bc=0" alt="">
+            <img src="https://d2w9rnfcy7mm78.cloudfront.net/37051943/original_e4bb8a050fdc6e2108571c82a1b5b637.jpg?1748533013?bc=0" alt="">
+            <img src="https://d2w9rnfcy7mm78.cloudfront.net/18188138/original_5897bac797656274022c67d75cc8a511.png?1663946755?bc=0" alt="">
+            <img src="https://d2w9rnfcy7mm78.cloudfront.net/37052087/original_eb6ad9edaae2ffa8db89982ec846f042.jpg?1748533299?bc=0" alt="">
+        </div>
+
+        <br><br>
+
+        <p class="star-break" style="color: #fde42a;">&#x273A;</p>
+
+        <br>
+
+        <h2 id="join" class="section-title">Sponsors</h2>
+
+        <p>HTML Day is made possible by the generous support of our sponsors. If you're interested in sponsoring HTML Day, please email us at <a href="mailto:sponsor@html.energy">sponsor@html.energy</a>.</p>
+
+        <div id="sponsors">
+            <div class="sponsor">
+                <img src="images/bear-logo.svg" alt="Bear Blog">
+                <p>Bear Blog is an HTML-native blogging platform for people who want to write without all the cruft.</p>
+                <p><a href="https://bearblog.dev/">https://bearblog.dev</a></p>
+            </div>
+        </div>
+
+        <br><br>
+
+        <p><span style="color: #70F202;">✺</span></p>
+
+        <br>
+
+        <p style="text-align: center;">
+            <a href="https://html.energy/index.html">return to our index.html</a>
+        </p>
+    </main>
+
+    <script>
+        // Animate ticker by cycling characters
+        function animateTicker() {
+            const tickerText = document.getElementById('ticker-text');
+            let text = tickerText.textContent;
+            
+            function moveChar() {
+                // Convert to array to properly handle Unicode characters
+                const chars = [...text];
+                // Move first character to the end
+                text = chars.slice(1).join('') + chars[0];
+                tickerText.textContent = text;
+            }
+            
+            // Start immediately using requestAnimationFrame to ensure element is ready
+            requestAnimationFrame(() => {
+                moveChar();
+                // Then continue with interval
+                setInterval(moveChar, 200); // Adjust speed by changing this value (milliseconds)
+            });
+        }
+        
+        // Start animation immediately
+        animateTicker();
+    </script>
+    
+</body>
+</html>
