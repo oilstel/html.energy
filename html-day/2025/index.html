@@ -52,6 +52,8 @@
             margin: 0 auto;
             padding: 20px;
         }
+
+        /* Menu */
         menu {
             display: flex;
             flex-flow: row wrap;
@@ -61,9 +63,21 @@
             list-style: none;
             padding: 0;
         }
-        p, menu li {
-
+        menu li {
+            position: relative;
         }
+        menu li:hover:after {
+            position: absolute;
+            display: block;
+            content: "✺";
+            font-size: 1rem;
+            color: var(--hover-color);
+            top: 0;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            filter: blur(1.5px);
+        }
+
         p, li {
             font-size: 1rem;
             line-height: 1.5rem;
@@ -234,11 +248,11 @@
         <p style="margin-top: 0;">An annual celebration of HTML</p>
 
         <menu>
-            <li><a href="#events">Events</a></li>
-            <li><a href="#photos">Photos</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#organize">Organize</a></li>
-            <li><a href="#sponsors">Sponsors</a></li>
+            <li style="--hover-color: magenta;"><a href="#events">Events</a></li>
+            <li style="--hover-color: orange;"><a href="#photos">Photos</a></li>
+            <li style="--hover-color: green;"><a href="#about">About</a></li>
+            <li style="--hover-color: blue;"><a href="#organize">Organize</a></li>
+            <li style="--hover-color: gold;"><a href="#sponsors">Sponsors</a></li>
         </menu>
 
         <br>
