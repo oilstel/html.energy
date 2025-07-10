@@ -111,6 +111,9 @@
             justify-content: center;
             gap: 60px;
         }
+        #events-list a {
+            word-break: break-all;
+        }
 
         /* Section titles */
         h2.section-title {
@@ -213,6 +216,12 @@
         @media (max-width: 600px) {
             html {
                 font-size: 20px !important;
+            }
+            menu {
+                gap: .5rem;
+            }
+            menu li {
+                font-size: 1.4rem;
             }
             #star {
                 filter: blur(150px);
