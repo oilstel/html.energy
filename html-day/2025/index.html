@@ -203,6 +203,7 @@
             display: flex;
             justify-content: center;
             text-align: center;
+            gap: 20px;
         }
         #sponsors .sponsor {
             display: flex;
@@ -210,10 +211,12 @@
             justify-content: center;
             align-items: center;
             text-align: center;
+            flex: 1;
         }
         #sponsors .sponsor img {
-            max-width: 500px;
+            max-width: 400px;
             width: 100%;
+            aspect-ratio: 1/1;
         }
 
         @media (max-width: 600px) {
@@ -243,6 +246,9 @@
             #photos img {
                 max-height: 100px;
                 padding: 0;
+            }
+            #sponsors {
+                gap: 30px;
             }
         }
         #return-to-html-energy {
@@ -569,6 +575,11 @@
                 <img src="images/bear-logo.svg" alt="Bear Blog">
                 <p>Bear Blog is an HTML-native blogging platform for people who want to write without all the cruft.</p>
                 <p><a href="https://bearblog.dev/">https://bearblog.dev</a></p>
+            </div>
+            <div class="sponsor">
+                <img src="images/t4t-logo.svg" alt="t4t">
+                <p>t4t is a focused social network for trans and gender-non-comforming people.</p>
+                <p><a href="https://t4t.social/">https://t4t.social</a></p>
             </div>
         </div>
 
