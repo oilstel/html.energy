@@ -94,7 +94,6 @@ Washington Monument (14TH ST NW + MADISON DR NW)
 Organized by Nadia Ford
 More info: https://html-day-dc-2025.vercel.app/
 
-
 🍀🏙️ Tokyo
 Saturday, August 2, 1:30 pm - 4:30 pm (JST)
 Taito Kumin Kaikan (9th floor)
@@ -112,3 +111,57 @@ Saturday, August 2, 2:30pm - 4:30pm
 Hijas del Arte
 Organized by Juan & Polbac
 More info: https://energiahtml.com/
+
+🏊‍♀️🌳 Copenhagen
+Saturday, August 2, 16:00-19:00
+SUPeR bookstore
+Organized by Hanna S.
+More info: https://supertimebooks.com/events/linocut-workshop-w-fausto-hemyp
+
+🌏❇️ Online
+Saturday, August 2
+6-7pm AEST & 6-7pm CET
+Organized by Zachary Kai
+More info: https://lunaseeker.com/events/htmlday25
+
+🌌🏄🏻‍♀️ Shanghai
+Friday, August 1, 4:30pm - 7:00pm
+Zhongshan Park (中山公园)
+Organized by [[rect*]]repair, shengli, & yufeng
+More info: https://html-energy-shanghai-2025.yufeng.place/
+
+🌵❇️ Albuquerque
+Saturday, August 2, 3-7pm
+Zendo Coffee, 413 2nd St SW
+Organized by Alex & catherine
+More info: https://cath.land/html-day-abq-2025/
+
+🚣🍒 Minneapolis
+Saturday, August 2, 1-4pm
+W 31st St & Bde Maka Ska Parkway (Rain location: Queermunity, 3036 Hennepin Ave)
+Organized by Forest Johnson
+More info: https://queercoded.xyz/2025-08-02/html-day.html
+
+🌊🌉 Lisbon
+Saturday, August 2, 14:00-17:00
+Parque Eduardo VII
+Organized by Djordje Vlaisavljevic
+More info: https://djordje.work/html-day
+
+🟣🌲 Portland, OR
+Saturday, August 2, 1pm PST
+Virtua Gallery, Lloyd Center
+Organized by reed
+More info: https://the-sudo.net/pages/events/html-day
+
+🚢🦆 Halifax
+Saturday, August 2, 12-2pm
+Sullivan's Pond, Dartmouth, NS
+Organized by Katherine
+More info: https://kdrae.neocities.org/HTMLDay2025
+
+🧱🌳 Philadelphia
+Saturday, August 2, 1-3pm
+Washington Square (Rain location: Independence Library)
+Organized by ragman & pixel
+More info: https://htmldayphilly.neocities.org/
